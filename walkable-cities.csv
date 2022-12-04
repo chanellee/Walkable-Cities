@@ -1,1 +1,889 @@
-﻿
+city,state,pop_estimate_2021,state_code,city_state,city_state_code,land_area_sqkm,pop_per_km2
+Auburn,Alabama,78564,AL,"Auburn, Alabama","Auburn, AL",157.084761,500.13762951837197
+Birmingham,Alabama,197575,AL,"Birmingham, Alabama","Birmingham, AL",380.801025,518.8405152008191
+Decatur,Alabama,57804,AL,"Decatur, Alabama","Decatur, AL",140.78562399999998,410.5816940513756
+Dothan,Alabama,71175,AL,"Dothan, Alabama","Dothan, AL",232.65056199999998,305.93091797474364
+Hoover,Alabama,92589,AL,"Hoover, Alabama","Hoover, AL",124.49062599999999,743.7427457389443
+Huntsville,Alabama,216963,AL,"Huntsville, Alabama","Huntsville, AL",564.925108,384.05621723578975
+Madison,Alabama,58357,AL,"Madison, Alabama","Madison, AL",78.636371,742.1120692357484
+Mobile,Alabama,184952,AL,"Mobile, Alabama","Mobile, AL",361.255557,511.9699791912128
+Montgomery,Alabama,198665,AL,"Montgomery, Alabama","Montgomery, AL",414.027223,479.83559767034933
+Tuscaloosa,Alabama,100618,AL,"Tuscaloosa, Alabama","Tuscaloosa, AL",160.313457,627.6329004619993
+Dothan,Alabama,69639,AL,"Dothan, Alabama","Dothan, AL",232.65056199999998,299.3287417891559
+Birmingham,Alabama,195669,AL,"Birmingham, Alabama","Birmingham, AL",380.801025,513.835276572588
+Hoover,Alabama,65721,AL,"Hoover, Alabama","Hoover, AL",124.49062599999999,527.9192667888103
+Huntsville,Alabama,212359,AL,"Huntsville, Alabama","Huntsville, AL",564.925108,375.9064644016495
+Decatur,Alabama,57745,AL,"Decatur, Alabama","Decatur, AL",140.78562399999998,410.1626171717647
+Avondale,Arizona,90564,AZ,"Avondale, Arizona","Avondale, AZ",122.44797799999999,739.6120497800299
+Buckeye,Arizona,101315,AZ,"Buckeye, Arizona","Buckeye, AZ",1017.815349,99.54163110189057
+Casa Grande,Arizona,57699,AZ,"Casa Grande, Arizona","Casa Grande, AZ",287.148663,200.93772820387466
+Chandler,Arizona,279458,AZ,"Chandler, Arizona","Chandler, AZ",169.12774,1652.348692177877
+Flagstaff,Arizona,76989,AZ,"Flagstaff, Arizona","Flagstaff, AZ",171.026521,450.1582535260715
+Glendale,Arizona,249630,AZ,"Glendale, Arizona","Glendale, AZ",159.532413,1564.7603850886403
+Goodyear,Arizona,101733,AZ,"Goodyear, Arizona","Goodyear, AZ",495.463332,205.32901918158498
+Lake Havasu,Arizona,58284,AZ,"Lake Havasu, Arizona","Lake Havasu, AZ",120.01653599999999,485.6330797616089
+Maricopa,Arizona,62720,AZ,"Maricopa, Arizona","Maricopa, AZ",109.95982099999999,570.3901609661588
+Mesa,Arizona,509475,AZ,"Mesa, Arizona","Mesa, AZ",359.242849,1418.191068849919
+Peoria,Arizona,194917,AZ,"Peoria, Arizona","Peoria, AZ",456.049509,427.4031572304576
+Phoenix,Arizona,1624569,AZ,"Phoenix, Arizona","Phoenix, AZ",1341.60162,1210.917589679118
+Scottsdale,Arizona,242753,AZ,"Scottsdale, Arizona","Scottsdale, AZ",476.565025,509.38064537992483
+Surprise,Arizona,149191,AZ,"Surprise, Arizona","Surprise, AZ",285.680055,522.2310671985834
+Tempe,Arizona,184118,AZ,"Tempe, Arizona","Tempe, AZ",103.448358,1779.8059201674328
+Tucson,Arizona,543242,AZ,"Tucson, Arizona","Tucson, AZ",624.169229,870.3440906087988
+Yuma,Arizona,97093,AZ,"Yuma, Arizona","Yuma, AZ",312.53569,310.6621199006104
+Bentonville,Arkansas,56734,AR,"Bentonville, Arkansas","Bentonville, AR",87.65191899999999,647.264779222917
+Conway,Arkansas,65121,AR,"Conway, Arkansas","Conway, AR",119.424506,545.2900931405151
+Fayetteville,Arkansas,95230,AR,"Fayetteville, Arkansas","Fayetteville, AR",140.213588,679.1781121812531
+Fort Smith,Arkansas,89576,AR,"Fort Smith, Arkansas","Fort Smith, AR",165.743431,540.4497750502101
+Jonesboro,Arkansas,79324,AR,"Jonesboro, Arkansas","Jonesboro, AR",207.660464,381.9889374801744
+Little Rock,Arkansas,201998,AR,"Little Rock, Arkansas","Little Rock, AR",310.916999,649.6846446147514
+North Little Rock,Arkansas,64162,AR,"North Little Rock, Arkansas","North Little Rock, AR",135.546084,473.3593041315749
+Rogers,Arkansas,71112,AR,"Rogers, Arkansas","Rogers, AR",100.73622999999999,705.9227846823333
+Springdale,Arkansas,87609,AR,"Springdale, Arkansas","Springdale, AR",121.77092599999999,719.4574507875551
+Springdale,Arkansas,75503,AR,"Springdale, Arkansas","Springdale, AR",121.77092599999999,620.0412732346308
+Alameda,California,76362,CA,"Alameda, California","Alameda, CA",27.061951999999998,2821.747669938961
+Alhambra,California,81211,CA,"Alhambra, California","Alhambra, CA",19.764463,4108.940374448828
+Aliso Viejo,California,51824,CA,"Aliso Viejo, California","Aliso Viejo, CA",17.937313,2889.1729770228126
+Anaheim,California,345940,CA,"Anaheim, California","Anaheim, CA",130.20649799999998,2656.8566493509416
+Antioch,California,114794,CA,"Antioch, California","Antioch, CA",75.552859,1519.386579401317
+Arcadia,California,55345,CA,"Arcadia, California","Arcadia, CA",28.300749,1955.6019524430255
+Bakersfield,California,407615,CA,"Bakersfield, California","Bakersfield, CA",387.91657499999997,1050.7800549641377
+Baldwin Park,California,70629,CA,"Baldwin Park, California","Baldwin Park, CA",17.176937,4111.850675123277
+Beaumont,California,55280,CA,"Beaumont, California","Beaumont, CA",78.52180299999999,704.0082867175122
+Bellflower,California,77408,CA,"Bellflower, California","Bellflower, CA",15.843604,4885.757053761253
+Berkeley,California,117145,CA,"Berkeley, California","Berkeley, CA",27.018309,4335.763574248855
+Brentwood,California,64870,CA,"Brentwood, California","Brentwood, CA",38.501266,1684.8796608402436
+Buena Park,California,83011,CA,"Buena Park, California","Buena Park, CA",27.271037,3043.9253190115214
+Burbank,California,105401,CA,"Burbank, California","Burbank, CA",44.848115,2350.176813451357
+Camarillo,California,70858,CA,"Camarillo, California","Camarillo, CA",50.986168,1389.7494708761012
+Carlsbad,California,115302,CA,"Carlsbad, California","Carlsbad, CA",97.832258,1178.568320481778
+Carson,California,93535,CA,"Carson, California","Carson, CA",48.512253,1928.0695951185776
+Cathedral,California,52220,CA,"Cathedral, California","Cathedral, CA",58.259919999999994,896.3280416450967
+Chico,California,102338,CA,"Chico, California","Chico, CA",88.423543,1157.3614506715705
+Chino,California,92975,CA,"Chino, California","Chino, CA",76.677037,1212.5533750084787
+Chino Hills,California,78665,CA,"Chino Hills, California","Chino Hills, CA",115.642342,680.2439196535815
+Chula Vista,California,277220,CA,"Chula Vista, California","Chula Vista, CA",128.56072899999998,2156.3350033586075
+Citrus Heights,California,87402,CA,"Citrus Heights, California","Citrus Heights, CA",36.820409,2373.7378908528694
+Clovis,California,122989,CA,"Clovis, California","Clovis, CA",65.823951,1868.4536271607278
+Colton,California,54285,CA,"Colton, California","Colton, CA",40.273862,1347.8965588152435
+Compton,California,93597,CA,"Compton, California","Compton, CA",25.974517,3603.4163792150594
+Concord,California,124074,CA,"Concord, California","Concord, CA",79.13063,1567.9642636486024
+Corona,California,159743,CA,"Corona, California","Corona, CA",103.44584499999999,1544.2186198972033
+Costa Mesa,California,110750,CA,"Costa Mesa, California","Costa Mesa, CA",40.937895999999995,2705.317342151634
+Covina,California,50411,CA,"Covina, California","Covina, CA",18.222856,2766.36110168461
+Cupertino,California,58622,CA,"Cupertino, California","Cupertino, CA",29.338790999999997,1998.105511573398
+Daly,California,101243,CA,"Daly, California","Daly, CA",19.783516,5117.543312321228
+Davis,California,66799,CA,"Davis, California","Davis, CA",25.826324,2586.4695262089954
+Delano,California,52173,CA,"Delano, California","Delano, CA",38.114812,1368.8379205438557
+Diamond Bar,California,53857,CA,"Diamond Bar, California","Diamond Bar, CA",38.514313,1398.3632526432446
+Downey,California,111645,CA,"Downey, California","Downey, CA",32.138031,3473.9215977481635
+Dublin,California,71674,CA,"Dublin, California","Dublin, CA",39.442772999999995,1817.1643256421146
+Eastvale,California,71375,CA,"Eastvale, California","Eastvale, CA",32.823713,2174.4950060951364
+El Cajon,California,105432,CA,"El Cajon, California","El Cajon, CA",37.579662,2805.560092584122
+Elk Grove,California,178997,CA,"Elk Grove, California","Elk Grove, CA",108.76053499999999,1645.7899917465468
+El Monte,California,106907,CA,"El Monte, California","El Monte, CA",24.752903999999997,4318.96798856409
+Encinitas,California,61762,CA,"Encinitas, California","Encinitas, CA",49.353552,1251.41955334846
+Escondido,California,150665,CA,"Escondido, California","Escondido, CA",96.72312099999999,1557.6937390182025
+Fairfield,California,119705,CA,"Fairfield, California","Fairfield, CA",107.719392,1111.2669481090277
+Folsom,California,81224,CA,"Folsom, California","Folsom, CA",72.210787,1124.818096775486
+Fontana,California,210761,CA,"Fontana, California","Fontana, CA",111.55212399999999,1889.3499508803616
+Fountain Valley,California,56495,CA,"Fountain Valley, California","Fountain Valley, CA",23.495175999999997,2404.5361481863342
+Fremont,California,227514,CA,"Fremont, California","Fremont, CA",202.832449,1121.6844302856098
+Fresno,California,544510,CA,"Fresno, California","Fresno, CA",298.304405,1825.3501821402874
+Fullerton,California,141874,CA,"Fullerton, California","Fullerton, CA",58.065841,2443.32980555642
+Gardena,California,59702,CA,"Gardena, California","Gardena, CA",15.097437,3954.4460427289746
+Garden Grove,California,170488,CA,"Garden Grove, California","Garden Grove, CA",46.506034,3665.9328980837195
+Gilroy,California,58101,CA,"Gilroy, California","Gilroy, CA",42.826753,1356.6519974091896
+Glendale,California,192366,CA,"Glendale, California","Glendale, CA",78.94037399999999,2436.851895330519
+Glendora,California,51569,CA,"Glendora, California","Glendora, CA",50.531741999999994,1020.5268601268488
+Hanford,California,58496,CA,"Hanford, California","Hanford, CA",45.073544999999996,1297.7900895081584
+Hawthorne,California,86091,CA,"Hawthorne, California","Hawthorne, CA",15.766235,5460.466623769086
+Hayward,California,159827,CA,"Hayward, California","Hayward, CA",118.66908199999999,1346.829328299683
+Hemet,California,90436,CA,"Hemet, California","Hemet, CA",75.840173,1192.4550857762417
+Hesperia,California,100971,CA,"Hesperia, California","Hesperia, CA",188.241904,536.3896021791195
+Highland,California,57159,CA,"Highland, California","Highland, CA",48.099959,1188.3378112650782
+Huntington Beach,California,196652,CA,"Huntington Beach, California","Huntington Beach, CA",69.92237399999999,2812.4331133265014
+Huntington Park,California,53644,CA,"Huntington Park, California","Huntington Park, CA",7.790286,6886.011630381734
+Indio,California,90416,CA,"Indio, California","Indio, CA",86.05704999999999,1050.6518640831869
+Inglewood,California,105181,CA,"Inglewood, California","Inglewood, CA",23.484484,4478.7443488219715
+Irvine,California,309031,CA,"Irvine, California","Irvine, CA",169.930356,1818.5744282204648
+Jurupa Valley,California,106941,CA,"Jurupa Valley, California","Jurupa Valley, CA",111.216608,961.5560294735837
+Laguna Niguel,California,64239,CA,"Laguna Niguel, California","Laguna Niguel, CA",38.165701999999996,1683.1604459941548
+La Habra,California,62609,CA,"La Habra, California","La Habra, CA",19.577662,3197.981454578182
+Lake Elsinore,California,71563,CA,"Lake Elsinore, California","Lake Elsinore, CA",99.033141,722.6166844490976
+Lake Forest,California,85742,CA,"Lake Forest, California","Lake Forest, CA",43.288926,1980.6913204545663
+Lakewood,California,80611,CA,"Lakewood, California","Lakewood, CA",24.349964,3310.5182414232727
+La Mesa,California,60721,CA,"La Mesa, California","La Mesa, CA",23.546768999999998,2578.740208476161
+Lancaster,California,170150,CA,"Lancaster, California","Lancaster, CA",244.160144,696.8786846718111
+Lincoln,California,50649,CA,"Lincoln, California","Lincoln, CA",62.599874,809.0910853910026
+Livermore,California,86803,CA,"Livermore, California","Livermore, CA",68.494311,1267.3023311381291
+Lodi,California,67021,CA,"Lodi, California","Lodi, CA",35.327014,1897.1600600039392
+Long Beach,California,456062,CA,"Long Beach, California","Long Beach, CA",131.345808,3472.2234911372275
+Los Angeles,California,3849297,CA,"Los Angeles, California","Los Angeles, CA",1215.978552,3165.596131337027
+Lynwood,California,65505,CA,"Lynwood, California","Lynwood, CA",12.537268,5224.822505190126
+Madera,California,67944,CA,"Madera, California","Madera, CA",42.668924,1592.353254560626
+Manteca,California,85792,CA,"Manteca, California","Manteca, CA",55.396449,1548.6913249620027
+Menifee,California,106401,CA,"Menifee, California","Menifee, CA",120.36947099999999,883.9533738583931
+Merced,California,89308,CA,"Merced, California","Merced, CA",60.228128999999996,1482.8287294131287
+Milpitas,California,79066,CA,"Milpitas, California","Milpitas, CA",34.919472999999996,2264.2380656775663
+Mission Viejo,California,92449,CA,"Mission Viejo, California","Mission Viejo, CA",45.737612,2021.2904862632531
+Modesto,California,218771,CA,"Modesto, California","Modesto, CA",111.485793,1962.321782112632
+Montebello,California,61204,CA,"Montebello, California","Montebello, CA",21.569294,2837.55230931527
+Monterey Park,California,59667,CA,"Monterey Park, California","Monterey Park, CA",19.870659999999997,3002.7689065184554
+Moreno Valley,California,211600,CA,"Moreno Valley, California","Moreno Valley, CA",132.93698799999999,1591.7315653337957
+Mountain View,California,81516,CA,"Mountain View, California","Mountain View, CA",30.971479,2631.9698842925777
+Murrieta,California,112991,CA,"Murrieta, California","Murrieta, CA",87.05476499999999,1297.930101815794
+Napa,California,78818,CA,"Napa, California","Napa, CA",46.740283999999996,1686.2969852729182
+National,California,55912,CA,"National, California","National, CA",18.893262999999997,2959.3617576805027
+Newport Beach,California,84792,CA,"Newport Beach, California","Newport Beach, CA",61.626135999999995,1375.9097276519171
+Norwalk,California,100373,CA,"Norwalk, California","Norwalk, CA",25.141966,3992.2494525686657
+Novato,California,52708,CA,"Novato, California","Novato, CA",71.159604,740.7011427438522
+Oakland,California,433823,CA,"Oakland, California","Oakland, CA",144.861286,2994.747678824279
+Oceanside,California,172982,CA,"Oceanside, California","Oceanside, CA",106.88969,1618.322590326532
+Ontario,California,177963,CA,"Ontario, California","Ontario, CA",129.42515799999998,1375.0263298886607
+Orange,California,137264,CA,"Orange, California","Orange, CA",66.478667,2064.7826768247323
+Oxnard,California,201879,CA,"Oxnard, California","Oxnard, CA",68.707177,2938.2519965854513
+Palmdale,California,165761,CA,"Palmdale, California","Palmdale, CA",274.705334,603.413838334861
+Palm Desert,California,51541,CA,"Palm Desert, California","Palm Desert, CA",69.443541,742.200055725845
+Palo Alto,California,66680,CA,"Palo Alto, California","Palo Alto, CA",62.408629999999995,1068.4419766945693
+Paramount,California,52506,CA,"Paramount, California","Paramount, CA",12.242009999999999,4289.001561018166
+Pasadena,California,135732,CA,"Pasadena, California","Pasadena, CA",59.470461,2282.3431619270614
+Perris,California,79835,CA,"Perris, California","Perris, CA",81.67264999999999,977.4998117484863
+Petaluma,California,59403,CA,"Petaluma, California","Petaluma, CA",37.333943,1591.125802061679
+Pico Rivera,California,60764,CA,"Pico Rivera, California","Pico Rivera, CA",21.536859,2821.3956361974606
+Pittsburg,California,76544,CA,"Pittsburg, California","Pittsburg, CA",45.780276,1671.9864248961715
+Placentia,California,51274,CA,"Placentia, California","Placentia, CA",17.124978,2994.106036223813
+Pleasanton,California,78252,CA,"Pleasanton, California","Pleasanton, CA",62.524282,1251.545759453903
+Pomona,California,148338,CA,"Pomona, California","Pomona, CA",59.530485,2491.7989497313856
+Porterville,California,62742,CA,"Porterville, California","Porterville, CA",48.294868,1299.1442486187145
+Rancho Cordova,California,80413,CA,"Rancho Cordova, California","Rancho Cordova, CA",89.53386599999999,898.1294295948308
+Rancho Cucamonga,California,175142,CA,"Rancho Cucamonga, California","Rancho Cucamonga, CA",103.88561399999999,1685.9119685233802
+Redding,California,93462,CA,"Redding, California","Redding, CA",154.48229,605.001388832338
+Redlands,California,73288,CA,"Redlands, California","Redlands, CA",93.218621,786.1948526357196
+Redondo Beach,California,69781,CA,"Redondo Beach, California","Redondo Beach, CA",16.070262,4342.244077912358
+Redwood,California,81643,CA,"Redwood, California","Redwood, CA",50.080819,1630.2249370163056
+Rialto,California,104394,CA,"Rialto, California","Rialto, CA",62.393480999999994,1673.1555657232846
+Richmond,California,115639,CA,"Richmond, California","Richmond, CA",77.840004,1485.5985875848621
+Riverside,California,317261,CA,"Riverside, California","Riverside, CA",210.387809,1507.9818622000098
+Rocklin,California,72975,CA,"Rocklin, California","Rocklin, CA",51.307151,1422.3163550827448
+Rosemead,California,50245,CA,"Rosemead, California","Rosemead, CA",13.368558,3758.445750095111
+Roseville,California,151901,CA,"Roseville, California","Roseville, CA",114.16228199999999,1330.570809718047
+Sacramento,California,525041,CA,"Sacramento, California","Sacramento, CA",255.399993,2055.7596491398494
+Salinas,California,162791,CA,"Salinas, California","Salinas, CA",60.903234,2672.945085313532
+San Bernardino,California,222203,CA,"San Bernardino, California","San Bernardino, CA",160.920195,1380.8273100837343
+San Buenaventura (Ventura),California,109925,CA,"San Buenaventura (Ventura), California","San Buenaventura (Ventura), CA",56.681176,1939.3563746807229
+San Clemente,California,63896,CA,"San Clemente, California","San Clemente, CA",47.542789,1343.968272454525
+San Diego,California,1381611,CA,"San Diego, California","San Diego, CA",844.0365459999999,1636.9089781095806
+San Francisco,California,815201,CA,"San Francisco, California","San Francisco, CA",121.507089,6709.081805095339
+San Jacinto,California,55290,CA,"San Jacinto, California","San Jacinto, CA",67.229022,822.4126776676894
+San Jose,California,983489,CA,"San Jose, California","San Jose, CA",461.691712,2130.185520852495
+San Leandro,California,88868,CA,"San Leandro, California","San Leandro, CA",34.505967,2575.4386190655086
+San Marcos,California,94926,CA,"San Marcos, California","San Marcos, CA",63.07863,1504.8836666237046
+San Mateo,California,102200,CA,"San Mateo, California","San Mateo, CA",31.42684,3251.9973373078556
+San Rafael,California,60769,CA,"San Rafael, California","San Rafael, CA",42.960192,1414.5420951563717
+San Ramon,California,86947,CA,"San Ramon, California","San Ramon, CA",48.392897,1796.6892951252744
+Santa Ana,California,309441,CA,"Santa Ana, California","Santa Ana, CA",70.807071,4370.199128841243
+Santa Barbara,California,88255,CA,"Santa Barbara, California","Santa Barbara, CA",50.52352,1746.8101984976504
+Santa Clara,California,127151,CA,"Santa Clara, California","Santa Clara, CA",47.336092,2686.1321800709698
+Santa Clarita,California,224593,CA,"Santa Clarita, California","Santa Clarita, CA",183.24969199999998,1225.611882610968
+Santa Cruz,California,61950,CA,"Santa Cruz, California","Santa Cruz, CA",32.996598999999996,1877.4662200792272
+Santa Maria,California,109711,CA,"Santa Maria, California","Santa Maria, CA",59.078450999999994,1857.0392104559412
+Santa Monica,California,91105,CA,"Santa Monica, California","Santa Monica, CA",21.782142,4182.554681720466
+Santa Rosa,California,176938,CA,"Santa Rosa, California","Santa Rosa, CA",110.14587399999999,1606.396985873479
+Santee,California,59703,CA,"Santee, California","Santee, CA",42.831662,1393.898747146445
+Simi Valley,California,125975,CA,"Simi Valley, California","Simi Valley, CA",107.60113899999999,1170.7589823933
+South Gate,California,91154,CA,"South Gate, California","South Gate, CA",18.743139,4863.3262550099
+South San Francisco,California,64251,CA,"South San Francisco, California","South San Francisco, CA",23.83562,2695.5875282455418
+Stockton,California,322120,CA,"Stockton, California","Stockton, CA",161.115474,1999.31137588932
+Sunnyvale,California,152258,CA,"Sunnyvale, California","Sunnyvale, CA",57.135715999999995,2664.8480260578167
+Temecula,California,110846,CA,"Temecula, California","Temecula, CA",96.522049,1148.4008177240416
+Thousand Oaks,California,125754,CA,"Thousand Oaks, California","Thousand Oaks, CA",143.11408,878.6976096272289
+Torrance,California,143600,CA,"Torrance, California","Torrance, CA",53.141224,2702.2335804685267
+Tracy,California,95387,CA,"Tracy, California","Tracy, CA",67.05256,1422.5705923830499
+Tulare,California,70733,CA,"Tulare, California","Tulare, CA",52.798082,1339.6888167263348
+Turlock,California,72682,CA,"Turlock, California","Turlock, CA",43.783169,1660.044296930631
+Tustin,California,79430,CA,"Tustin, California","Tustin, CA",28.906972,2747.7800165302683
+Union,California,68681,CA,"Union, California","Union, CA",49.682930999999996,1382.3862364319853
+Upland,California,79274,CA,"Upland, California","Upland, CA",40.363417999999996,1964.0061205916707
+Vacaville,California,103078,CA,"Vacaville, California","Vacaville, CA",77.36327299999999,1332.3893367334654
+Vallejo,California,124886,CA,"Vallejo, California","Vallejo, CA",78.78815,1585.086082107525
+Victorville,California,135950,CA,"Victorville, California","Victorville, CA",190.908178,712.1224529207964
+Visalia,California,142978,CA,"Visalia, California","Visalia, CA",98.25037999999999,1455.2411909246562
+Vista,California,98655,CA,"Vista, California","Vista, CA",48.556163999999995,2031.770878770407
+Walnut Creek,California,69695,CA,"Walnut Creek, California","Walnut Creek, CA",51.179061,1361.7873919179565
+Watsonville,California,52067,CA,"Watsonville, California","Watsonville, CA",17.370216,2997.487193020513
+West Covina,California,107017,CA,"West Covina, California","West Covina, CA",41.535627,2576.5110034332697
+Westminster,California,90195,CA,"Westminster, California","Westminster, CA",25.999277,3469.134930175174
+West Sacramento,California,53637,CA,"West Sacramento, California","West Sacramento, CA",55.606617,964.5794492407261
+Whittier,California,85311,CA,"Whittier, California","Whittier, CA",37.939344999999996,2248.6155203786466
+Woodland,California,61398,CA,"Woodland, California","Woodland, CA",39.665023,1547.9128803227973
+Yorba Linda,California,67989,CA,"Yorba Linda, California","Yorba Linda, CA",51.679911,1315.5788909930593
+Yuba,California,69536,CA,"Yuba, California","Yuba, CA",38.797488,1792.2809847895307
+Yucaipa,California,54739,CA,"Yucaipa, California","Yucaipa, CA",73.216674,747.6302460830166
+Arvada,Colorado,123436,CO,"Arvada, Colorado","Arvada, CO",100.776151,1224.8532889492872
+Aurora,Colorado,389347,CO,"Aurora, Colorado","Aurora, CO",414.734036,938.7871893880443
+Boulder,Colorado,104175,CO,"Boulder, Colorado","Boulder, CO",68.187535,1527.7719014186391
+Broomfield,Colorado,75325,CO,"Broomfield, Colorado","Broomfield, CO",85.386686,882.163291827487
+Centennial,Colorado,106966,CO,"Centennial, Colorado","Centennial, CO",76.97617699999999,1389.5987585873486
+Colorado Springs,Colorado,483956,CO,"Colorado Springs, Colorado","Colorado Springs, CO",506.08206099999995,956.2796970983725
+Commerce,Colorado,64287,CO,"Commerce, Colorado","Commerce, CO",93.24571399999999,689.436513939933
+Denver,Colorado,711463,CO,"Denver, Colorado","Denver, CO",396.46343199999995,1794.5236371762026
+Fort Collins,Colorado,168538,CO,"Fort Collins, Colorado","Fort Collins, CO",148.179247,1137.3927416435042
+Grand Junction,Colorado,66964,CO,"Grand Junction, Colorado","Grand Junction, CO",102.651883,652.3406881878631
+Greeley,Colorado,109323,CO,"Greeley, Colorado","Greeley, CO",126.73510599999999,862.6102383975598
+Lakewood,Colorado,156605,CO,"Lakewood, Colorado","Lakewood, CO",112.595317,1390.8660162127348
+Longmont,Colorado,100758,CO,"Longmont, Colorado","Longmont, CO",74.535577,1351.810827197326
+Loveland,Colorado,77194,CO,"Loveland, Colorado","Loveland, CO",89.145834,865.929416286576
+Pueblo,Colorado,112368,CO,"Pueblo, Colorado","Pueblo, CO",143.43920799999998,783.3841358075542
+Thornton,Colorado,142610,CO,"Thornton, Colorado","Thornton, CO",93.04250599999999,1532.7403154854837
+Westminster,Colorado,114561,CO,"Westminster, Colorado","Westminster, CO",81.805754,1400.4027149483886
+Westminster,Colorado,70019,CO,"Westminster, Colorado","Westminster, CO",81.805754,855.9177878856786
+Aurora,Colorado,336627,CO,"Aurora, Colorado","Aurora, CO",414.734036,811.6695780425409
+Longmont,Colorado,99463,CO,"Longmont, Colorado","Longmont, CO",74.535577,1334.436573825678
+Arvada,Colorado,120577,CO,"Arvada, Colorado","Arvada, CO",100.776151,1196.483481493553
+Bridgeport,Connecticut,148333,CT,"Bridgeport, Connecticut","Bridgeport, CT",41.606638,3565.1282374701846
+Bristol,Connecticut,60661,CT,"Bristol, Connecticut","Bristol, CT",68.39215899999999,886.9584011816327
+Danbury,Connecticut,86759,CT,"Danbury, Connecticut","Danbury, CT",108.85529299999999,797.012231642241
+Hartford,Connecticut,120576,CT,"Hartford, Connecticut","Hartford, CT",45.012647,2678.713829026762
+Meriden,Connecticut,60517,CT,"Meriden, Connecticut","Meriden, CT",61.466952,984.5453211995936
+Milford (balance),Connecticut,50541,CT,"Milford (balance), Connecticut","Milford (balance), CT",56.732909,890.8586020152783
+New Britain,Connecticut,73841,CT,"New Britain, Connecticut","New Britain, CT",34.694285,2128.333239898156
+New Haven,Connecticut,135081,CT,"New Haven, Connecticut","New Haven, CT",48.407073999999994,2790.521897687929
+Norwalk,Connecticut,91194,CT,"Norwalk, Connecticut","Norwalk, CT",59.275234,1538.484015094736
+Stamford,Connecticut,136309,CT,"Stamford, Connecticut","Stamford, CT",97.42871699999999,1399.0638920145075
+Waterbury,Connecticut,113811,CT,"Waterbury, Connecticut","Waterbury, CT",73.861761,1540.8649680042154
+West Haven,Connecticut,55294,CT,"West Haven, Connecticut","West Haven, CT",27.84263,1985.9474482116093
+Milford,Connecticut,52390,CT,"Milford, Connecticut","Milford, CT",,
+Wilmington,Delaware,70750,DE,"Wilmington, Delaware","Wilmington, DE",28.218287999999998,2507.2392768831337
+Washington,District of Columbia,670050,DC,"Washington, District of Columbia","Washington, DC",158.316124,4232.354753707841
+Apopka,Florida,55496,FL,"Apopka, Florida","Apopka, FL",89.50416,620.038219452593
+Boca Raton,Florida,95787,FL,"Boca Raton, Florida","Boca Raton, FL",75.573116,1267.4745341981136
+Bonita Springs,Florida,54904,FL,"Bonita Springs, Florida","Bonita Springs, FL",99.50275599999999,551.7837113979034
+Boynton Beach,Florida,80089,FL,"Boynton Beach, Florida","Boynton Beach, FL",41.846134,1913.8924518092879
+Bradenton,Florida,55905,FL,"Bradenton, Florida","Bradenton, FL",37.154606,1504.6586686991109
+Cape Coral,Florida,204510,FL,"Cape Coral, Florida","Cape Coral, FL",274.59986599999996,744.7563721680768
+Clearwater,Florida,116674,FL,"Clearwater, Florida","Clearwater, FL",67.555202,1727.0912756651962
+Coconut Creek,Florida,57117,FL,"Coconut Creek, Florida","Coconut Creek, FL",28.924246,1974.710075415622
+Coral Springs,Florida,132822,FL,"Coral Springs, Florida","Coral Springs, FL",59.218761,2242.904068864257
+Daytona Beach,Florida,74437,FL,"Daytona Beach, Florida","Daytona Beach, FL",169.88558,438.159613076048
+Deerfield Beach,Florida,86339,FL,"Deerfield Beach, Florida","Deerfield Beach, FL",38.709086,2230.45824435121
+Delray Beach,Florida,66573,FL,"Delray Beach, Florida","Delray Beach, FL",41.203848,1615.6986114500762
+Deltona,Florida,95782,FL,"Deltona, Florida","Deltona, FL",96.66841199999999,990.8303862486125
+Doral,Florida,75966,FL,"Doral, Florida","Doral, FL",35.820712,2120.7283651983244
+Fort Lauderdale,Florida,181668,FL,"Fort Lauderdale, Florida","Fort Lauderdale, FL",89.578884,2028.0225862157424
+Fort Myers,Florida,92245,FL,"Fort Myers, Florida","Fort Myers, FL",103.175585,894.0584150794978
+Gainesville,Florida,140398,FL,"Gainesville, Florida","Gainesville, FL",163.566185,858.3559003959163
+Hialeah,Florida,220490,FL,"Hialeah, Florida","Hialeah, FL",55.895716,3944.66724426609
+Hollywood,Florida,152131,FL,"Hollywood, Florida","Hollywood, FL",70.630937,2153.886192958193
+Homestead,Florida,80528,FL,"Homestead, Florida","Homestead, FL",39.066901,2061.284564137811
+Jacksonville,Florida,954614,FL,"Jacksonville, Florida","Jacksonville, FL",1935.461994,493.2228082800576
+Kissimmee,Florida,79436,FL,"Kissimmee, Florida","Kissimmee, FL",55.701625,1426.0984307010792
+Lakeland,Florida,115425,FL,"Lakeland, Florida","Lakeland, FL",171.337108,673.6719286752523
+Largo,Florida,82341,FL,"Largo, Florida","Largo, FL",48.00729,1715.1770074919873
+Lauderhill,Florida,73458,FL,"Lauderhill, Florida","Lauderhill, FL",22.065846999999998,3329.0360438010835
+Margate,Florida,58001,FL,"Margate, Florida","Margate, FL",22.688471,2556.4084948694867
+Melbourne,Florida,85064,FL,"Melbourne, Florida","Melbourne, FL",114.346589,743.91375155056
+Miami,Florida,439890,FL,"Miami, Florida","Miami, FL",93.22840099999999,4718.411935435855
+Miami Beach,Florida,80671,FL,"Miami Beach, Florida","Miami Beach, FL",19.923658,4049.0054587365435
+Miami Gardens,Florida,110867,FL,"Miami Gardens, Florida","Miami Gardens, FL",47.212027,2348.2787553264766
+Miramar,Florida,135077,FL,"Miramar, Florida","Miramar, FL",74.729795,1807.538746760914
+North Miami,Florida,59229,FL,"North Miami, Florida","North Miami, FL",21.838942,2712.0819314415508
+North Port,Florida,80021,FL,"North Port, Florida","North Port, FL",257.38546099999996,310.8994567490353
+Ocala,Florida,64096,FL,"Ocala, Florida","Ocala, FL",122.394663,523.6829648364652
+Orlando,Florida,309154,FL,"Orlando, Florida","Orlando, FL",286.51187,1079.0268479976066
+Palm Bay,Florida,122942,FL,"Palm Bay, Florida","Palm Bay, FL",223.82093899999998,549.287303275946
+Palm Beach Gardens,Florida,59449,FL,"Palm Beach Gardens, Florida","Palm Beach Gardens, FL",152.066204,390.9415664771904
+Palm Coast,Florida,93833,FL,"Palm Coast, Florida","Palm Coast, FL",246.98458,379.9144059924713
+Pembroke Pines,Florida,169391,FL,"Pembroke Pines, Florida","Pembroke Pines, FL",84.64399,2001.2170976344569
+Pensacola,Florida,53678,FL,"Pensacola, Florida","Pensacola, FL",58.71836,914.1604091122437
+Pinellas Park,Florida,53202,FL,"Pinellas Park, Florida","Pinellas Park, FL",41.720883,1275.1887346200224
+Plantation,Florida,92986,FL,"Plantation, Florida","Plantation, FL",56.334697999999996,1650.5990677361935
+Pompano Beach,Florida,111348,FL,"Pompano Beach, Florida","Pompano Beach, FL",62.216263999999995,1789.692804440974
+Port Orange,Florida,63486,FL,"Port Orange, Florida","Port Orange, FL",69.37579199999999,915.1030664990463
+Port St. Lucie,Florida,217523,FL,"Port St. Lucie, Florida","Port St. Lucie, FL",308.768074,704.4866950849329
+St. Cloud,Florida,62043,FL,"St. Cloud, Florida","St. Cloud, FL",65.91640699999999,941.2375889966212
+St. Petersburg,Florida,258201,FL,"St. Petersburg, Florida","St. Petersburg, FL",160.099582,1612.7524930077582
+Sanford,Florida,60681,FL,"Sanford, Florida","Sanford, FL",61.07037,993.624240364026
+Sarasota,Florida,54764,FL,"Sarasota, Florida","Sarasota, FL",38.058945,1438.9258556694097
+Sunrise,Florida,96021,FL,"Sunrise, Florida","Sunrise, FL",41.953996,2288.7211983335274
+Tallahassee,Florida,197102,FL,"Tallahassee, Florida","Tallahassee, FL",261.41382899999996,753.9845950536918
+Tamarac,Florida,71541,FL,"Tamarac, Florida","Tamarac, FL",30.007998999999998,2384.064328981083
+Tampa,Florida,387050,FL,"Tampa, Florida","Tampa, FL",295.299064,1310.7051365391392
+Weston,Florida,67312,FL,"Weston, Florida","Weston, FL",63.695046,1056.7854837564605
+West Palm Beach,Florida,117286,FL,"West Palm Beach, Florida","West Palm Beach, FL",139.389655,841.4254271595693
+Winter Haven,Florida,52710,FL,"Winter Haven, Florida","Winter Haven, FL",84.128334,626.5427768960693
+Albany,Georgia,69048,GA,"Albany, Georgia","Albany, GA",142.61579899999998,484.1539330435614
+Alpharetta,Georgia,66127,GA,"Alpharetta, Georgia","Alpharetta, GA",69.673593,949.0970273343016
+Atlanta,Georgia,496461,GA,"Atlanta, Georgia","Atlanta, GA",350.456124,1416.6138526373704
+Brookhaven,Georgia,55366,GA,"Brookhaven, Georgia","Brookhaven, GA",30.268031999999998,1829.1906127230209
+Columbus,Georgia,205617,GA,"Columbus, Georgia","Columbus, GA",560.718761,366.70255090679944
+Dunwoody,Georgia,50901,GA,"Dunwoody, Georgia","Dunwoody, GA",33.737198,1508.7500746208977
+Johns Creek,Georgia,82065,GA,"Johns Creek, Georgia","Johns Creek, GA",79.806158,1028.3041065577922
+Marietta,Georgia,61497,GA,"Marietta, Georgia","Marietta, GA",60.691421,1013.2733586844178
+Roswell,Georgia,92530,GA,"Roswell, Georgia","Roswell, GA",105.46112699999999,877.3848965221091
+Sandy Springs,Georgia,107180,GA,"Sandy Springs, Georgia","Sandy Springs, GA",97.532878,1098.9114870577284
+Savannah,Georgia,147088,GA,"Savannah, Georgia","Savannah, GA",276.73065099999997,531.5204494640531
+Smyrna,Georgia,55685,GA,"Smyrna, Georgia","Smyrna, GA",40.287563999999996,1382.1883100204323
+South Fulton,Georgia,108575,GA,"South Fulton, Georgia","South Fulton, GA",220.70740899999998,491.9408935655622
+Stonecrest,Georgia,59863,GA,"Stonecrest, Georgia","Stonecrest, GA",96.873262,617.9517316140341
+Valdosta,Georgia,55567,GA,"Valdosta, Georgia","Valdosta, GA",93.20374299999999,596.1885028587318
+Warner Robins,Georgia,81446,GA,"Warner Robins, Georgia","Warner Robins, GA",97.847235,832.3791673827063
+Atlanta,Georgia,456560,GA,"Atlanta, Georgia","Atlanta, GA",350.456124,1302.7593719549327
+Warner Robins,Georgia,80866,GA,"Warner Robins, Georgia","Warner Robins, GA",97.847235,826.4515599239978
+Boise,Idaho,237446,ID,"Boise, Idaho","Boise, ID",217.64489999999998,1090.9789294396517
+Caldwell,Idaho,63629,ID,"Caldwell, Idaho","Caldwell, ID",59.187199,1075.0466498676512
+Coeur d'Alene,Idaho,55904,ID,"Coeur d'Alene, Idaho","Coeur d'Alene, ID",41.705706,1340.4400827071481
+Idaho Falls,Idaho,66898,ID,"Idaho Falls, Idaho","Idaho Falls, ID",62.163987,1076.1536257318887
+Meridian,Idaho,125963,ID,"Meridian, Idaho","Meridian, ID",90.85765699999999,1386.377374886522
+Nampa,Idaho,106186,ID,"Nampa, Idaho","Nampa, ID",86.71923699999999,1224.4803307021718
+Pocatello,Idaho,57092,ID,"Pocatello, Idaho","Pocatello, ID",86.407189,660.7320601530041
+Twin Falls,Idaho,53213,ID,"Twin Falls, Idaho","Twin Falls, ID",50.129858999999996,1061.5030854166178
+Aurora,Illinois,179266,IL,"Aurora, Illinois","Aurora, IL",116.60875499999999,1537.3288223512893
+Berwyn,Illinois,55772,IL,"Berwyn, Illinois","Berwyn, IL",10.112499999999999,5515.154511742893
+Bloomington,Illinois,78283,IL,"Bloomington, Illinois","Bloomington, IL",70.264191,1114.123693532599
+Champaign,Illinois,89114,IL,"Champaign, Illinois","Champaign, IL",59.382352999999995,1500.681524021118
+Chicago,Illinois,2696555,IL,"Chicago, Illinois","Chicago, IL",589.818463,4571.838911729693
+Decatur,Illinois,69646,IL,"Decatur, Illinois","Decatur, IL",111.095474,626.9022264579384
+Des Plaines,Illinois,59459,IL,"Des Plaines, Illinois","Des Plaines, IL",36.876383,1612.3869849166065
+Elgin,Illinois,113911,IL,"Elgin, Illinois","Elgin, IL",98.488542,1156.5913931389096
+Evanston,Illinois,77517,IL,"Evanston, Illinois","Evanston, IL",20.148775,3847.231407368438
+Joliet,Illinois,150372,IL,"Joliet, Illinois","Joliet, IL",167.096926,899.9088349476878
+Naperville,Illinois,149104,IL,"Naperville, Illinois","Naperville, IL",101.209893,1473.2156667728125
+Peoria,Illinois,111666,IL,"Peoria, Illinois","Peoria, IL",124.22828,898.8774536683596
+Rockford,Illinois,147711,IL,"Rockford, Illinois","Rockford, IL",167.167048,883.6131388765087
+Springfield,Illinois,113394,IL,"Springfield, Illinois","Springfield, IL",158.34578399999998,716.1163192068317
+Waukegan,Illinois,88614,IL,"Waukegan, Illinois","Waukegan, IL",62.743081999999994,1412.331004077868
+Wheaton,Illinois,53126,IL,"Wheaton, Illinois","Wheaton, IL",29.316461999999998,1812.1559143118977
+Champaign township,Illinois,89114,IL,"Champaign township, Illinois","Champaign township, IL",,
+Aurora,Illinois,51070,IL,"Aurora, Illinois","Aurora, IL",116.60875499999999,437.96025435654474
+Naperville,Illinois,97624,IL,"Naperville, Illinois","Naperville, IL",101.209893,964.5697382567138
+Wheaton,Illinois,53117,IL,"Wheaton, Illinois","Wheaton, IL",29.316461999999998,1811.8489195592567
+Naperville,Illinois,50855,IL,"Naperville, Illinois","Naperville, IL",101.209893,502.47064286492235
+Aurora,Illinois,110543,IL,"Aurora, Illinois","Aurora, IL",116.60875499999999,947.9819932902981
+Elgin,Illinois,89729,IL,"Elgin, Illinois","Elgin, IL",98.488542,911.0602936938594
+Aurora,Illinois,103069,IL,"Aurora, Illinois","Aurora, IL",116.60875499999999,883.8873204674899
+Elgin,Illinois,83676,IL,"Elgin, Illinois","Elgin, IL",98.488542,849.6013678423628
+Waukegan,Illinois,75495,IL,"Waukegan, Illinois","Waukegan, IL",62.743081999999994,1203.2402233604018
+Bloomington township,Illinois,78283,IL,"Bloomington township, Illinois","Bloomington township, IL",,
+Peoria township,Illinois,96531,IL,"Peoria township, Illinois","Peoria township, IL",,
+Peoria,Illinois,96531,IL,"Peoria, Illinois","Peoria, IL",124.22828,777.0452911366076
+Springfield,Illinois,111563,IL,"Springfield, Illinois","Springfield, IL",158.34578399999998,704.5530179698376
+Joliet,Illinois,136134,IL,"Joliet, Illinois","Joliet, IL",167.096926,814.7008042505821
+Naperville,Illinois,51480,IL,"Naperville, Illinois","Naperville, IL",101.209893,508.64592851609876
+Joliet,Illinois,68872,IL,"Joliet, Illinois","Joliet, IL",167.096926,412.16796531613033
+Rockford,Illinois,137102,IL,"Rockford, Illinois","Rockford, IL",167.167048,820.1496744741224
+Anderson,Indiana,54817,IN,"Anderson, Indiana","Anderson, IN",107.73922499999999,508.79333873062484
+Bloomington,Indiana,79968,IN,"Bloomington, Indiana","Bloomington, IN",60.173353,1328.9603456200953
+Carmel,Indiana,100777,IN,"Carmel, Indiana","Carmel, IN",127.133168,792.6884980951627
+Columbus,Indiana,50569,IN,"Columbus, Indiana","Columbus, IN",72.777552,694.8433769797588
+Elkhart,Indiana,53949,IN,"Elkhart, Indiana","Elkhart, IN",71.201207,757.697829476402
+Evansville,Indiana,116486,IN,"Evansville, Indiana","Evansville, IN",122.648924,949.7515037310886
+Fishers,Indiana,101171,IN,"Fishers, Indiana","Fishers, IN",92.236198,1096.8687152521181
+Fort Wayne,Indiana,265974,IN,"Fort Wayne, Indiana","Fort Wayne, IN",286.825203,927.3034489929395
+Gary,Indiana,68325,IN,"Gary, Indiana","Gary, IN",128.841533,530.3026004820977
+Greenwood,Indiana,64918,IN,"Greenwood, Indiana","Greenwood, IN",72.277717,898.174467796209
+Hammond,Indiana,76984,IN,"Hammond, Indiana","Hammond, IN",58.866738,1307.7673846986393
+Indianapolis (balance),Indiana,882039,IN,"Indianapolis (balance), Indiana","Indianapolis (balance), IN",936.640759,941.7046947024862
+Jeffersonville,Indiana,50315,IN,"Jeffersonville, Indiana","Jeffersonville, IN",88.25793499999999,570.0903833745941
+Kokomo,Indiana,59691,IN,"Kokomo, Indiana","Kokomo, IN",94.99683399999999,628.3472562885622
+Lafayette,Indiana,70835,IN,"Lafayette, Indiana","Lafayette, IN",76.089061,930.9485367417007
+Mishawaka,Indiana,51074,IN,"Mishawaka, Indiana","Mishawaka, IN",46.292745,1103.2830306347141
+Muncie,Indiana,65292,IN,"Muncie, Indiana","Muncie, IN",70.97543399999999,919.9239274817256
+Noblesville,Indiana,70926,IN,"Noblesville, Indiana","Noblesville, IN",88.92447299999999,797.598204489781
+South Bend,Indiana,103353,IN,"South Bend, Indiana","South Bend, IN",108.716788,950.6627440096925
+Terre Haute,Indiana,58525,IN,"Terre Haute, Indiana","Terre Haute, IN",88.64098899999999,660.2475971923103
+Westfield,Indiana,50630,IN,"Westfield, Indiana","Westfield, IN",80.54312399999999,628.6073532484288
+Indianapolis,Indiana,891342,IN,"Indianapolis, Indiana","Indianapolis, IN",,
+Fort Wayne,Indiana,68485,IN,"Fort Wayne, Indiana","Fort Wayne, IN",286.825203,238.76911541835466
+Fort Wayne,Indiana,106803,IN,"Fort Wayne, Indiana","Fort Wayne, IN",286.825203,372.36267553517604
+Muncie,Indiana,62569,IN,"Muncie, Indiana","Muncie, IN",70.97543399999999,881.5585403817328
+Carmel,Indiana,100103,IN,"Carmel, Indiana","Carmel, IN",127.133168,787.3869704875127
+Fishers,Indiana,68507,IN,"Fishers, Indiana","Fishers, IN",92.236198,742.7344305757268
+Noblesville,Indiana,59695,IN,"Noblesville, Indiana","Noblesville, IN",88.92447299999999,671.3000143391348
+Greenwood,Indiana,50535,IN,"Greenwood, Indiana","Greenwood, IN",72.277717,699.1781436594075
+Gary,Indiana,68224,IN,"Gary, Indiana","Gary, IN",128.841533,529.5186917715423
+Anderson,Indiana,53015,IN,"Anderson, Indiana","Anderson, IN",107.73922499999999,492.067768261745
+Indianapolis (balance),Indiana,149454,IN,"Indianapolis (balance), Indiana","Indianapolis (balance), IN",936.640759,159.56384405005377
+Indianapolis (balance),Indiana,64017,IN,"Indianapolis (balance), Indiana","Indianapolis (balance), IN",936.640759,68.34744205275398
+Indianapolis (balance),Indiana,72405,IN,"Indianapolis (balance), Indiana","Indianapolis (balance), IN",936.640759,77.30284989658452
+Indianapolis (balance),Indiana,108563,IN,"Indianapolis (balance), Indiana","Indianapolis (balance), IN",936.640759,115.90676463397425
+Indianapolis (balance),Indiana,82131,IN,"Indianapolis (balance), Indiana","Indianapolis (balance), IN",936.640759,87.68676700305757
+Indianapolis (balance),Indiana,101460,IN,"Indianapolis (balance), Indiana","Indianapolis (balance), IN",936.640759,108.32328085777868
+Indianapolis (balance),Indiana,134740,IN,"Indianapolis (balance), Indiana","Indianapolis (balance), IN",936.640759,143.8545127417416
+Indianapolis (balance),Indiana,132573,IN,"Indianapolis (balance), Indiana","Indianapolis (balance), IN",936.640759,141.54092561756647
+South Bend,Indiana,84596,IN,"South Bend, Indiana","South Bend, IN",108.716788,778.1318925647436
+Evansville,Indiana,64355,IN,"Evansville, Indiana","Evansville, IN",122.648924,524.7090467748417
+Ames,Iowa,66424,IA,"Ames, Iowa","Ames, IA",71.462364,929.4962590378343
+Ankeny,Iowa,70287,IA,"Ankeny, Iowa","Ankeny, IA",78.365832,896.9087446171694
+Cedar Rapids,Iowa,136467,IA,"Cedar Rapids, Iowa","Cedar Rapids, IA",186.746635,730.760155330242
+Council Bluffs,Iowa,62415,IA,"Council Bluffs, Iowa","Council Bluffs, IA",111.27193299999999,560.9231215566283
+Davenport,Iowa,101009,IA,"Davenport, Iowa","Davenport, IA",165.22941,611.325792424
+Des Moines,Iowa,212031,IA,"Des Moines, Iowa","Des Moines, IA",228.379268,928.4161467756346
+Dubuque,Iowa,59119,IA,"Dubuque, Iowa","Dubuque, IA",80.051942,738.5080052149141
+Iowa,Iowa,74596,IA,"Iowa, Iowa","Iowa, IA",66.296038,1125.1954453145452
+Sioux,Iowa,85617,IA,"Sioux, Iowa","Sioux, IA",151.411679,565.4583620329579
+Waterloo,Iowa,66941,IA,"Waterloo, Iowa","Waterloo, IA",159.530725,419.6119587621758
+West Des Moines,Iowa,69792,IA,"West Des Moines, Iowa","West Des Moines, IA",122.30121799999999,570.6566225693681
+Des Moines,Iowa,211823,IA,"Des Moines, Iowa","Des Moines, IA",228.379268,927.505381092648
+Sioux,Iowa,85614,IA,"Sioux, Iowa","Sioux, IA",151.411679,565.438548501929
+Kansas,Kansas,154545,KS,"Kansas, Kansas","Kansas, KS",323.068566,478.36594538881883
+Lawrence,Kansas,95256,KS,"Lawrence, Kansas","Lawrence, KS",88.454167,1076.8966938550222
+Lenexa,Kansas,58388,KS,"Lenexa, Kansas","Lenexa, KS",88.24479099999999,661.6594513777023
+Manhattan,Kansas,54763,KS,"Manhattan, Kansas","Manhattan, KS",51.597269999999995,1061.3546026756844
+Olathe,Kansas,143014,KS,"Olathe, Kansas","Olathe, KS",160.305884,892.1319444518955
+Overland Park,Kansas,197106,KS,"Overland Park, Kansas","Overland Park, KS",194.72340699999998,1012.235781186799
+Shawnee,Kansas,67511,KS,"Shawnee, Kansas","Shawnee, KS",108.717051,620.9789483712174
+Topeka,Kansas,125963,KS,"Topeka, Kansas","Topeka, KS",159.148211,791.4823497450436
+Wichita,Kansas,395699,KS,"Wichita, Kansas","Wichita, KS",419.55550999999997,943.138608762402
+Manhattan,Kansas,54761,KS,"Manhattan, Kansas","Manhattan, KS",51.597269999999995,1061.3158409349953
+Bowling Green,Kentucky,73529,KY,"Bowling Green, Kentucky","Bowling Green, KY",104.579934,703.0889883713256
+Owensboro,Kentucky,60011,KY,"Owensboro, Kentucky","Owensboro, KY",53.181793,1128.4125001201069
+Baton Rouge,Louisiana,222185,LA,"Baton Rouge, Louisiana","Baton Rouge, LA",223.557844,993.8591105754268
+Bossier,Louisiana,62865,LA,"Bossier, Louisiana","Bossier, LA",113.438592,554.1764834316702
+Kenner,Louisiana,65364,LA,"Kenner, Louisiana","Kenner, LA",38.541001,1695.960102333616
+Lafayette,Louisiana,121771,LA,"Lafayette, Louisiana","Lafayette, LA",144.58223999999998,842.2265417937916
+Lake Charles,Louisiana,81097,LA,"Lake Charles, Louisiana","Lake Charles, LA",118.232073,685.9137114173749
+New Orleans,Louisiana,376971,LA,"New Orleans, Louisiana","New Orleans, LA",438.975285,858.7522188179684
+Shreveport,Louisiana,184021,LA,"Shreveport, Louisiana","Shreveport, LA",279.19593,659.1106109605538
+Shreveport,Louisiana,181146,LA,"Shreveport, Louisiana","Shreveport, LA",279.19593,648.8131829142352
+Portland,Maine,68313,ME,"Portland, Maine","Portland, ME",55.795997,1224.3351436125427
+Baltimore,Maryland,576498,MD,"Baltimore, Maryland","Baltimore, MD",209.649327,2749.8204179782556
+Bowie,Maryland,57644,MD,"Bowie, Maryland","Bowie, MD",52.946369999999995,1088.7243072565693
+Frederick,Maryland,79588,MD,"Frederick, Maryland","Frederick, MD",62.023334,1283.194482902193
+Gaithersburg,Maryland,69101,MD,"Gaithersburg, Maryland","Gaithersburg, MD",26.731772,2584.9764093454037
+Rockville,Maryland,67139,MD,"Rockville, Maryland","Rockville, MD",35.233485,1905.5452504911166
+Boston,Massachusetts,654776,MA,"Boston, Massachusetts","Boston, MA",125.201979,5229.757590333297
+Brockton,Massachusetts,105446,MA,"Brockton, Massachusetts","Brockton, MA",55.250882,1908.4944200528782
+Cambridge,Massachusetts,117090,MA,"Cambridge, Massachusetts","Cambridge, MA",16.558895,7071.124009180565
+Chicopee,Massachusetts,55190,MA,"Chicopee, Massachusetts","Chicopee, MA",59.325174999999994,930.2964550884175
+Fall River,Massachusetts,93884,MA,"Fall River, Massachusetts","Fall River, MA",85.787944,1094.3728876402495
+Framingham,Massachusetts,71265,MA,"Framingham, Massachusetts","Framingham, MA",64.863272,1098.6957303048173
+Haverhill,Massachusetts,67361,MA,"Haverhill, Massachusetts","Haverhill, MA",85.56363999999999,787.2619724920539
+Lawrence,Massachusetts,88508,MA,"Lawrence, Massachusetts","Lawrence, MA",17.950062,4930.790768299296
+Lowell,Massachusetts,113994,MA,"Lowell, Massachusetts","Lowell, MA",35.251104999999995,3233.7709697327223
+Lynn,Massachusetts,100843,MA,"Lynn, Massachusetts","Lynn, MA",27.815013999999998,3625.488018808835
+Malden,Massachusetts,65074,MA,"Malden, Massachusetts","Malden, MA",13.065182,4980.718982712985
+Medford,Massachusetts,62098,MA,"Medford, Massachusetts","Medford, MA",20.978465,2960.083113802654
+Methuen Town,Massachusetts,52798,MA,"Methuen Town, Massachusetts","Methuen Town, MA",57.529733,917.7515216349084
+New Bedford,Massachusetts,100941,MA,"New Bedford, Massachusetts","New Bedford, MA",51.800661999999996,1948.6430501602472
+Newton,Massachusetts,87453,MA,"Newton, Massachusetts","Newton, MA",46.173587,1894.0048993811117
+Peabody,Massachusetts,54119,MA,"Peabody, Massachusetts","Peabody, MA",42.051187,1286.9791285558717
+Quincy,Massachusetts,101119,MA,"Quincy, Massachusetts","Quincy, MA",42.922985,2355.824041594498
+Revere,Massachusetts,59075,MA,"Revere, Massachusetts","Revere, MA",14.772907,3998.8744260015987
+Somerville,Massachusetts,79815,MA,"Somerville, Massachusetts","Somerville, MA",10.677479,7475.079089361824
+Springfield,Massachusetts,154789,MA,"Springfield, Massachusetts","Springfield, MA",82.54244899999999,1875.265416464685
+Taunton,Massachusetts,59600,MA,"Taunton, Massachusetts","Taunton, MA",120.973247,492.6709126026848
+Waltham,Massachusetts,64015,MA,"Waltham, Massachusetts","Waltham, MA",33.005148,1939.545915685638
+Weymouth Town,Massachusetts,57670,MA,"Weymouth Town, Massachusetts","Weymouth Town, MA",43.420939,1328.1610515148004
+Worcester,Massachusetts,205918,MA,"Worcester, Massachusetts","Worcester, MA",96.765976,2128.000031746696
+Ann Arbor,Michigan,121536,MI,"Ann Arbor, Michigan","Ann Arbor, MI",73.037477,1664.0224305667077
+Battle Creek,Michigan,52335,MI,"Battle Creek, Michigan","Battle Creek, MI",110.29875899999999,474.48403295271896
+Dearborn,Michigan,108420,MI,"Dearborn, Michigan","Dearborn, MI",62.798404,1726.4769977275218
+Dearborn Heights,Michigan,62451,MI,"Dearborn Heights, Michigan","Dearborn Heights, MI",30.39972,2054.3281319696366
+Detroit,Michigan,632464,MI,"Detroit, Michigan","Detroit, MI",359.311024,1760.2131795433029
+Farmington Hills,Michigan,83292,MI,"Farmington Hills, Michigan","Farmington Hills, MI",86.16252,966.6848184106036
+Flint,Michigan,80628,MI,"Flint, Michigan","Flint, MI",86.610233,930.9292586708548
+Grand Rapids,Michigan,197416,MI,"Grand Rapids, Michigan","Grand Rapids, MI",115.96879799999999,1702.3199636854044
+Kalamazoo,Michigan,73257,MI,"Kalamazoo, Michigan","Kalamazoo, MI",63.955254,1145.4414675610547
+Kentwood,Michigan,54141,MI,"Kentwood, Michigan","Kentwood, MI",54.168594999999996,999.4905719817914
+Lansing,Michigan,112684,MI,"Lansing, Michigan","Lansing, MI",101.381374,1111.4862183659102
+Livonia,Michigan,94422,MI,"Livonia, Michigan","Livonia, MI",92.449427,1021.3367790803073
+Novi,Michigan,66560,MI,"Novi, Michigan","Novi, MI",78.330416,849.7337739148481
+Pontiac,Michigan,60984,MI,"Pontiac, Michigan","Pontiac, MI",51.503077,1184.084593625348
+Rochester Hills,Michigan,76028,MI,"Rochester Hills, Michigan","Rochester Hills, MI",84.96099199999999,894.8577248250587
+Royal Oak,Michigan,57953,MI,"Royal Oak, Michigan","Royal Oak, MI",30.541641,1897.5077337854898
+St. Clair Shores,Michigan,58200,MI,"St. Clair Shores, Michigan","St. Clair Shores, MI",30.252927999999997,1923.780732893028
+Southfield,Michigan,75898,MI,"Southfield, Michigan","Southfield, MI",67.994052,1116.244697403826
+Sterling Heights,Michigan,133269,MI,"Sterling Heights, Michigan","Sterling Heights, MI",94.38791599999999,1411.9286201848129
+Taylor,Michigan,62573,MI,"Taylor, Michigan","Taylor, MI",61.165856,1023.0053839187667
+Troy,Michigan,86836,MI,"Troy, Michigan","Troy, MI",86.62749099999999,1002.4069610881378
+Warren,Michigan,138130,MI,"Warren, Michigan","Warren, MI",89.035726,1551.3997156602059
+Westland,Michigan,84515,MI,"Westland, Michigan","Westland, MI",52.917818,1597.0991094152826
+Wyoming,Michigan,76749,MI,"Wyoming, Michigan","Wyoming, MI",64.079696,1197.7116745372825
+Lansing,Michigan,107653,MI,"Lansing, Michigan","Lansing, MI",101.381374,1061.861718307349
+Apple Valley,Minnesota,55638,MN,"Apple Valley, Minnesota","Apple Valley, MN",43.694567,1273.3390858410382
+Blaine,Minnesota,70935,MN,"Blaine, Minnesota","Blaine, MN",85.22637,832.3128158573455
+Bloomington,Minnesota,89298,MN,"Bloomington, Minnesota","Bloomington, MN",89.88041299999999,993.5201343589733
+Brooklyn Park,Minnesota,84526,MN,"Brooklyn Park, Minnesota","Brooklyn Park, MN",67.53616199999999,1251.5665311274279
+Burnsville,Minnesota,63943,MN,"Burnsville, Minnesota","Burnsville, MN",64.58555,990.0511801788481
+Coon Rapids,Minnesota,63385,MN,"Coon Rapids, Minnesota","Coon Rapids, MN",58.555564999999994,1082.4761062419943
+Duluth,Minnesota,86372,MN,"Duluth, Minnesota","Duluth, MN",185.681386,465.16240459342544
+Eagan,Minnesota,68642,MN,"Eagan, Minnesota","Eagan, MN",80.754983,850.0032747205211
+Eden Prairie,Minnesota,63161,MN,"Eden Prairie, Minnesota","Eden Prairie, MN",84.234442,749.8239259423123
+Edina,Minnesota,53318,MN,"Edina, Minnesota","Edina, MN",40.031234,1331.9099780936058
+Lakeville,Minnesota,72812,MN,"Lakeville, Minnesota","Lakeville, MN",94.06853199999999,774.0314263647699
+Maple Grove,Minnesota,70726,MN,"Maple Grove, Minnesota","Maple Grove, MN",84.362875,838.3545487277431
+Minneapolis,Minnesota,425336,MN,"Minneapolis, Minnesota","Minneapolis, MN",139.858489,3041.1882971222435
+Minnetonka,Minnesota,53266,MN,"Minnetonka, Minnesota","Minnetonka, MN",69.7051,764.1621631702702
+Plymouth,Minnesota,79828,MN,"Plymouth, Minnesota","Plymouth, MN",84.72167499999999,942.2382170796317
+Rochester,Minnesota,121465,MN,"Rochester, Minnesota","Rochester, MN",143.735206,845.0608823004713
+St. Cloud,Minnesota,68818,MN,"St. Cloud, Minnesota","St. Cloud, MN",103.60896,664.2089641668057
+St. Paul,Minnesota,307193,MN,"St. Paul, Minnesota","St. Paul, MN",134.60837,2282.1240610817886
+Woodbury,Minnesota,76990,MN,"Woodbury, Minnesota","Woodbury, MN",90.375659,851.8886705987948
+St. Cloud,Minnesota,55251,MN,"St. Cloud, Minnesota","St. Cloud, MN",103.60896,533.2646906213516
+Gulfport,Mississippi,72105,MS,"Gulfport, Mississippi","Gulfport, MS",144.078903,500.45494863324996
+Jackson,Mississippi,149761,MS,"Jackson, Mississippi","Jackson, MS",289.34214299999996,517.5913831536114
+Southaven,Mississippi,55429,MS,"Southaven, Mississippi","Southaven, MS",107.055371,517.7601037877866
+Jackson,Mississippi,149387,MS,"Jackson, Mississippi","Jackson, MS",289.34214299999996,516.2987957824035
+Blue Springs,Missouri,59430,MO,"Blue Springs, Missouri","Blue Springs, MO",58.071931,1023.3859797085101
+Columbia,Missouri,126853,MO,"Columbia, Missouri","Columbia, MO",172.326953,736.1181625488382
+Florissant,Missouri,52003,MO,"Florissant, Missouri","Florissant, MO",32.506812,1599.756998625396
+Independence,Missouri,122088,MO,"Independence, Missouri","Independence, MO",201.98645499999998,604.4365697689977
+Joplin,Missouri,51846,MO,"Joplin, Missouri","Joplin, MO",98.62892199999999,525.6673088244846
+Kansas,Missouri,508394,MO,"Kansas, Missouri","Kansas, MO",815.061344,623.749370206913
+Lee's Summit,Missouri,102781,MO,"Lee's Summit, Missouri","Lee's Summit, MO",165.487891,621.0786745720266
+O'Fallon,Missouri,93644,MO,"O'Fallon, Missouri","O'Fallon, MO",77.11647099999999,1214.3190525406694
+St. Charles,Missouri,70820,MO,"St. Charles, Missouri","St. Charles, MO",64.264513,1102.0078841957459
+St. Joseph,Missouri,71602,MO,"St. Joseph, Missouri","St. Joseph, MO",114.05381399999999,627.7913687305539
+St. Louis,Missouri,293310,MO,"St. Louis, Missouri","St. Louis, MO",159.89565,1834.383862225145
+St. Peters,Missouri,58129,MO,"St. Peters, Missouri","St. Peters, MO",58.154464999999995,999.562114448134
+Springfield,Missouri,169724,MO,"Springfield, Missouri","Springfield, MO",213.48700499999998,795.0085767515452
+Kansas,Missouri,139432,MO,"Kansas, Missouri","Kansas, MO",815.061344,171.06933242070184
+Springfield,Missouri,169722,MO,"Springfield, Missouri","Springfield, MO",213.48700499999998,794.9992084998336
+Kansas,Missouri,314956,MO,"Kansas, Missouri","Kansas, MO",815.061344,386.419994419463
+Lee's Summit,Missouri,100061,MO,"Lee's Summit, Missouri","Lee's Summit, MO",165.487891,604.6424266776112
+Kansas,Missouri,53905,MO,"Kansas, Missouri","Kansas, MO",815.061344,66.13612631345697
+Billings,Montana,117445,MT,"Billings, Montana","Billings, MT",115.98224099999999,1012.611922199365
+Bozeman,Montana,54539,MT,"Bozeman, Montana","Bozeman, MT",53.350021,1022.2863829800555
+Great Falls,Montana,60403,MT,"Great Falls, Montana","Great Falls, MT",59.578858999999994,1013.8327758173416
+Missoula,Montana,74822,MT,"Missoula, Montana","Missoula, MT",89.346378,837.4374168810738
+Bellevue,Nebraska,63737,NE,"Bellevue, Nebraska","Bellevue, NE",54.725227,1164.6731040512634
+Grand Island,Nebraska,52335,NE,"Grand Island, Nebraska","Grand Island, NE",77.839344,672.3463650978354
+Lincoln,Nebraska,292657,NE,"Lincoln, Nebraska","Lincoln, NE",253.01268299999998,1156.6890502481253
+Omaha,Nebraska,487300,NE,"Omaha, Nebraska","Omaha, NE",366.650762,1329.0576496879066
+Carson,Nevada,58993,NV,"Carson, Nevada","Carson, NV",374.341372,157.5914510459186
+Henderson,Nevada,322178,NV,"Henderson, Nevada","Henderson, NV",275.14324999999997,1170.946407007986
+Las Vegas,Nevada,646790,NV,"Las Vegas, Nevada","Las Vegas, NV",367.32584499999996,1760.8072200854804
+North Las Vegas,Nevada,274133,NV,"North Las Vegas, Nevada","North Las Vegas, NV",262.323395,1045.0192595288727
+Reno,Nevada,268851,NV,"Reno, Nevada","Reno, NV",281.716689,954.3311081580972
+Sparks,Nevada,109796,NV,"Sparks, Nevada","Sparks, NV",94.37126099999999,1163.447418594947
+Manchester,New Hampshire,115462,NH,"Manchester, New Hampshire","Manchester, NH",85.663872,1347.8494177802284
+Nashua,New Hampshire,91124,NH,"Nashua, New Hampshire","Nashua, NH",79.86009399999999,1141.0454888770855
+Bayonne,New Jersey,69211,NJ,"Bayonne, New Jersey","Bayonne, NJ",15.077582999999999,4590.3245898231835
+Camden,New Jersey,71773,NJ,"Camden, New Jersey","Camden, NJ",23.106182,3106.2249920822055
+Clifton,New Jersey,89367,NJ,"Clifton, New Jersey","Clifton, NJ",29.202346,3060.267829166876
+East Orange,New Jersey,68903,NJ,"East Orange, New Jersey","East Orange, NJ",10.17241,6773.517779955783
+Elizabeth,New Jersey,135407,NJ,"Elizabeth, New Jersey","Elizabeth, NJ",31.905469999999998,4244.005808408402
+Hoboken,New Jersey,58690,NJ,"Hoboken, New Jersey","Hoboken, NJ",3.2380299999999997,18125.218111011945
+Jersey,New Jersey,283927,NJ,"Jersey, New Jersey","Jersey, NJ",38.185617,7435.443559809443
+Newark,New Jersey,307220,NJ,"Newark, New Jersey","Newark, NJ",62.531386,4913.052782805742
+New Brunswick,New Jersey,55708,NJ,"New Brunswick, New Jersey","New Brunswick, NJ",13.552824999999999,4110.434540400249
+Passaic,New Jersey,69633,NJ,"Passaic, New Jersey","Passaic, NJ",8.114284,8581.533503140881
+Paterson,New Jersey,157794,NJ,"Paterson, New Jersey","Paterson, NJ",21.790111,7241.541816836087
+Perth Amboy,New Jersey,55291,NJ,"Perth Amboy, New Jersey","Perth Amboy, NJ",12.074786,4579.045955762695
+Plainfield,New Jersey,54936,NJ,"Plainfield, New Jersey","Plainfield, NJ",15.434491,3559.3010485412187
+Trenton,New Jersey,90457,NJ,"Trenton, New Jersey","Trenton, NJ",19.628422,4608.470309024332
+Union,New Jersey,65638,NJ,"Union, New Jersey","Union, NJ",3.333339,19691.36652467691
+Vineland,New Jersey,61156,NJ,"Vineland, New Jersey","Vineland, NJ",177.138074,345.24480603757723
+Albuquerque,New Mexico,562599,NM,"Albuquerque, New Mexico","Albuquerque, NM",485.027565,1159.932013348561
+Las Cruces,New Mexico,112914,NM,"Las Cruces, New Mexico","Las Cruces, NM",199.256107,566.6777380128179
+Rio Rancho,New Mexico,105834,NM,"Rio Rancho, New Mexico","Rio Rancho, NM",267.70487099999997,395.3383425735276
+Santa Fe,New Mexico,88193,NM,"Santa Fe, New Mexico","Santa Fe, NM",135.282308,651.9182094379998
+Rio Rancho,New Mexico,105829,NM,"Rio Rancho, New Mexico","Rio Rancho, NM",267.70487099999997,395.3196652891684
+Albany,New York,98617,NY,"Albany, New York","Albany, NY",55.435356999999996,1778.954900570046
+Buffalo,New York,276807,NY,"Buffalo, New York","Buffalo, NY",104.57753699999999,2646.9068591661326
+Mount Vernon,New York,72581,NY,"Mount Vernon, New York","Mount Vernon, NY",11.377785,6379.18540383739
+New Rochelle,New York,81587,NY,"New Rochelle, New York","New Rochelle, NY",26.640881999999998,3062.4736823653216
+New York,New York,8467513,NY,"New York, New York","New York, NY",778.1652829999999,10881.3810960004
+Rochester,New York,210606,NY,"Rochester, New York","Rochester, NY",92.6347,2273.510898183942
+Schenectady,New York,66990,NY,"Schenectady, New York","Schenectady, NY",27.951492,2396.652028449859
+Syracuse,New York,146103,NY,"Syracuse, New York","Syracuse, NY",64.903077,2251.0951214223637
+Troy,New York,50394,NY,"Troy, New York","Troy, NY",26.825730999999998,1878.5694973232978
+Utica,New York,64501,NY,"Utica, New York","Utica, NY",43.310457,1489.2708243646564
+White Plains,New York,59526,NY,"White Plains, New York","White Plains, NY",25.217999,2360.4569101616667
+Yonkers,New York,209530,NY,"Yonkers, New York","Yonkers, NY",46.634437999999996,4493.031523184648
+New York,New York,1424948,NY,"New York, New York","New York, NY",778.1652829999999,1831.1636758022782
+New York,New York,2641052,NY,"New York, New York","New York, NY",778.1652829999999,3393.9473498716857
+New York,New York,1576876,NY,"New York, New York","New York, NY",778.1652829999999,2026.4024037679924
+New York,New York,2331143,NY,"New York, New York","New York, NY",778.1652829999999,2995.691340807349
+New York,New York,493494,NY,"New York, New York","New York, NY",778.1652829999999,634.1763257510937
+Asheville,North Carolina,94067,NC,"Asheville, North Carolina","Asheville, NC",117.768069,798.7479186739489
+Burlington,North Carolina,58818,NC,"Burlington, North Carolina","Burlington, NC",77.961477,754.4495340948966
+Charlotte,North Carolina,879709,NC,"Charlotte, North Carolina","Charlotte, NC",798.454664,1101.7644954228736
+Concord,North Carolina,107697,NC,"Concord, North Carolina","Concord, NC",164.409299,655.0541888752898
+Durham,North Carolina,285527,NC,"Durham, North Carolina","Durham, NC",292.12679499999996,977.4077725393182
+Fayetteville,North Carolina,208778,NC,"Fayetteville, North Carolina","Fayetteville, NC",383.987188,543.7108490192646
+Gastonia,North Carolina,81161,NC,"Gastonia, North Carolina","Gastonia, NC",133.85360699999998,606.3415235422084
+Greensboro,North Carolina,298263,NC,"Greensboro, North Carolina","Greensboro, NC",335.621779,888.6878583645193
+Greenville,North Carolina,88728,NC,"Greenville, North Carolina","Greenville, NC",94.786383,936.0838254583467
+High Point,North Carolina,114086,NC,"High Point, North Carolina","High Point, NC",145.983385,781.49989466267
+Jacksonville,North Carolina,72876,NC,"Jacksonville, North Carolina","Jacksonville, NC",126.006002,578.3534025625224
+Kannapolis,North Carolina,54446,NC,"Kannapolis, North Carolina","Kannapolis, NC",84.727885,642.5983606223618
+Raleigh,North Carolina,469124,NC,"Raleigh, North Carolina","Raleigh, NC",381.028394,1231.2048324671573
+Rocky Mount,North Carolina,53957,NC,"Rocky Mount, North Carolina","Rocky Mount, NC",116.508118,463.11794342090394
+Wilmington,North Carolina,117643,NC,"Wilmington, North Carolina","Wilmington, NC",133.138589,883.6130898157559
+Winston-Salem,North Carolina,250320,NC,"Winston-Salem, North Carolina","Winston-Salem, NC",343.633341,728.4508519212634
+Burlington,North Carolina,56926,NC,"Burlington, North Carolina","Burlington, NC",77.961477,730.1811380510402
+Durham,North Carolina,285115,NC,"Durham, North Carolina","Durham, NC",292.12679499999996,975.9974260491922
+High Point,North Carolina,107265,NC,"High Point, North Carolina","High Point, NC",145.983385,734.7753992688963
+Raleigh,North Carolina,467584,NC,"Raleigh, North Carolina","Raleigh, NC",381.028394,1227.1631389234474
+Bismarck,North Dakota,74138,ND,"Bismarck, North Dakota","Bismarck, ND",89.82815,825.3314801651821
+Fargo,North Dakota,126748,ND,"Fargo, North Dakota","Fargo, ND",128.990603,982.6142141532589
+Grand Forks,North Dakota,58781,ND,"Grand Forks, North Dakota","Grand Forks, ND",72.22600299999999,813.8481649053736
+Akron,Ohio,189347,OH,"Akron, Ohio","Akron, OH",160.40516599999998,1180.429562973053
+Canton,Ohio,70426,OH,"Canton, Ohio","Canton, OH",68.170203,1033.0906598591175
+Cincinnati,Ohio,308935,OH,"Cincinnati, Ohio","Cincinnati, OH",201.59425399999998,1532.4593527353218
+Cleveland,Ohio,367991,OH,"Cleveland, Ohio","Cleveland, OH",201.334,1827.7638153516048
+Columbus,Ohio,906528,OH,"Columbus, Ohio","Columbus, OH",569.892348,1590.7004247054745
+Cuyahoga Falls,Ohio,50810,OH,"Cuyahoga Falls, Ohio","Cuyahoga Falls, OH",66.811385,760.4991275064871
+Dayton,Ohio,137571,OH,"Dayton, Ohio","Dayton, OH",144.536867,951.805604033191
+Elyria,Ohio,52816,OH,"Elyria, Ohio","Elyria, OH",53.103089,994.5937419949337
+Hamilton,Ohio,62947,OH,"Hamilton, Ohio","Hamilton, OH",55.555552,1133.0460725149487
+Kettering,Ohio,57377,OH,"Kettering, Ohio","Kettering, OH",48.484016,1183.4209443376144
+Lakewood,Ohio,50104,OH,"Lakewood, Ohio","Lakewood, OH",14.355158999999999,3490.313134114363
+Lorain,Ohio,65430,OH,"Lorain, Ohio","Lorain, OH",61.14091,1070.150902235508
+Middletown,Ohio,50998,OH,"Middletown, Ohio","Middletown, OH",67.686291,753.4465140068024
+Newark,Ohio,50383,OH,"Newark, Ohio","Newark, OH",54.091443999999996,931.4412090755056
+Parma,Ohio,79982,OH,"Parma, Ohio","Parma, OH",51.859049,1542.2959260205484
+Springfield,Ohio,58763,OH,"Springfield, Ohio","Springfield, OH",67.258021,873.6950496952624
+Toledo,Ohio,268508,OH,"Toledo, Ohio","Toledo, OH",208.462505,1288.0397844207043
+Youngstown,Ohio,60270,OH,"Youngstown, Ohio","Youngstown, OH",87.87317399999999,685.8748495872018
+Columbus,Ohio,880480,OH,"Columbus, Ohio","Columbus, OH",569.892348,1544.9935467461305
+Youngstown,Ohio,60268,OH,"Youngstown, Ohio","Youngstown, OH",87.87317399999999,685.8520895125514
+Kettering,Ohio,56645,OH,"Kettering, Ohio","Kettering, OH",48.484016,1168.3231851090884
+Broken Arrow,Oklahoma,116330,OK,"Broken Arrow, Oklahoma","Broken Arrow, OK",163.06133699999998,713.4125240246252
+Edmond,Oklahoma,95341,OK,"Edmond, Oklahoma","Edmond, OK",219.165969,435.0173543594261
+Enid,Oklahoma,50566,OK,"Enid, Oklahoma","Enid, OK",191.49469299999998,264.0595371486353
+Lawton,Oklahoma,91055,OK,"Lawton, Oklahoma","Lawton, OK",211.116144,431.30287563418176
+Midwest,Oklahoma,58145,OK,"Midwest, Oklahoma","Midwest, OK",63.190624,920.1523314598064
+Moore,Oklahoma,63462,OK,"Moore, Oklahoma","Moore, OK",56.820271999999996,1116.8901127400447
+Norman,Oklahoma,128097,OK,"Norman, Oklahoma","Norman, OK",463.028343,276.650451179832
+Oklahoma,Oklahoma,687725,OK,"Oklahoma, Oklahoma","Oklahoma, OK",1570.037274,438.0310018041011
+Tulsa,Oklahoma,411401,OK,"Tulsa, Oklahoma","Tulsa, OK",511.60862499999996,804.132260280014
+Oklahoma,Oklahoma,80813,OK,"Oklahoma, Oklahoma","Oklahoma, OK",1570.037274,51.47202638961041
+Oklahoma,Oklahoma,78976,OK,"Oklahoma, Oklahoma","Oklahoma, OK",1570.037274,50.30199047363509
+Oklahoma,Oklahoma,527861,OK,"Oklahoma, Oklahoma","Oklahoma, OK",1570.037274,336.2092153743351
+Broken Arrow,Oklahoma,95217,OK,"Broken Arrow, Oklahoma","Broken Arrow, OK",163.06133699999998,583.9336396462885
+Tulsa,Oklahoma,405536,OK,"Tulsa, Oklahoma","Tulsa, OK",511.60862499999996,792.6684191455921
+Albany,Oregon,56828,OR,"Albany, Oregon","Albany, OR",45.733314,1242.5952774819687
+Beaverton,Oregon,98216,OR,"Beaverton, Oregon","Beaverton, OR",50.774077999999996,1934.3728900404653
+Bend,Oregon,102059,OR,"Bend, Oregon","Bend, OR",87.081518,1171.9938092948723
+Corvallis,Oregon,59864,OR,"Corvallis, Oregon","Corvallis, OR",36.94806,1620.2203850486333
+Eugene,Oregon,175096,OR,"Eugene, Oregon","Eugene, OR",114.436695,1530.0686549886818
+Gresham,Oregon,113103,OR,"Gresham, Oregon","Gresham, OR",60.780958999999996,1860.8294745727853
+Hillsboro,Oregon,106633,OR,"Hillsboro, Oregon","Hillsboro, OR",66.482571,1603.9241322361015
+Medford,Oregon,86367,OR,"Medford, Oregon","Medford, OR",67.046274,1288.1700182175673
+Portland,Oregon,641162,OR,"Portland, Oregon","Portland, OR",345.63341499999996,1855.0347627702608
+Salem,Oregon,177723,OR,"Salem, Oregon","Salem, OR",126.39985899999999,1406.0379608493076
+Springfield,Oregon,62256,OR,"Springfield, Oregon","Springfield, OR",41.037071999999995,1517.0672995383297
+Tigard,Oregon,55767,OR,"Tigard, Oregon","Tigard, OR",32.815117,1699.430174209039
+Salem,Oregon,147540,OR,"Salem, Oregon","Salem, OR",126.39985899999999,1167.248137515723
+Portland,Oregon,638687,OR,"Portland, Oregon","Portland, OR",345.63341499999996,1847.8739967893441
+Allentown,Pennsylvania,125944,PA,"Allentown, Pennsylvania","Allentown, PA",45.465042,2770.128310889936
+Bethlehem,Pennsylvania,75624,PA,"Bethlehem, Pennsylvania","Bethlehem, PA",49.508434,1527.4973149019418
+Erie,Pennsylvania,93999,PA,"Erie, Pennsylvania","Erie, PA",49.581678,1895.8414436881303
+Harrisburg,Pennsylvania,50135,PA,"Harrisburg, Pennsylvania","Harrisburg, PA",21.027715999999998,2384.2342173538964
+Lancaster,Pennsylvania,57503,PA,"Lancaster, Pennsylvania","Lancaster, PA",18.71865,3071.9629887839133
+Philadelphia,Pennsylvania,1576251,PA,"Philadelphia, Pennsylvania","Philadelphia, PA",347.981634,4529.695955160668
+Pittsburgh,Pennsylvania,300431,PA,"Pittsburgh, Pennsylvania","Pittsburgh, PA",143.421647,2094.7395758187045
+Reading,Pennsylvania,94844,PA,"Reading, Pennsylvania","Reading, PA",25.493209,3720.3633328389533
+Scranton,Pennsylvania,75874,PA,"Scranton, Pennsylvania","Scranton, PA",65.546398,1157.561701559863
+Bethlehem,Pennsylvania,55789,PA,"Bethlehem, Pennsylvania","Bethlehem, PA",49.508434,1126.8585065728396
+Cranston,Rhode Island,82566,RI,"Cranston, Rhode Island","Cranston, RI",73.413573,1124.669412289741
+Pawtucket,Rhode Island,75387,RI,"Pawtucket, Rhode Island","Pawtucket, RI",22.447899,3358.3098355886223
+Providence,Rhode Island,189692,RI,"Providence, Rhode Island","Providence, RI",47.670949,3979.1949600164244
+Warwick,Rhode Island,83011,RI,"Warwick, Rhode Island","Warwick, RI",90.651843,915.7122155806584
+Charleston,South Carolina,151612,SC,"Charleston, South Carolina","Charleston, SC",297.22164699999996,510.09743580352347
+Columbia,South Carolina,137541,SC,"Columbia, South Carolina","Columbia, SC",354.253811,388.25552676976
+Greenville,South Carolina,72095,SC,"Greenville, South Carolina","Greenville, SC",76.895786,937.5676321196587
+North Charleston,South Carolina,117472,SC,"North Charleston, South Carolina","North Charleston, SC",201.02898399999998,584.3535477451352
+Rock Hill,South Carolina,74102,SC,"Rock Hill, South Carolina","Rock Hill, SC",100.99331099999999,733.7317617005349
+Charleston,South Carolina,136192,SC,"Charleston, South Carolina","Charleston, SC",297.22164699999996,458.21696156605987
+North Charleston,South Carolina,88611,SC,"North Charleston, South Carolina","North Charleston, SC",201.02898399999998,440.7871851951458
+Columbia,South Carolina,136949,SC,"Columbia, South Carolina","Columbia, SC",354.253811,386.58440854430216
+Rapid,South Dakota,76184,SD,"Rapid, South Dakota","Rapid, SD",141.67157899999998,537.7507650987642
+Sioux Falls,South Dakota,196528,SD,"Sioux Falls, South Dakota","Sioux Falls, SD",204.836897,959.4365218293656
+Sioux Falls,South Dakota,159243,SD,"Sioux Falls, South Dakota","Sioux Falls, SD",204.836897,777.4136512134335
+Bartlett,Tennessee,57318,TN,"Bartlett, Tennessee","Bartlett, TN",83.601298,685.6113645508232
+Chattanooga,Tennessee,182113,TN,"Chattanooga, Tennessee","Chattanooga, TN",368.694994,493.9394430725577
+Clarksville,Tennessee,170957,TN,"Clarksville, Tennessee","Clarksville, TN",257.446809,664.0478499774298
+Franklin,Tennessee,85469,TN,"Franklin, Tennessee","Franklin, TN",110.727013,771.8893311065838
+Hendersonville,Tennessee,62257,TN,"Hendersonville, Tennessee","Hendersonville, TN",81.371524,765.0956617206776
+Jackson,Tennessee,68114,TN,"Jackson, Tennessee","Jackson, TN",151.363248,450.00355700612346
+Johnson,Tennessee,71278,TN,"Johnson, Tennessee","Johnson, TN",112.117784,635.7421406045628
+Kingsport,Tennessee,55582,TN,"Kingsport, Tennessee","Kingsport, TN",136.23063299999998,407.9992786938016
+Knoxville,Tennessee,192648,TN,"Knoxville, Tennessee","Knoxville, TN",255.688158,753.4490510115843
+Memphis,Tennessee,628127,TN,"Memphis, Tennessee","Memphis, TN",769.181598,816.6173003010402
+Murfreesboro,Tennessee,157519,TN,"Murfreesboro, Tennessee","Murfreesboro, TN",162.879966,967.0864003004519
+Spring Hill,Tennessee,53339,TN,"Spring Hill, Tennessee","Spring Hill, TN",69.34912899999999,769.1372735193257
+Kingsport,Tennessee,52856,TN,"Kingsport, Tennessee","Kingsport, TN",136.23063299999998,387.98909493432365
+Johnson,Tennessee,69085,TN,"Johnson, Tennessee","Johnson, TN",112.117784,616.1823533722358
+Abilene,Texas,125070,TX,"Abilene, Texas","Abilene, TX",276.270544,452.70841469078226
+Allen,Texas,106874,TX,"Allen, Texas","Allen, TX",68.374802,1563.0611990657026
+Amarillo,Texas,201234,TX,"Amarillo, Texas","Amarillo, TX",264.965709,759.4718605644174
+Arlington,Texas,392786,TX,"Arlington, Texas","Arlington, TX",248.28958599999999,1581.9672759049993
+Austin,Texas,964177,TX,"Austin, Texas","Austin, TX",828.6336259999999,1163.57455182491
+Baytown,Texas,82480,TX,"Baytown, Texas","Baytown, TX",95.83381399999999,860.6565528113074
+Beaumont,Texas,112556,TX,"Beaumont, Texas","Beaumont, TX",213.59578199999999,526.9579714827889
+Brownsville,Texas,187831,TX,"Brownsville, Texas","Brownsville, TX",340.65333,551.3845997043387
+Bryan,Texas,86866,TX,"Bryan, Texas","Bryan, TX",140.28287899999998,619.220254240719
+Burleson,Texas,51618,TX,"Burleson, Texas","Burleson, TX",73.184629,705.3120403192862
+Carrollton,Texas,133251,TX,"Carrollton, Texas","Carrollton, TX",94.939827,1403.531101863078
+Cedar Park,Texas,78693,TX,"Cedar Park, Texas","Cedar Park, TX",66.055835,1191.3103513111294
+College Station,Texas,120019,TX,"College Station, Texas","College Station, TX",132.502053,905.7897389710635
+Conroe,Texas,94400,TX,"Conroe, Texas","Conroe, TX",186.466341,506.2575877970384
+Corpus Christi,Texas,317773,TX,"Corpus Christi, Texas","Corpus Christi, TX",420.01642899999996,756.5727863468884
+Dallas,Texas,1288457,TX,"Dallas, Texas","Dallas, TX",879.510542,1464.9705017407284
+Denton,Texas,148146,TX,"Denton, Texas","Denton, TX",249.55222099999997,593.6472911615562
+DeSoto,Texas,55729,TX,"DeSoto, Texas","DeSoto, TX",56.030426999999996,994.6202980034402
+Edinburg,Texas,102483,TX,"Edinburg, Texas","Edinburg, TX",115.83122999999999,884.7613894801947
+El Paso,Texas,678415,TX,"El Paso, Texas","El Paso, TX",669.288012,1013.6368616146676
+Euless,Texas,60500,TX,"Euless, Texas","Euless, TX",41.755328,1448.9168903187638
+Fort Worth,Texas,935508,TX,"Fort Worth, Texas","Fort Worth, TX",899.411086,1040.13394382377
+Frisco,Texas,210719,TX,"Frisco, Texas","Frisco, TX",177.772065,1185.3324649179274
+Galveston,Texas,53219,TX,"Galveston, Texas","Galveston, TX",106.32981099999999,500.50874255762574
+Garland,Texas,242035,TX,"Garland, Texas","Garland, TX",147.972289,1635.6778802009342
+Georgetown,Texas,75420,TX,"Georgetown, Texas","Georgetown, TX",148.49324,507.9019085313244
+Grand Prairie,Texas,197347,TX,"Grand Prairie, Texas","Grand Prairie, TX",187.947276,1050.0125577771078
+Grapevine,Texas,50872,TX,"Grapevine, Texas","Grapevine, TX",83.245778,611.1060671449308
+Harlingen,Texas,71925,TX,"Harlingen, Texas","Harlingen, TX",103.92683699999999,692.073405447719
+Houston,Texas,2288250,TX,"Houston, Texas","Houston, TX",1658.7428539999999,1379.5085805385481
+Irving,Texas,254198,TX,"Irving, Texas","Irving, TX",173.474996,1465.3293319574425
+Killeen,Texas,156261,TX,"Killeen, Texas","Killeen, TX",142.058175,1099.9789346864409
+Kyle,Texas,51789,TX,"Kyle, Texas","Kyle, TX",80.47766899999999,643.5201297890475
+Laredo,Texas,256153,TX,"Laredo, Texas","Laredo, TX",275.809864,928.7303807234392
+League,Texas,115595,TX,"League, Texas","League, TX",132.76993299999998,870.6413974013229
+Leander,Texas,67124,TX,"Leander, Texas","Leander, TX",97.13209499999999,691.0589131223825
+Lewisville,Texas,112944,TX,"Lewisville, Texas","Lewisville, TX",95.851124,1178.3273402198183
+Little Elm,Texas,51042,TX,"Little Elm, Texas","Little Elm, TX",46.788225999999995,1090.915479462718
+Longview,Texas,81762,TX,"Longview, Texas","Longview, TX",144.58999699999998,565.4748025203985
+Lubbock,Texas,260993,TX,"Lubbock, Texas","Lubbock, TX",348.62423,748.6370066704773
+McAllen,Texas,143920,TX,"McAllen, Texas","McAllen, TX",161.37605299999998,891.8299668662736
+McKinney,Texas,202690,TX,"McKinney, Texas","McKinney, TX",173.432672,1168.6955961792482
+Mansfield,Texas,74368,TX,"Mansfield, Texas","Mansfield, TX",94.851711,784.0448971974791
+Mesquite,Texas,147691,TX,"Mesquite, Texas","Mesquite, TX",125.570737,1176.1577858701269
+Midland,Texas,131325,TX,"Midland, Texas","Midland, TX",195.41392199999999,672.0350252220004
+Mission,Texas,86223,TX,"Mission, Texas","Mission, TX",94.080376,916.4823065758155
+Missouri,Texas,74850,TX,"Missouri, Texas","Missouri, TX",75.135111,996.2053559753176
+New Braunfels,Texas,98857,TX,"New Braunfels, Texas","New Braunfels, TX",117.014663,844.825746325484
+North Richland Hills,Texas,70209,TX,"North Richland Hills, Texas","North Richland Hills, TX",47.041668,1492.4853429942152
+Odessa,Texas,112483,TX,"Odessa, Texas","Odessa, TX",132.29789399999999,850.2251744082942
+Pasadena,Texas,148626,TX,"Pasadena, Texas","Pasadena, TX",113.125835,1313.811296950869
+Pearland,Texas,125990,TX,"Pearland, Texas","Pearland, TX",126.064943,999.4055206926164
+Pflugerville,Texas,66884,TX,"Pflugerville, Texas","Pflugerville, TX",66.189477,1010.4929519234606
+Pharr,Texas,79697,TX,"Pharr, Texas","Pharr, TX",61.192035,1302.4080666707687
+Plano,Texas,288253,TX,"Plano, Texas","Plano, TX",185.66795399999998,1552.5188584778612
+Port Arthur,Texas,55724,TX,"Port Arthur, Texas","Port Arthur, TX",199.654539,279.10209444324227
+Richardson,Texas,116382,TX,"Richardson, Texas","Richardson, TX",73.986154,1573.0240552847226
+Round Rock,Texas,123876,TX,"Round Rock, Texas","Round Rock, TX",97.48589199999999,1270.7069449597898
+Rowlett,Texas,63671,TX,"Rowlett, Texas","Rowlett, TX",53.728029,1185.061153090131
+San Angelo,Texas,99667,TX,"San Angelo, Texas","San Angelo, TX",154.60903399999998,644.6389154724297
+San Antonio,Texas,1451853,TX,"San Antonio, Texas","San Antonio, TX",1291.999948,1123.7252774254757
+San Marcos,Texas,68580,TX,"San Marcos, Texas","San Marcos, TX",92.18060299999999,743.9743044423349
+Sugar Land,Texas,109373,TX,"Sugar Land, Texas","Sugar Land, TX",104.811332,1043.5226603169208
+Temple,Texas,85416,TX,"Temple, Texas","Temple, TX",184.330388,463.3853426272829
+Texas,Texas,54247,TX,"Texas, Texas","Texas, TX",171.65434199999999,316.0246304751208
+Tyler,Texas,107192,TX,"Tyler, Texas","Tyler, TX",148.806389,720.3454147388793
+Victoria,Texas,65377,TX,"Victoria, Texas","Victoria, TX",96.781869,675.5087567073126
+Waco,Texas,139594,TX,"Waco, Texas","Waco, TX",229.81712399999998,607.4133970974243
+Wichita Falls,Texas,102988,TX,"Wichita Falls, Texas","Wichita Falls, TX",186.50607599999998,552.1964871535874
+Wylie,Texas,59394,TX,"Wylie, Texas","Wylie, TX",57.126087999999996,1039.7001103943965
+San Antonio,Texas,1451845,TX,"San Antonio, Texas","San Antonio, TX",1291.999948,1123.719085474762
+Pearland,Texas,112049,TX,"Pearland, Texas","Pearland, TX",126.064943,888.8196617833714
+Dallas,Texas,52246,TX,"Dallas, Texas","Dallas, TX",879.510542,59.40349490432828
+Frisco,Texas,125304,TX,"Frisco, Texas","Frisco, TX",177.772065,704.8576501600519
+Plano,Texas,282673,TX,"Plano, Texas","Plano, TX",185.66795399999998,1522.4652068929463
+Wylie,Texas,56432,TX,"Wylie, Texas","Wylie, TX",57.126087999999996,987.8498944300195
+New Braunfels,Texas,76255,TX,"New Braunfels, Texas","New Braunfels, TX",117.014663,651.6704662901948
+Carrollton,Texas,50688,TX,"Carrollton, Texas","Carrollton, TX",94.939827,533.8960645040991
+Dallas,Texas,1207545,TX,"Dallas, Texas","Dallas, TX",879.510542,1372.9738784643243
+Garland,Texas,241868,TX,"Garland, Texas","Garland, TX",147.972289,1634.5492905093872
+Grand Prairie,Texas,125377,TX,"Grand Prairie, Texas","Grand Prairie, TX",187.947276,667.0860183150513
+Mesquite,Texas,147518,TX,"Mesquite, Texas","Mesquite, TX",125.570737,1174.7800763485207
+Richardson,Texas,77248,TX,"Richardson, Texas","Richardson, TX",73.986154,1044.0872490817674
+Rowlett,Texas,55903,TX,"Rowlett, Texas","Rowlett, TX",53.728029,1040.4811239213707
+Carrollton,Texas,81882,TX,"Carrollton, Texas","Carrollton, TX",94.939827,862.4620729506912
+Frisco,Texas,85415,TX,"Frisco, Texas","Frisco, TX",177.772065,480.4748147578755
+Lewisville,Texas,111635,TX,"Lewisville, Texas","Lewisville, TX",95.851124,1164.6707450191195
+Odessa,Texas,108680,TX,"Odessa, Texas","Odessa, TX",132.29789399999999,821.479440935016
+Missouri,Texas,69106,TX,"Missouri, Texas","Missouri, TX",75.135111,919.7564105548471
+League,Texas,113073,TX,"League, Texas","League, TX",132.76993299999998,851.6461328635303
+Longview,Texas,79353,TX,"Longview, Texas","Longview, TX",144.58999699999998,548.8138989310582
+Baytown,Texas,77646,TX,"Baytown, Texas","Baytown, TX",95.83381399999999,810.2150666778222
+Houston,Texas,2239068,TX,"Houston, Texas","Houston, TX",1658.7428539999999,1349.8584151247835
+San Marcos,Texas,68577,TX,"San Marcos, Texas","San Marcos, TX",92.18060299999999,743.9417596346165
+Port Arthur,Texas,55645,TX,"Port Arthur, Texas","Port Arthur, TX",199.654539,278.706410977213
+Midland,Texas,131284,TX,"Midland, Texas","Midland, TX",195.41392199999999,671.8252141728162
+Amarillo,Texas,100202,TX,"Amarillo, Texas","Amarillo, TX",264.965709,378.1696898748509
+Amarillo,Texas,101032,TX,"Amarillo, Texas","Amarillo, TX",264.965709,381.3021706895665
+Fort Worth,Texas,916661,TX,"Fort Worth, Texas","Fort Worth, TX",899.411086,1019.1791209475931
+Grand Prairie,Texas,71948,TX,"Grand Prairie, Texas","Grand Prairie, TX",187.947276,382.80948535801076
+Mansfield,Texas,68931,TX,"Mansfield, Texas","Mansfield, TX",94.851711,726.7238437058875
+Abilene,Texas,119763,TX,"Abilene, Texas","Abilene, TX",276.270544,433.4989835181271
+Austin,Texas,899579,TX,"Austin, Texas","Austin, TX",828.6336259999999,1085.617300304924
+Pflugerville,Texas,66707,TX,"Pflugerville, Texas","Pflugerville, TX",66.189477,1007.8188108360488
+Austin,Texas,63623,TX,"Austin, Texas","Austin, TX",828.6336259999999,76.78061570723658
+Cedar Park,Texas,71368,TX,"Cedar Park, Texas","Cedar Park, TX",66.055835,1080.4193149628643
+Leander,Texas,57127,TX,"Leander, Texas","Leander, TX",97.13209499999999,588.1372166429644
+Round Rock,Texas,121971,TX,"Round Rock, Texas","Round Rock, TX",97.48589199999999,1251.1656558468994
+Draper,Utah,51749,UT,"Draper, Utah","Draper, UT",77.568614,667.1383866675767
+Herriman,Utah,58198,UT,"Herriman, Utah","Herriman, UT",56.028616,1038.7192144814
+Layton,Utah,83291,UT,"Layton, Utah","Layton, UT",58.263479,1429.5576136124657
+Lehi,Utah,79978,UT,"Lehi, Utah","Lehi, UT",72.794532,1098.6814229398437
+Logan,Utah,54436,UT,"Logan, Utah","Logan, UT",46.217684999999996,1177.8175388923094
+Millcreek,Utah,64110,UT,"Millcreek, Utah","Millcreek, UT",33.073841,1938.3899196951452
+Ogden,Utah,86798,UT,"Ogden, Utah","Ogden, UT",71.345598,1216.5852194553056
+Orem,Utah,97861,UT,"Orem, Utah","Orem, UT",48.199148,2030.347092442381
+Provo,Utah,114084,UT,"Provo, Utah","Provo, UT",107.96973,1056.6294830967902
+St. George,Utah,99958,UT,"St. George, Utah","St. George, UT",203.204928,491.9073616167419
+Salt Lake,Utah,200478,UT,"Salt Lake, Utah","Salt Lake, UT",285.773665,701.5272033551447
+Sandy,Utah,95050,UT,"Sandy, Utah","Sandy, UT",62.550231,1519.57872066052
+South Jordan,Utah,80139,UT,"South Jordan, Utah","South Jordan, UT",57.4689,1394.475968741354
+Taylorsville,Utah,59242,UT,"Taylorsville, Utah","Taylorsville, UT",28.095174999999998,2108.618294778374
+West Jordan,Utah,116541,UT,"West Jordan, Utah","West Jordan, UT",83.731212,1391.8465673230671
+West Valley,Utah,139110,UT,"West Valley, Utah","West Valley, UT",92.78806499999999,1499.2229873529534
+Alexandria,Virginia,154706,VA,"Alexandria, Virginia","Alexandria, VA",38.682337,3999.3964170262
+Chesapeake,Virginia,251269,VA,"Chesapeake, Virginia","Chesapeake, VA",876.5980549999999,286.6410649291254
+Hampton,Virginia,137746,VA,"Hampton, Virginia","Hampton, VA",133.282615,1033.4881259645153
+Harrisonburg,Virginia,51430,VA,"Harrisonburg, Virginia","Harrisonburg, VA",44.908386,1145.2204049372872
+Lynchburg,Virginia,79009,VA,"Lynchburg, Virginia","Lynchburg, VA",126.84843099999999,622.8614684244695
+Newport News,Virginia,184587,VA,"Newport News, Virginia","Newport News, VA",178.679454,1033.0622568389983
+Norfolk,Virginia,235089,VA,"Norfolk, Virginia","Norfolk, VA",137.981431,1703.772734463089
+Portsmouth,Virginia,97840,VA,"Portsmouth, Virginia","Portsmouth, VA",86.248205,1134.4004202754134
+Richmond,Virginia,226604,VA,"Richmond, Virginia","Richmond, VA",155.20506699999999,1460.029652253557
+Roanoke,Virginia,98865,VA,"Roanoke, Virginia","Roanoke, VA",110.129436,897.7163925546663
+Suffolk,Virginia,96194,VA,"Suffolk, Virginia","Suffolk, VA",1033.819022,93.04723356115613
+Virginia Beach,Virginia,457672,VA,"Virginia Beach, Virginia","Virginia Beach, VA",633.828628,722.0753051880137
+James County,Virginia,79882,VA,"James County, Virginia","James County, VA",,
+Auburn,Washington,85699,WA,"Auburn, Washington","Auburn, WA",76.60316,1118.7397491173992
+Bellevue,Washington,149440,WA,"Bellevue, Washington","Bellevue, WA",86.66375099999999,1724.365703949279
+Bellingham,Washington,92289,WA,"Bellingham, Washington","Bellingham, WA",72.884726,1266.2323790584053
+Burien,Washington,51073,WA,"Burien, Washington","Burien, WA",26.000609999999998,1964.3000683445505
+Everett,Washington,110812,WA,"Everett, Washington","Everett, WA",85.96441999999999,1289.0449327756764
+Federal Way,Washington,99037,WA,"Federal Way, Washington","Federal Way, WA",57.744825999999996,1715.0800662209979
+Kennewick,Washington,84488,WA,"Kennewick, Washington","Kennewick, WA",71.093746,1188.4027042266137
+Kent,Washington,134835,WA,"Kent, Washington","Kent, WA",87.411126,1542.5381890172655
+Kirkland,Washington,92107,WA,"Kirkland, Washington","Kirkland, WA",46.117520999999996,1997.223571492492
+Lacey,Washington,54461,WA,"Lacey, Washington","Lacey, WA",44.548013999999995,1222.5236348358876
+Lakewood,Washington,63331,WA,"Lakewood, Washington","Lakewood, WA",44.184014,1433.346458744106
+Marysville,Washington,71144,WA,"Marysville, Washington","Marysville, WA",53.751151,1323.5809592244825
+Olympia,Washington,55919,WA,"Olympia, Washington","Olympia, WA",47.191176,1184.9461009405657
+Pasco,Washington,78871,WA,"Pasco, Washington","Pasco, WA",87.95171599999999,896.7533959200979
+Redmond,Washington,76354,WA,"Redmond, Washington","Redmond, WA",42.908262,1779.4708161332658
+Renton,Washington,105179,WA,"Renton, Washington","Renton, WA",60.796848999999995,1730.0074219306991
+Richland,Washington,61929,WA,"Richland, Washington","Richland, WA",101.59508199999999,609.5669079729666
+Sammamish,Washington,66630,WA,"Sammamish, Washington","Sammamish, WA",52.895089,1259.663255316576
+Seattle,Washington,733919,WA,"Seattle, Washington","Seattle, WA",217.119656,3380.251302535225
+Shoreline,Washington,57918,WA,"Shoreline, Washington","Shoreline, WA",30.13385,1922.024567056649
+Spokane,Washington,229071,WA,"Spokane, Washington","Spokane, WA",178.086951,1286.2873933980711
+Spokane Valley,Washington,105905,WA,"Spokane Valley, Washington","Spokane Valley, WA",97.693319,1084.0557070233226
+Tacoma,Washington,219205,WA,"Tacoma, Washington","Tacoma, WA",128.759844,1702.4329417485162
+Vancouver,Washington,192169,WA,"Vancouver, Washington","Vancouver, WA",126.23135099999999,1522.3555675958821
+Yakima,Washington,96578,WA,"Yakima, Washington","Yakima, WA",72.015669,1341.0692609132047
+Auburn,Washington,75733,WA,"Auburn, Washington","Auburn, WA",76.60316,988.6406774864117
+Appleton,Wisconsin,74854,WI,"Appleton, Wisconsin","Appleton, WI",64.203007,1165.89554754032
+Eau Claire,Wisconsin,69441,WI,"Eau Claire, Wisconsin","Eau Claire, WI",85.102803,815.9660734088865
+Green Bay,Wisconsin,107015,WI,"Green Bay, Wisconsin","Green Bay, WI",117.7892,908.5298142783889
+Janesville,Wisconsin,65942,WI,"Janesville, Wisconsin","Janesville, WI",88.47412399999999,745.3252659500761
+Kenosha,Wisconsin,99286,WI,"Kenosha, Wisconsin","Kenosha, WI",73.368731,1353.246793923695
+La Crosse,Wisconsin,52185,WI,"La Crosse, Wisconsin","La Crosse, WI",56.210691999999995,928.3820949936003
+Madison,Wisconsin,269196,WI,"Madison, Wisconsin","Madison, WI",206.086955,1306.22532610082
+Milwaukee,Wisconsin,569330,WI,"Milwaukee, Wisconsin","Milwaukee, WI",249.116031,2285.4008941720817
+Oshkosh,Wisconsin,66607,WI,"Oshkosh, Wisconsin","Oshkosh, WI",69.983046,951.759087479559
+Racine,Wisconsin,77127,WI,"Racine, Wisconsin","Racine, WI",40.080067,1924.323130497761
+Waukesha,Wisconsin,71256,WI,"Waukesha, Wisconsin","Waukesha, WI",66.102904,1077.955667424233
+West Allis,Wisconsin,59484,WI,"West Allis, Wisconsin","West Allis, WI",29.477370999999998,2017.9547219458616
+Eau Claire,Wisconsin,67240,WI,"Eau Claire, Wisconsin","Eau Claire, WI",85.102803,790.1032354950753
+Appleton,Wisconsin,62343,WI,"Appleton, Wisconsin","Appleton, WI",64.203007,971.0292852794263
+Casper,Wyoming,58656,WY,"Casper, Wyoming","Casper, WY",68.757037,853.0908625396409
+Cheyenne,Wyoming,65051,WY,"Cheyenne, Wyoming","Cheyenne, WY",83.549538,778.5919773727534
