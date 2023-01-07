@@ -1,0 +1,761 @@
+city,state_code,walk_score,bike_score
+Auburn,AL,28,38
+Birmingham,AL,33,31
+Decatur,AL,25,40
+Dothan,AL,22,31
+Hoover,AL,17,12
+Huntsville,AL,24,40
+Madison,AL,17,34
+Mobile,AL,32,34
+Montgomery,AL,26,33
+Tuscaloosa,AL,33,37
+Avondale,AZ,26,52
+Buckeye,AZ,14,33
+Casa Grande,AZ,27,45
+Chandler,AZ,35,55
+Flagstaff,AZ,39,65
+Glendale,AZ,40,57
+Goodyear,AZ,17,42
+Lake Havasu City,AZ,15,29
+Maricopa,AZ,13,38
+Mesa,AZ,38,60
+Peoria,AZ,30,47
+Phoenix,AZ,41,56
+Scottsdale,AZ,32,56
+Surprise,AZ,21,46
+Tempe,AZ,54,75
+Tucson,AZ,43,66
+Yuma,AZ,34,51
+Bentonville,AR,24,41
+Conway,AR,25,37
+Fayetteville,AR,32,50
+Fort Smith,AR,35,38
+Jonesboro,AR,23,30
+Little Rock,AR,33,32
+North Little Rock,AR,32,31
+Rogers,AR,20,43
+Springdale,AR,27,39
+Alameda,CA,68,77
+Alhambra,CA,71,49
+Aliso Viejo,CA,35,34
+Anaheim,CA,56,52
+Antioch,CA,41,42
+Arcadia,CA,54,47
+Bakersfield,CA,37,44
+Baldwin Park,CA,55,50
+Beaumont,CA,25,31
+Bellflower,CA,66,60
+Berkeley,CA,85,83
+Brentwood,CA,38,50
+Buena Park,CA,57,54
+Burbank,CA,71,62
+Camarillo,CA,43,46
+Carlsbad,CA,31,29
+Carson,CA,55,51
+Cathedral City,CA,38,43
+Chico,CA,49,69
+Chino,CA,44,46
+Chino Hills,CA,23,20
+Chula Vista,CA,46,41
+Citrus Heights,CA,43,46
+Clovis,CA,37,51
+Colton,CA,43,45
+Compton,CA,65,60
+Concord,CA,49,53
+Corona,CA,39,35
+Costa Mesa,CA,65,66
+Covina,CA,59,48
+Cupertino,CA,48,65
+Daly City,CA,66,34
+Davis,CA,50,90
+Delano,CA,35,37
+Diamond Bar,CA,30,16
+Downey,CA,61,53
+Dublin,CA,36,56
+Eastvale,CA,24,33
+El Cajon,CA,61,45
+Elk Grove,CA,32,45
+El Monte,CA,62,57
+Encinitas,CA,43,35
+Escondido,CA,45,40
+Fairfield,CA,37,42
+Folsom,CA,31,54
+Fontana,CA,37,41
+Fountain Valley,CA,56,66
+Fremont,CA,50,54
+Fresno,CA,47,58
+Fullerton,CA,54,47
+Gardena,CA,75,56
+Garden Grove,CA,62,58
+Gilroy,CA,47,63
+Glendale,CA,71,52
+Glendora,CA,47,42
+Hanford,CA,36,46
+Hawthorne,CA,72,59
+Hayward,CA,57,53
+Hemet,CA,35,43
+Hesperia,CA,16,32
+Highland,CA,35,36
+Huntington Beach,CA,56,71
+Huntington Park,CA,83,58
+Indio,CA,32,43
+Inglewood,CA,73,54
+Irvine,CA,43,69
+Jurupa Valley,CA,53,41
+Laguna Niguel,CA,33,31
+La Habra,CA,63,46
+Lake Elsinore,CA,25,24
+Lake Forest,CA,41,46
+Lakewood,CA,58,62
+La Mesa,CA,60,35
+Lancaster,CA,29,40
+Lincoln,CA,22,47
+Livermore,CA,41,66
+Lodi,CA,58,53
+Long Beach,CA,73,70
+Los Angeles,CA,69,59
+Lynwood,CA,70,56
+Madera,CA,42,44
+Manteca,CA,42,45
+Menifee,CA,16,29
+Merced,CA,42,54
+Milpitas,CA,54,66
+Mission Viejo,CA,36,36
+Modesto,CA,48,48
+Montebello,CA,66,53
+Monterey Park,CA,64,38
+Moreno Valley,CA,33,37
+Mountain View,CA,66,92
+Murrieta,CA,28,24
+Napa,CA,51,60
+National City,CA,69,49
+Newport Beach,CA,49,53
+Norwalk,CA,61,52
+Novato,CA,36,37
+Oakland,CA,75,65
+Oceanside,CA,39,33
+Ontario,CA,48,46
+Orange,CA,51,53
+Oxnard,CA,57,51
+Palmdale,CA,24,35
+Palm Desert,CA,28,40
+Palo Alto,CA,61,91
+Paramount,CA,64,56
+Pasadena,CA,69,70
+Perris,CA,24,33
+Petaluma,CA,47,54
+Pico Rivera,CA,59,59
+Pittsburg,CA,39,40
+Placentia,CA,50,46
+Pleasanton,CA,42,58
+Pomona,CA,52,47
+Porterville,CA,40,47
+Rancho Cordova,CA,43,60
+Rancho Cucamonga,CA,41,45
+Redding,CA,27,42
+Redlands,CA,40,53
+Redondo Beach,CA,75,64
+Redwood City,CA,62,67
+Rialto,CA,41,43
+Richmond,CA,59,52
+Riverside,CA,43,49
+Rocklin,CA,34,51
+Rosemead,CA,65,51
+Roseville,CA,38,59
+Sacramento,CA,49,67
+Salinas,CA,55,50
+San Bernardino,CA,45,44
+San Buenaventura (Ventura),CA,48,59
+San Clemente,CA,34,31
+San Diego,CA,53,43
+San Francisco,CA,89,72
+San Jacinto,CA,27,42
+San Jose,CA,51,62
+San Leandro,CA,65,63
+San Marcos,CA,33,30
+San Mateo,CA,68,65
+San Rafael,CA,53,45
+San Ramon,CA,24,37
+Santa Ana,CA,67,62
+Santa Barbara,CA,61,68
+Santa Clara,CA,58,74
+Santa Clarita,CA,35,33
+Santa Cruz,CA,63,86
+Santa Maria,CA,52,54
+Santa Monica,CA,83,88
+Santa Rosa,CA,47,51
+Santee,CA,35,31
+Simi Valley,CA,39,47
+South Gate,CA,70,55
+South San Francisco,CA,63,42
+Stockton,CA,44,52
+Sunnyvale,CA,60,78
+Temecula,CA,30,29
+Thousand Oaks,CA,33,27
+Torrance,CA,67,54
+Tracy,CA,43,46
+Tulare,CA,40,55
+Turlock,CA,46,45
+Tustin,CA,51,59
+Union City,CA,47,53
+Upland,CA,48,47
+Vacaville,CA,36,46
+Vallejo,CA,46,36
+Victorville,CA,19,34
+Visalia,CA,39,48
+Vista,CA,46,30
+Walnut Creek,CA,41,49
+Watsonville,CA,69,70
+West Covina,CA,47,37
+Westminster,CA,65,58
+West Sacramento,CA,39,61
+Whittier,CA,64,52
+Woodland,CA,50,65
+Yorba Linda,CA,28,34
+Yuba City,CA,43,54
+Yucaipa,CA,25,27
+Arvada,CO,35,50
+Aurora,CO,43,53
+Boulder,CO,56,86
+Broomfield,CO,33,58
+Centennial,CO,35,46
+Colorado Springs,CO,36,45
+Commerce City,CO,30,45
+Denver,CO,61,72
+Fort Collins,CO,37,78
+Grand Junction,CO,32,55
+Greeley,CO,39,47
+Lakewood,CO,43,56
+Longmont,CO,39,58
+Loveland,CO,30,46
+Pueblo,CO,37,47
+Thornton,CO,32,48
+Westminster,CO,35,51
+Bridgeport,CT,66,49
+Bristol,CT,33,30
+Danbury,CT,37,28
+Hartford,CT,67,54
+Meriden,CT,40,33
+Milford (balance),CT,64,43
+New Britain,CT,48,48
+New Haven,CT,68,66
+Norwalk,CT,48,40
+Stamford,CT,55,46
+Waterbury,CT,46,29
+West Haven,CT,48,39
+Milford,CT,34,35
+Wilmington,DE,74,52
+Washington,DC,98,92
+Apopka,FL,18,37
+Boca Raton,FL,38,56
+Bonita Springs,FL,19,45
+Boynton Beach,FL,34,44
+Bradenton,FL,40,43
+Cape Coral,FL,17,37
+Clearwater,FL,42,56
+Coconut Creek,FL,25,41
+Coral Springs,FL,38,45
+Daytona Beach,FL,37,51
+Deerfield Beach,FL,39,50
+Delray Beach,FL,35,48
+Deltona,FL,16,30
+Doral,FL,39,53
+Fort Lauderdale,FL,56,56
+Fort Myers,FL,35,48
+Gainesville,FL,37,69
+Hialeah,FL,68,51
+Hollywood,FL,52,53
+Homestead,FL,32,45
+Jacksonville,FL,26,41
+Kissimmee,FL,30,49
+Lakeland,FL,35,51
+Largo,FL,43,52
+Lauderhill,FL,39,46
+Margate,FL,37,47
+Melbourne,FL,33,45
+Miami,FL,77,64
+Miami Beach,FL,76,69
+Miami Gardens,FL,38,43
+Miramar,FL,28,40
+North Miami,FL,61,53
+North Port,FL,7,32
+Ocala,FL,27,42
+Orlando,FL,41,57
+Palm Bay,FL,13,38
+Palm Beach Gardens,FL,21,35
+Palm Coast,FL,6,32
+Pembroke Pines,FL,32,41
+Pensacola,FL,36,47
+Pinellas Park,FL,40,51
+Plantation,FL,29,42
+Pompano Beach,FL,43,51
+Port Orange,FL,20,38
+Port St. Lucie,FL,13,36
+St. Cloud,FL,25,44
+St. Petersburg,FL,43,59
+Sanford,FL,27,40
+Sarasota,FL,52,60
+Sunrise,FL,37,44
+Tallahassee,FL,30,45
+Tamarac,FL,30,51
+Tampa,FL,50,55
+Weston,FL,15,39
+West Palm Beach,FL,40,50
+Winter Haven,FL,25,41
+Albany,GA,23,34
+Alpharetta,GA,22,24
+Atlanta,GA,48,42
+Brookhaven,GA,22,25
+Columbus,GA,25,31
+Dunwoody,GA,33,25
+Johns Creek,GA,18,21
+Marietta,GA,36,27
+Roswell,GA,22,22
+Sandy Springs,GA,27,20
+Savannah,GA,44,52
+Smyrna,GA,34,28
+South Fulton,GA,7,16
+Stonecrest,GA,53,35
+Valdosta,GA,30,45
+Warner Robins,GA,21,33
+Boise City,ID,38,62
+Caldwell,ID,24,38
+Coeur d'Alene,ID,35,50
+Idaho Falls,ID,42,49
+Meridian,ID,26,41
+Nampa,ID,29,46
+Pocatello,ID,37,42
+Twin Falls,ID,39,52
+Aurora,IL,40,52
+Berwyn,IL,75,57
+Bloomington,IL,35,47
+Champaign,IL,52,65
+Chicago,IL,77,72
+Decatur,IL,34,39
+Des Plaines,IL,57,54
+Elgin,IL,43,51
+Evanston,IL,76,89
+Joliet,IL,35,44
+Naperville,IL,34,45
+Peoria,IL,41,44
+Rockford,IL,41,43
+Springfield,IL,38,45
+Waukegan,IL,49,42
+Wheaton,IL,40,51
+Champaign City township,IL,70,68
+Anderson,IN,34,40
+Bloomington,IN,43,58
+Carmel,IN,19,54
+Columbus,IN,29,48
+Elkhart,IN,38,47
+Evansville,IN,44,43
+Fishers,IN,18,52
+Fort Wayne,IN,32,41
+Gary,IN,32,39
+Greenwood,IN,25,40
+Hammond,IN,52,54
+Indianapolis (balance),IN,99,99
+Jeffersonville,IN,24,37
+Kokomo,IN,40,47
+Lafayette,IN,38,43
+Mishawaka,IN,44,47
+Muncie,IN,38,53
+Noblesville,IN,15,44
+South Bend,IN,42,58
+Terre Haute,IN,40,48
+Westfield,IN,15,51
+Indianapolis,IN,31,43
+Ames,IA,42,69
+Ankeny,IA,34,39
+Cedar Rapids,IA,34,41
+Council Bluffs,IA,37,45
+Davenport,IA,44,40
+Des Moines,IA,45,39
+Dubuque,IA,40,34
+Iowa City,IA,45,66
+Sioux City,IA,40,36
+Waterloo,IA,37,47
+West Des Moines,IA,34,37
+Kansas City,KS,32,28
+Lawrence,KS,41,61
+Lenexa,KS,33,44
+Manhattan,KS,39,54
+Olathe,KS,30,50
+Overland Park,KS,35,46
+Shawnee,KS,24,33
+Topeka,KS,37,54
+Wichita,KS,35,44
+Bowling Green,KY,37,39
+Owensboro,KY,36,47
+Baton Rouge,LA,39,44
+Bossier City,LA,31,39
+Kenner,LA,46,46
+Lafayette,LA,42,47
+Lake Charles,LA,37,44
+New Orleans,LA,58,66
+Shreveport,LA,31,37
+Portland,ME,62,68
+Baltimore,MD,64,53
+Bowie,MD,25,38
+Frederick,MD,47,47
+Gaithersburg,MD,52,51
+Rockville,MD,56,58
+Boston,MA,83,69
+Brockton,MA,51,43
+Cambridge,MA,90,96
+Chicopee,MA,42,37
+Fall River,MA,65,48
+Framingham,MA,42,37
+Haverhill,MA,41,33
+Lawrence,MA,72,44
+Lowell,MA,67,44
+Lynn,MA,70,45
+Malden,MA,73,49
+Medford,MA,68,59
+Methuen Town,MA,38,31
+New Bedford,MA,65,49
+Newton,MA,57,47
+Peabody,MA,43,35
+Quincy,MA,63,42
+Revere,MA,67,44
+Somerville,MA,89,90
+Springfield,MA,58,45
+Taunton,MA,30,34
+Waltham,MA,57,47
+Weymouth Town,MA,37,34
+Worcester,MA,56,35
+Ann Arbor,MI,52,71
+Battle Creek,MI,37,38
+Dearborn,MI,58,47
+Dearborn Heights,MI,47,49
+Detroit,MI,51,52
+Farmington Hills,MI,25,36
+Flint,MI,44,44
+Grand Rapids,MI,56,52
+Kalamazoo,MI,47,50
+Kentwood,MI,25,41
+Lansing,MI,46,55
+Livonia,MI,36,45
+Novi,MI,19,45
+Pontiac,MI,41,43
+Rochester Hills,MI,20,32
+Royal Oak,MI,57,53
+St. Clair Shores,MI,47,42
+Southfield,MI,34,39
+Sterling Heights,MI,33,37
+Taylor,MI,36,38
+Troy,MI,29,41
+Warren,MI,44,44
+Westland,MI,40,45
+Wyoming,MI,39,42
+Apple Valley,MN,21,38
+Blaine,MN,23,40
+Bloomington,MN,29,42
+Brooklyn Park,MN,28,45
+Burnsville,MN,32,39
+Coon Rapids,MN,25,46
+Duluth,MN,36,43
+Eagan,MN,23,37
+Eden Prairie,MN,18,48
+Edina,MN,37,49
+Lakeville,MN,14,37
+Maple Grove,MN,13,46
+Minneapolis,MN,71,83
+Minnetonka,MN,21,37
+Plymouth,MN,18,41
+Rochester,MN,30,57
+St. Cloud,MN,34,49
+St. Paul,MN,60,64
+Woodbury,MN,20,36
+Gulfport,MS,23,37
+Jackson,MS,26,33
+Southaven,MS,19,28
+Blue Springs,MO,25,31
+Columbia,MO,30,40
+Florissant,MO,39,39
+Independence,MO,28,28
+Joplin,MO,35,44
+Kansas City,MO,35,35
+Lee's Summit,MO,20,29
+O'Fallon,MO,22,27
+St. Charles,MO,33,30
+St. Joseph,MO,32,27
+St. Louis,MO,66,58
+St. Peters,MO,27,36
+Springfield,MO,39,51
+Billings,MT,35,47
+Bozeman,MT,47,62
+Great Falls,MT,44,43
+Missoula,MT,45,60
+Bellevue,NE,33,29
+Grand Island,NE,39,49
+Lincoln,NE,44,59
+Omaha,NE,48,42
+Carson City,NV,36,55
+Henderson,NV,30,44
+Las Vegas,NV,42,46
+North Las Vegas,NV,34,48
+Reno,NV,40,52
+Sparks,NV,41,52
+Manchester,NH,51,42
+Nashua,NH,39,35
+Bayonne,NJ,79,51
+Camden,NJ,63,56
+Clifton,NJ,62,44
+East Orange,NJ,70,47
+Elizabeth,NJ,80,54
+Hoboken,NJ,97,78
+Jersey City,NJ,87,64
+Newark,NJ,76,51
+New Brunswick,NJ,73,60
+Passaic,NJ,82,50
+Paterson,NJ,76,46
+Perth Amboy,NJ,73,50
+Plainfield,NJ,54,48
+Trenton,NJ,68,56
+Union City,NJ,94,54
+Vineland,NJ,26,35
+Albuquerque,NM,43,61
+Las Cruces,NM,34,46
+Rio Rancho,NM,16,32
+Santa Fe,NM,39,50
+Albany,NY,65,55
+Buffalo,NY,67,63
+Mount Vernon,NY,73,43
+New Rochelle,NY,64,47
+New York,NY,88,69
+Rochester,NY,61,60
+Schenectady,NY,62,48
+Syracuse,NY,57,48
+Troy,NY,52,42
+Utica,NY,54,45
+White Plains,NY,63,39
+Yonkers,NY,69,37
+Asheville,NC,37,33
+Burlington,NC,33,35
+Charlotte,NC,26,31
+Concord,NC,18,24
+Durham,NC,30,38
+Fayetteville,NC,21,30
+Gastonia,NC,23,27
+Greensboro,NC,29,32
+Greenville,NC,31,43
+High Point,NC,23,31
+Jacksonville,NC,24,40
+Kannapolis,NC,22,26
+Raleigh,NC,31,39
+Rocky Mount,NC,22,33
+Wilmington,NC,35,51
+Winston-Salem,NC,22,29
+Bismarck,ND,35,38
+Fargo,ND,45,49
+Grand Forks,ND,47,62
+Akron,OH,48,43
+Canton,OH,48,43
+Cincinnati,OH,49,36
+Cleveland,OH,57,52
+Columbus,OH,41,48
+Cuyahoga Falls,OH,46,41
+Dayton,OH,45,47
+Elyria,OH,29,39
+Hamilton,OH,42,41
+Kettering,OH,41,43
+Lakewood,OH,70,64
+Lorain,OH,38,40
+Middletown,OH,33,37
+Newark,OH,36,44
+Parma,OH,42,38
+Springfield,OH,42,46
+Toledo,OH,46,46
+Youngstown,OH,34,34
+Broken Arrow,OK,22,32
+Edmond,OK,29,34
+Enid,OK,30,41
+Lawton,OK,34,40
+Midwest City,OK,29,37
+Moore,OK,32,35
+Norman,OK,31,58
+Oklahoma City,OK,34,40
+Tulsa,OK,39,47
+Albany,OR,33,52
+Beaverton,OR,52,67
+Bend,OR,32,53
+Corvallis,OR,47,85
+Eugene,OR,46,72
+Gresham,OR,47,64
+Hillsboro,OR,44,72
+Medford,OR,38,53
+Portland,OR,67,83
+Salem,OR,42,60
+Springfield,OR,46,63
+Tigard,OR,43,62
+Allentown,PA,67,42
+Bethlehem,PA,59,45
+Erie,PA,60,52
+Harrisburg,PA,68,57
+Lancaster,PA,81,58
+Philadelphia,PA,75,67
+Pittsburgh,PA,62,55
+Reading,PA,72,47
+Scranton,PA,58,38
+Cranston,RI,51,43
+Pawtucket,RI,71,50
+Providence,RI,76,61
+Warwick,RI,35,36
+Charleston,SC,40,50
+Columbia,SC,35,35
+Greenville,SC,43,39
+North Charleston,SC,26,38
+Rock Hill,SC,28,31
+Rapid City,SD,28,36
+Sioux Falls,SD,38,46
+Bartlett,TN,15,33
+Chattanooga,TN,29,35
+Clarksville,TN,18,27
+Franklin,TN,23,30
+Hendersonville,TN,14,24
+Jackson,TN,22,32
+Johnson City,TN,26,26
+Kingsport,TN,25,26
+Knoxville,TN,31,30
+Memphis,TN,35,41
+Murfreesboro,TN,25,38
+Spring Hill,TN,11,24
+Abilene,TX,31,37
+Allen,TX,35,58
+Amarillo,TX,40,42
+Arlington,TX,38,40
+Austin,TX,42,54
+Baytown,TX,33,38
+Beaumont,TX,31,37
+Brownsville,TX,35,41
+Bryan,TX,33,45
+Burleson,TX,28,37
+Carrollton,TX,36,39
+Cedar Park,TX,26,40
+College Station,TX,34,62
+Conroe,TX,24,38
+Corpus Christi,TX,40,42
+Dallas,TX,46,49
+Denton,TX,34,46
+DeSoto,TX,23,29
+Edinburg,TX,26,36
+El Paso,TX,40,42
+Euless,TX,38,37
+Fort Worth,TX,35,39
+Frisco,TX,25,39
+Galveston,TX,54,57
+Garland,TX,40,41
+Georgetown,TX,23,35
+Grand Prairie,TX,32,34
+Grapevine,TX,30,38
+Harlingen,TX,34,39
+Houston,TX,47,49
+Irving,TX,45,42
+Killeen,TX,30,38
+Kyle,TX,17,28
+Laredo,TX,37,40
+League City,TX,24,34
+Leander,TX,28,41
+Lewisville,TX,39,39
+Little Elm,TX,24,32
+Longview,TX,28,33
+Lubbock,TX,39,43
+McAllen,TX,41,46
+McKinney,TX,27,42
+Mansfield,TX,25,33
+Mesquite,TX,35,40
+Midland,TX,42,40
+Mission,TX,30,37
+Missouri City,TX,25,34
+New Braunfels,TX,25,32
+North Richland Hills,TX,33,42
+Odessa,TX,42,40
+Pasadena,TX,43,45
+Pearland,TX,21,36
+Pflugerville,TX,23,39
+Pharr,TX,33,41
+Plano,TX,41,52
+Port Arthur,TX,33,38
+Richardson,TX,44,53
+Round Rock,TX,26,35
+Rowlett,TX,19,30
+San Angelo,TX,32,37
+San Antonio,TX,37,45
+San Marcos,TX,39,43
+Sugar Land,TX,28,37
+Temple,TX,29,36
+Texas City,TX,36,44
+Tyler,TX,35,35
+Victoria,TX,35,41
+Waco,TX,35,39
+Wichita Falls,TX,29,39
+Wylie,TX,17,33
+Draper,UT,17,33
+Herriman,UT,13,28
+Layton,UT,30,38
+Lehi,UT,20,40
+Logan,UT,40,51
+Millcreek,UT,46,46
+Ogden,UT,44,44
+Orem,UT,43,56
+Provo,UT,45,63
+St. George,UT,27,45
+Salt Lake City,UT,59,74
+Sandy,UT,35,37
+South Jordan,UT,26,44
+Taylorsville,UT,35,42
+West Jordan,UT,28,40
+West Valley City,UT,36,39
+Alexandria,VA,62,62
+Chesapeake,VA,21,35
+Hampton,VA,33,40
+Harrisonburg,VA,45,40
+Lynchburg,VA,29,24
+Newport News,VA,34,39
+Norfolk,VA,46,47
+Portsmouth,VA,35,42
+Richmond,VA,51,51
+Roanoke,VA,39,39
+Suffolk,VA,15,32
+Virginia Beach,VA,33,42
+James City County,VA,0,25
+Auburn,WA,33,41
+Bellevue,WA,41,42
+Bellingham,WA,49,58
+Burien,WA,52,45
+Everett,WA,49,55
+Federal Way,WA,38,37
+Kennewick,WA,36,40
+Kent,WA,40,44
+Kirkland,WA,51,48
+Lacey,WA,29,51
+Lakewood,WA,40,43
+Marysville,WA,23,39
+Olympia,WA,39,59
+Pasco,WA,38,42
+Redmond,WA,33,51
+Renton,WA,40,35
+Richland,WA,34,49
+Sammamish,WA,13,28
+Seattle,WA,74,71
+Shoreline,WA,50,49
+Spokane,WA,49,52
+Spokane Valley,WA,30,44
+Tacoma,WA,54,48
+Vancouver,WA,41,59
+Yakima,WA,49,46
+Appleton,WI,44,51
+Eau Claire,WI,36,48
+Green Bay,WI,42,47
+Janesville,WI,37,45
+Kenosha,WI,49,47
+La Crosse,WI,54,66
+Madison,WI,50,66
+Milwaukee,WI,62,58
+Oshkosh,WI,43,51
+Racine,WI,56,54
+Waukesha,WI,35,38
+West Allis,WI,60,51
+Casper,WY,36,42
+Cheyenne,WY,36,49

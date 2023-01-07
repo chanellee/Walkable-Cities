@@ -1,0 +1,31 @@
+Measure,MeasureId
+Current lack of health insurance among adults aged 18-64 years,access2
+Arthritis among adults aged >=18 years,arthritis
+Cholesterol screening among adults aged >=18 years,cholscreen
+Stroke among adults aged >=18 years,stroke
+Cervical cancer screening among adult women aged 21-65 years,cervical
+Obesity among adults aged >=18 years,obesity
+Binge drinking among adults aged >=18 years,binge
+Coronary heart disease among adults aged >=18 years,chd
+Visits to doctor for routine checkup within the past year among adults aged >=18 years,checkup
+Current asthma among adults aged >=18 years,casthma
+All teeth lost among adults aged >=65 years,teethlost
+High blood pressure among adults aged >=18 years,bphigh
+Cancer (excluding skin cancer) among adults aged >=18 years,cancer
+Depression among adults aged >=18 years,depression
+Physical health not good for >=14 days among adults aged >=18 years,phlth
+Chronic obstructive pulmonary disease among adults aged >=18 years,copd
+Taking medicine for high blood pressure control among adults aged >=18 years with high blood pressure,bpmed
+Diagnosed diabetes among adults aged >=18 years,diabetes
+Mammography use among women aged 50-74 years,mammouse
+"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",colon_screen
+Current smoking among adults aged >=18 years,csmoking
+Visits to dentist or dental clinic among adults aged >=18 years,dental
+Fair or poor self-rated health status among adults aged >=18 years,ghlth
+Sleeping less than 7 hours among adults aged >=18 years,sleep
+No leisure-time physical activity among adults aged >=18 years,lpa
+Mental health not good for >=14 days among adults aged >=18 years,mhlth
+High cholesterol among adults aged >=18 years who have been screened in the past 5 years,highchol
+Chronic kidney disease among adults aged >=18 years,kidney
+"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",corem
+"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",corew
