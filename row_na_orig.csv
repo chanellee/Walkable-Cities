@@ -1,0 +1,761 @@
+city_state,sum_na
+"Auburn, Alabama",9
+"Birmingham, Alabama",2
+"Decatur, Alabama",16
+"Dothan, Alabama",3
+"Hoover, Alabama",6
+"Huntsville, Alabama",2
+"Madison, Alabama",17
+"Mobile, Alabama",2
+"Montgomery, Alabama",2
+"Tuscaloosa, Alabama",2
+"Avondale, Arizona",6
+"Buckeye, Arizona",7
+"Casa Grande, Arizona",17
+"Chandler, Arizona",1
+"Flagstaff, Arizona",0
+"Glendale, Arizona",1
+"Goodyear, Arizona",1
+"Lake Havasu City, Arizona",14
+"Maricopa, Arizona",15
+"Mesa, Arizona",1
+"Peoria, Arizona",1
+"Phoenix, Arizona",0
+"Scottsdale, Arizona",1
+"Surprise, Arizona",1
+"Tempe, Arizona",1
+"Tucson, Arizona",0
+"Yuma, Arizona",5
+"Bentonville, Arkansas",16
+"Conway, Arkansas",8
+"Fayetteville, Arkansas",0
+"Fort Smith, Arkansas",6
+"Jonesboro, Arkansas",6
+"Little Rock, Arkansas",0
+"North Little Rock, Arkansas",15
+"Rogers, Arkansas",7
+"Springdale, Arkansas",8
+"Alameda, California",1
+"Alhambra, California",1
+"Aliso Viejo, California",15
+"Anaheim, California",1
+"Antioch, California",1
+"Arcadia, California",15
+"Bakersfield, California",0
+"Baldwin Park, California",1
+"Beaumont, California",15
+"Bellflower, California",1
+"Berkeley, California",1
+"Brentwood, California",15
+"Buena Park, California",6
+"Burbank, California",6
+"Camarillo, California",1
+"Carlsbad, California",6
+"Carson, California",1
+"Cathedral City, California",15
+"Chico, California",0
+"Chino, California",6
+"Chino Hills, California",6
+"Chula Vista, California",1
+"Citrus Heights, California",6
+"Clovis, California",6
+"Colton, California",15
+"Compton, California",1
+"Concord, California",1
+"Corona, California",1
+"Costa Mesa, California",1
+"Covina, California",15
+"Cupertino, California",15
+"Daly City, California",1
+"Davis, California",1
+"Delano, California",15
+"Diamond Bar, California",15
+"Downey, California",1
+"Dublin, California",7
+"Eastvale, California",9
+"El Cajon, California",1
+"Elk Grove, California",1
+"El Monte, California",1
+"Encinitas, California",15
+"Escondido, California",1
+"Fairfield, California",1
+"Folsom, California",6
+"Fontana, California",1
+"Fountain Valley, California",15
+"Fremont, California",1
+"Fresno, California",2
+"Fullerton, California",1
+"Gardena, California",15
+"Garden Grove, California",1
+"Gilroy, California",15
+"Glendale, California",1
+"Glendora, California",15
+"Hanford, California",14
+"Hawthorne, California",1
+"Hayward, California",1
+"Hemet, California",6
+"Hesperia, California",6
+"Highland, California",15
+"Huntington Beach, California",1
+"Huntington Park, California",15
+"Indio, California",6
+"Inglewood, California",1
+"Irvine, California",1
+"Jurupa Valley, California",1
+"Laguna Niguel, California",15
+"La Habra, California",15
+"Lake Elsinore, California",7
+"Lake Forest, California",6
+"Lakewood, California",6
+"La Mesa, California",15
+"Lancaster, California",1
+"Lincoln, California",15
+"Livermore, California",1
+"Lodi, California",6
+"Long Beach, California",1
+"Los Angeles, California",0
+"Lynwood, California",1
+"Madera, California",5
+"Manteca, California",6
+"Menifee, California",6
+"Merced, California",5
+"Milpitas, California",1
+"Mission Viejo, California",6
+"Modesto, California",0
+"Montebello, California",15
+"Monterey Park, California",15
+"Moreno Valley, California",1
+"Mountain View, California",1
+"Murrieta, California",6
+"Napa, California",5
+"National City, California",15
+"Newport Beach, California",6
+"Norwalk, California",1
+"Novato, California",15
+"Oakland, California",1
+"Oceanside, California",1
+"Ontario, California",1
+"Orange, California",1
+"Oxnard, California",1
+"Palmdale, California",1
+"Palm Desert, California",15
+"Palo Alto, California",1
+"Paramount, California",15
+"Pasadena, California",1
+"Perris, California",6
+"Petaluma, California",15
+"Pico Rivera, California",15
+"Pittsburg, California",1
+"Placentia, California",15
+"Pleasanton, California",6
+"Pomona, California",1
+"Porterville, California",15
+"Rancho Cordova, California",6
+"Rancho Cucamonga, California",1
+"Redding, California",2
+"Redlands, California",6
+"Redondo Beach, California",6
+"Redwood City, California",1
+"Rialto, California",6
+"Richmond, California",1
+"Riverside, California",0
+"Rocklin, California",6
+"Rosemead, California",15
+"Roseville, California",1
+"Sacramento, California",0
+"Salinas, California",0
+"San Bernardino, California",1
+"San Buenaventura (Ventura), California",3
+"San Clemente, California",15
+"San Diego, California",0
+"San Francisco, California",33
+"San Jacinto, California",15
+"San Jose, California",0
+"San Leandro, California",1
+"San Marcos, California",6
+"San Mateo, California",1
+"San Rafael, California",15
+"San Ramon, California",6
+"Santa Ana, California",1
+"Santa Barbara, California",1
+"Santa Clara, California",1
+"Santa Clarita, California",1
+"Santa Cruz, California",14
+"Santa Maria, California",2
+"Santa Monica, California",1
+"Santa Rosa, California",0
+"Santee, California",15
+"Simi Valley, California",1
+"South Gate, California",1
+"South San Francisco, California",15
+"Stockton, California",0
+"Sunnyvale, California",1
+"Temecula, California",1
+"Thousand Oaks, California",6
+"Torrance, California",1
+"Tracy, California",6
+"Tulare, California",6
+"Turlock, California",6
+"Tustin, California",1
+"Union City, California",1
+"Upland, California",1
+"Vacaville, California",6
+"Vallejo, California",0
+"Victorville, California",6
+"Visalia, California",5
+"Vista, California",1
+"Walnut Creek, California",1
+"Watsonville, California",15
+"West Covina, California",1
+"Westminster, California",1
+"West Sacramento, California",15
+"Whittier, California",1
+"Woodland, California",15
+"Yorba Linda, California",6
+"Yuba City, California",5
+"Yucaipa, California",15
+"Arvada, Colorado",1
+"Aurora, Colorado",1
+"Boulder, Colorado",0
+"Broomfield, Colorado",34
+"Centennial, Colorado",3
+"Colorado Springs, Colorado",0
+"Commerce City, Colorado",15
+"Denver, Colorado",33
+"Fort Collins, Colorado",0
+"Grand Junction, Colorado",0
+"Greeley, Colorado",0
+"Lakewood, Colorado",3
+"Longmont, Colorado",6
+"Loveland, Colorado",6
+"Pueblo, Colorado",2
+"Thornton, Colorado",1
+"Westminster, Colorado",34
+"Bridgeport, Connecticut",1
+"Bristol, Connecticut",15
+"Danbury, Connecticut",1
+"Hartford, Connecticut",0
+"Meriden, Connecticut",15
+"Milford (balance), Connecticut",17
+"New Britain, Connecticut",8
+"New Haven, Connecticut",0
+"Norwalk, Connecticut",1
+"Stamford, Connecticut",0
+"Waterbury, Connecticut",1
+"West Haven, Connecticut",15
+"Milford, Connecticut",26
+"Wilmington, Delaware",1
+"Washington, District of Columbia",33
+"Apopka, Florida",15
+"Boca Raton, Florida",1
+"Bonita Springs, Florida",17
+"Boynton Beach, Florida",6
+"Bradenton, Florida",15
+"Cape Coral, Florida",1
+"Clearwater, Florida",1
+"Coconut Creek, Florida",15
+"Coral Springs, Florida",1
+"Daytona Beach, Florida",0
+"Deerfield Beach, Florida",1
+"Delray Beach, Florida",7
+"Deltona, Florida",3
+"Doral, Florida",1
+"Fort Lauderdale, Florida",1
+"Fort Myers, Florida",5
+"Gainesville, Florida",33
+"Hialeah, Florida",1
+"Hollywood, Florida",1
+"Homestead, Florida",6
+"Jacksonville, Florida",0
+"Kissimmee, Florida",6
+"Lakeland, Florida",0
+"Largo, Florida",6
+"Lauderhill, Florida",6
+"Margate, Florida",15
+"Melbourne, Florida",5
+"Miami, Florida",0
+"Miami Beach, Florida",1
+"Miami Gardens, Florida",1
+"Miramar, Florida",6
+"North Miami, Florida",15
+"North Port, Florida",7
+"Ocala, Florida",14
+"Orlando, Florida",0
+"Palm Bay, Florida",1
+"Palm Beach Gardens, Florida",15
+"Palm Coast, Florida",8
+"Pembroke Pines, Florida",6
+"Pensacola, Florida",14
+"Pinellas Park, Florida",15
+"Plantation, Florida",6
+"Pompano Beach, Florida",1
+"Port Orange, Florida",15
+"Port St. Lucie, Florida",5
+"St. Cloud, Florida",15
+"St. Petersburg, Florida",1
+"Sanford, Florida",15
+"Sarasota, Florida",14
+"Sunrise, Florida",1
+"Tallahassee, Florida",0
+"Tamarac, Florida",7
+"Tampa, Florida",0
+"Weston, Florida",6
+"West Palm Beach, Florida",1
+"Winter Haven, Florida",15
+"Albany, Georgia",5
+"Alpharetta, Georgia",7
+"Atlanta, Georgia",2
+"Brookhaven, Georgia",15
+"Columbus, Georgia",2
+"Dunwoody, Georgia",15
+"Johns Creek, Georgia",8
+"Marietta, Georgia",15
+"Roswell, Georgia",9
+"Sandy Springs, Georgia",6
+"Savannah, Georgia",2
+"Smyrna, Georgia",17
+"South Fulton, Georgia",9
+"Stonecrest, Georgia",50
+"Valdosta, Georgia",16
+"Warner Robins, Georgia",5
+"Boise City, Idaho",2
+"Caldwell, Idaho",15
+"Coeur d'Alene, Idaho",14
+"Idaho Falls, Idaho",5
+"Meridian, Idaho",7
+"Nampa, Idaho",2
+"Pocatello, Idaho",14
+"Twin Falls, Idaho",14
+"Aurora, Illinois",1
+"Berwyn, Illinois",16
+"Bloomington, Illinois",0
+"Champaign, Illinois",0
+"Chicago, Illinois",0
+"Decatur, Illinois",5
+"Des Plaines, Illinois",15
+"Elgin, Illinois",1
+"Evanston, Illinois",1
+"Joliet, Illinois",2
+"Naperville, Illinois",3
+"Peoria, Illinois",5
+"Rockford, Illinois",0
+"Springfield, Illinois",0
+"Waukegan, Illinois",1
+"Wheaton, Illinois",15
+"Champaign City township, Illinois",28
+"Anderson, Indiana",15
+"Bloomington, Indiana",2
+"Carmel, Indiana",39
+"Columbus, Indiana",14
+"Elkhart, Indiana",16
+"Evansville, Indiana",0
+"Fishers, Indiana",7
+"Fort Wayne, Indiana",0
+"Gary, Indiana",15
+"Greenwood, Indiana",16
+"Hammond, Indiana",1
+"Indianapolis (balance), Indiana",3
+"Jeffersonville, Indiana",15
+"Kokomo, Indiana",14
+"Lafayette, Indiana",0
+"Mishawaka, Indiana",17
+"Muncie, Indiana",16
+"Noblesville, Indiana",7
+"South Bend, Indiana",0
+"Terre Haute, Indiana",16
+"Westfield, Indiana",15
+"Indianapolis, Indiana",27
+"Ames, Iowa",1
+"Ankeny, Iowa",9
+"Cedar Rapids, Iowa",0
+"Council Bluffs, Iowa",15
+"Davenport, Iowa",5
+"Des Moines, Iowa",0
+"Dubuque, Iowa",15
+"Iowa City, Iowa",0
+"Sioux City, Iowa",0
+"Waterloo, Iowa",5
+"West Des Moines, Iowa",9
+"Kansas City, Kansas",3
+"Lawrence, Kansas",3
+"Lenexa, Kansas",15
+"Manhattan, Kansas",17
+"Olathe, Kansas",3
+"Overland Park, Kansas",3
+"Shawnee, Kansas",9
+"Topeka, Kansas",0
+"Wichita, Kansas",0
+"Bowling Green, Kentucky",0
+"Owensboro, Kentucky",14
+"Baton Rouge, Louisiana",31
+"Bossier City, Louisiana",46
+"Kenner, Louisiana",37
+"Lafayette, Louisiana",36
+"Lake Charles, Louisiana",37
+"New Orleans, Louisiana",35
+"Shreveport, Louisiana",31
+"Portland, Maine",0
+"Baltimore, Maryland",0
+"Bowie, Maryland",15
+"Frederick, Maryland",6
+"Gaithersburg, Maryland",3
+"Rockville, Maryland",3
+"Boston, Massachusetts",2
+"Brockton, Massachusetts",1
+"Cambridge, Massachusetts",1
+"Chicopee, Massachusetts",15
+"Fall River, Massachusetts",1
+"Framingham, Massachusetts",1
+"Haverhill, Massachusetts",6
+"Lawrence, Massachusetts",1
+"Lowell, Massachusetts",1
+"Lynn, Massachusetts",1
+"Malden, Massachusetts",2
+"Medford, Massachusetts",15
+"Methuen Town, Massachusetts",50
+"New Bedford, Massachusetts",1
+"Newton, Massachusetts",1
+"Peabody, Massachusetts",15
+"Quincy, Massachusetts",1
+"Revere, Massachusetts",15
+"Somerville, Massachusetts",1
+"Springfield, Massachusetts",0
+"Taunton, Massachusetts",15
+"Waltham, Massachusetts",15
+"Weymouth Town, Massachusetts",17
+"Worcester, Massachusetts",0
+"Ann Arbor, Michigan",0
+"Battle Creek, Michigan",15
+"Dearborn, Michigan",1
+"Dearborn Heights, Michigan",15
+"Detroit, Michigan",0
+"Farmington Hills, Michigan",1
+"Flint, Michigan",5
+"Grand Rapids, Michigan",0
+"Kalamazoo, Michigan",0
+"Kentwood, Michigan",15
+"Lansing, Michigan",0
+"Livonia, Michigan",6
+"Novi, Michigan",7
+"Pontiac, Michigan",15
+"Rochester Hills, Michigan",6
+"Royal Oak, Michigan",15
+"St. Clair Shores, Michigan",15
+"Southfield, Michigan",6
+"Sterling Heights, Michigan",1
+"Taylor, Michigan",15
+"Troy, Michigan",6
+"Warren, Michigan",1
+"Westland, Michigan",1
+"Wyoming, Michigan",6
+"Apple Valley, Minnesota",15
+"Blaine, Minnesota",8
+"Bloomington, Minnesota",1
+"Brooklyn Park, Minnesota",2
+"Burnsville, Minnesota",15
+"Coon Rapids, Minnesota",17
+"Duluth, Minnesota",1
+"Eagan, Minnesota",1
+"Eden Prairie, Minnesota",15
+"Edina, Minnesota",15
+"Lakeville, Minnesota",6
+"Maple Grove, Minnesota",7
+"Minneapolis, Minnesota",2
+"Minnetonka, Minnesota",15
+"Plymouth, Minnesota",7
+"Rochester, Minnesota",2
+"St. Cloud, Minnesota",0
+"St. Paul, Minnesota",1
+"Woodbury, Minnesota",7
+"Gulfport, Mississippi",5
+"Jackson, Mississippi",3
+"Southaven, Mississippi",17
+"Blue Springs, Missouri",17
+"Columbia, Missouri",2
+"Florissant, Missouri",18
+"Independence, Missouri",3
+"Joplin, Missouri",14
+"Kansas City, Missouri",0
+"Lee's Summit, Missouri",6
+"O'Fallon, Missouri",7
+"St. Charles, Missouri",9
+"St. Joseph, Missouri",0
+"St. Louis, Missouri",33
+"St. Peters, Missouri",16
+"Springfield, Missouri",0
+"Billings, Montana",7
+"Bozeman, Montana",16
+"Great Falls, Montana",14
+"Missoula, Montana",0
+"Bellevue, Nebraska",15
+"Grand Island, Nebraska",14
+"Lincoln, Nebraska",0
+"Omaha, Nebraska",0
+"Carson City, Nevada",57
+"Henderson, Nevada",1
+"Las Vegas, Nevada",2
+"North Las Vegas, Nevada",1
+"Reno, Nevada",2
+"Sparks, Nevada",3
+"Manchester, New Hampshire",0
+"Nashua, New Hampshire",1
+"Bayonne, New Jersey",5
+"Camden, New Jersey",7
+"Clifton, New Jersey",5
+"East Orange, New Jersey",5
+"Elizabeth, New Jersey",5
+"Hoboken, New Jersey",19
+"Jersey City, New Jersey",5
+"Newark, New Jersey",5
+"New Brunswick, New Jersey",19
+"Passaic, New Jersey",5
+"Paterson, New Jersey",5
+"Perth Amboy, New Jersey",19
+"Plainfield, New Jersey",19
+"Trenton, New Jersey",4
+"Union City, New Jersey",5
+"Vineland, New Jersey",18
+"Albuquerque, New Mexico",2
+"Las Cruces, New Mexico",32
+"Rio Rancho, New Mexico",6
+"Santa Fe, New Mexico",7
+"Albany, New York",0
+"Buffalo, New York",0
+"Mount Vernon, New York",1
+"New Rochelle, New York",1
+"New York, New York",33
+"Rochester, New York",0
+"Schenectady, New York",2
+"Syracuse, New York",0
+"Troy, New York",16
+"Utica, New York",14
+"White Plains, New York",17
+"Yonkers, New York",1
+"Asheville, North Carolina",0
+"Burlington, North Carolina",15
+"Charlotte, North Carolina",2
+"Concord, North Carolina",7
+"Durham, North Carolina",0
+"Fayetteville, North Carolina",0
+"Gastonia, North Carolina",9
+"Greensboro, North Carolina",0
+"Greenville, North Carolina",5
+"High Point, North Carolina",1
+"Jacksonville, North Carolina",8
+"Kannapolis, North Carolina",16
+"Raleigh, North Carolina",0
+"Rocky Mount, North Carolina",14
+"Wilmington, North Carolina",5
+"Winston-Salem, North Carolina",2
+"Bismarck, North Dakota",0
+"Fargo, North Dakota",0
+"Grand Forks, North Dakota",15
+"Akron, Ohio",0
+"Canton, Ohio",0
+"Cincinnati, Ohio",2
+"Cleveland, Ohio",0
+"Columbus, Ohio",2
+"Cuyahoga Falls, Ohio",15
+"Dayton, Ohio",0
+"Elyria, Ohio",15
+"Hamilton, Ohio",15
+"Kettering, Ohio",15
+"Lakewood, Ohio",15
+"Lorain, Ohio",6
+"Middletown, Ohio",15
+"Newark, Ohio",15
+"Parma, Ohio",1
+"Springfield, Ohio",14
+"Toledo, Ohio",2
+"Youngstown, Ohio",16
+"Broken Arrow, Oklahoma",1
+"Edmond, Oklahoma",1
+"Enid, Oklahoma",15
+"Lawton, Oklahoma",0
+"Midwest City, Oklahoma",15
+"Moore, Oklahoma",15
+"Norman, Oklahoma",1
+"Oklahoma City, Oklahoma",2
+"Tulsa, Oklahoma",0
+"Albany, Oregon",14
+"Beaverton, Oregon",1
+"Bend, Oregon",6
+"Corvallis, Oregon",16
+"Eugene, Oregon",0
+"Gresham, Oregon",1
+"Hillsboro, Oregon",1
+"Medford, Oregon",2
+"Portland, Oregon",0
+"Salem, Oregon",1
+"Springfield, Oregon",15
+"Tigard, Oregon",15
+"Allentown, Pennsylvania",0
+"Bethlehem, Pennsylvania",3
+"Erie, Pennsylvania",0
+"Harrisburg, Pennsylvania",14
+"Lancaster, Pennsylvania",16
+"Philadelphia, Pennsylvania",2
+"Pittsburgh, Pennsylvania",2
+"Reading, Pennsylvania",2
+"Scranton, Pennsylvania",0
+"Cranston, Rhode Island",6
+"Pawtucket, Rhode Island",1
+"Providence, Rhode Island",0
+"Warwick, Rhode Island",1
+"Charleston, South Carolina",0
+"Columbia, South Carolina",0
+"Greenville, South Carolina",0
+"North Charleston, South Carolina",1
+"Rock Hill, South Carolina",6
+"Rapid City, South Dakota",0
+"Sioux Falls, South Dakota",0
+"Bartlett, Tennessee",15
+"Chattanooga, Tennessee",0
+"Clarksville, Tennessee",5
+"Franklin, Tennessee",7
+"Hendersonville, Tennessee",15
+"Jackson, Tennessee",0
+"Johnson City, Tennessee",6
+"Kingsport, Tennessee",14
+"Knoxville, Tennessee",0
+"Memphis, Tennessee",0
+"Murfreesboro, Tennessee",7
+"Spring Hill, Tennessee",15
+"Abilene, Texas",6
+"Allen, Texas",7
+"Amarillo, Texas",0
+"Arlington, Texas",1
+"Austin, Texas",2
+"Baytown, Texas",6
+"Beaumont, Texas",0
+"Brownsville, Texas",0
+"Bryan, Texas",6
+"Burleson, Texas",17
+"Carrollton, Texas",3
+"Cedar Park, Texas",10
+"College Station, Texas",2
+"Conroe, Texas",9
+"Corpus Christi, Texas",2
+"Dallas, Texas",0
+"Denton, Texas",1
+"DeSoto, Texas",17
+"Edinburg, Texas",7
+"El Paso, Texas",2
+"Euless, Texas",15
+"Fort Worth, Texas",1
+"Frisco, Texas",1
+"Galveston, Texas",17
+"Garland, Texas",1
+"Georgetown, Texas",7
+"Grand Prairie, Texas",1
+"Grapevine, Texas",17
+"Harlingen, Texas",7
+"Houston, Texas",0
+"Irving, Texas",1
+"Killeen, Texas",0
+"Kyle, Texas",16
+"Laredo, Texas",2
+"League City, Texas",8
+"Leander, Texas",10
+"Lewisville, Texas",6
+"Little Elm, Texas",17
+"Longview, Texas",5
+"Lubbock, Texas",0
+"McAllen, Texas",0
+"McKinney, Texas",1
+"Mansfield, Texas",9
+"Mesquite, Texas",1
+"Midland, Texas",8
+"Mission, Texas",6
+"Missouri City, Texas",10
+"New Braunfels, Texas",8
+"North Richland Hills, Texas",6
+"Odessa, Texas",5
+"Pasadena, Texas",8
+"Pearland, Texas",7
+"Pflugerville, Texas",7
+"Pharr, Texas",7
+"Plano, Texas",1
+"Port Arthur, Texas",17
+"Richardson, Texas",8
+"Round Rock, Texas",7
+"Rowlett, Texas",17
+"San Angelo, Texas",1
+"San Antonio, Texas",0
+"San Marcos, Texas",7
+"Sugar Land, Texas",9
+"Temple, Texas",6
+"Texas City, Texas",17
+"Tyler, Texas",0
+"Victoria, Texas",5
+"Waco, Texas",0
+"Wichita Falls, Texas",1
+"Wylie, Texas",15
+"Draper, Utah",15
+"Herriman, Utah",17
+"Layton, Utah",6
+"Lehi, Utah",9
+"Logan, Utah",14
+"Millcreek, Utah",17
+"Ogden, Utah",0
+"Orem, Utah",1
+"Provo, Utah",0
+"St. George, Utah",5
+"Salt Lake City, Utah",0
+"Sandy, Utah",1
+"South Jordan, Utah",2
+"Taylorsville, Utah",17
+"West Jordan, Utah",1
+"West Valley City, Utah",3
+"Alexandria, Virginia",34
+"Chesapeake, Virginia",34
+"Hampton, Virginia",34
+"Harrisonburg, Virginia",47
+"Lynchburg, Virginia",33
+"Newport News, Virginia",34
+"Norfolk, Virginia",34
+"Portsmouth, Virginia",34
+"Richmond, Virginia",33
+"Roanoke, Virginia",33
+"Suffolk, Virginia",39
+"Virginia Beach, Virginia",33
+"James City County, Virginia",61
+"Auburn, Washington",8
+"Bellevue, Washington",1
+"Bellingham, Washington",0
+"Burien, Washington",15
+"Everett, Washington",1
+"Federal Way, Washington",1
+"Kennewick, Washington",5
+"Kent, Washington",1
+"Kirkland, Washington",3
+"Lacey, Washington",15
+"Lakewood, Washington",15
+"Marysville, Washington",6
+"Olympia, Washington",14
+"Pasco, Washington",8
+"Redmond, Washington",2
+"Renton, Washington",1
+"Richland, Washington",15
+"Sammamish, Washington",7
+"Seattle, Washington",0
+"Shoreline, Washington",15
+"Spokane, Washington",0
+"Spokane Valley, Washington",6
+"Tacoma, Washington",1
+"Vancouver, Washington",1
+"Yakima, Washington",0
+"Appleton, Wisconsin",0
+"Eau Claire, Wisconsin",5
+"Green Bay, Wisconsin",0
+"Janesville, Wisconsin",6
+"Kenosha, Wisconsin",1
+"La Crosse, Wisconsin",14
+"Madison, Wisconsin",0
+"Milwaukee, Wisconsin",0
+"Oshkosh, Wisconsin",8
+"Racine, Wisconsin",0
+"Waukesha, Wisconsin",2
+"West Allis, Wisconsin",15
+"Casper, Wyoming",14
+"Cheyenne, Wyoming",5
