@@ -1,0 +1,269 @@
+pop_estimate_2021,"               T         dof alternative     p-val                  CI95%  \
+T-test  1.881497  211.716214   two-sided  0.061277  [-2657.15, 114082.67]   
+
+         cohen-d   BF10     power  
+T-test  0.221699  0.531  0.736879  "
+,
+land_area_sqkm,"               T         dof alternative         p-val             CI95%  \
+T-test -5.159959  414.575551   two-sided  3.837851e-07  [-95.62, -42.86]   
+
+        cohen-d       BF10     power  
+T-test  0.38542  3.366e+04  0.994601  "
+,
+pop_per_km2,"                T         dof alternative         p-val               CI95%  \
+T-test  12.351014  188.736682   two-sided  4.553317e-26  [1698.82, 2344.61]   
+
+         cohen-d       BF10  power  
+T-test  1.710948  3.737e+28    1.0  "
+,
+white_alone,"               T         dof alternative         p-val           CI95%  \
+T-test -9.289035  286.161924   two-sided  4.071737e-18  [-0.19, -0.12]   
+
+         cohen-d       BF10  power  
+T-test  0.843082  2.276e+16    1.0  "
+,
+black_or_african_american_alone,"               T         dof alternative     p-val          CI95%   cohen-d  \
+T-test  0.226614  306.637812   two-sided  0.820875  [-0.02, 0.03]  0.019703   
+
+         BF10     power  
+T-test  0.097  0.056109  "
+,
+american_indian_and_alaska_native_alone,"               T         dof alternative     p-val        CI95%   cohen-d  \
+T-test  1.296961  434.781667   two-sided  0.195333  [-0.0, 0.0]  0.094911   
+
+         BF10     power  
+T-test  0.215  0.198849  "
+,
+asian_alone,"               T        dof alternative         p-val         CI95%   cohen-d  \
+T-test  5.854903  224.53862   two-sided  1.680845e-08  [0.04, 0.09]  0.646742   
+
+             BF10  power  
+T-test  1.235e+06    1.0  "
+,
+native_hawaiian_and_other_pacific_islander_alone,"               T         dof alternative    p-val        CI95%   cohen-d  \
+T-test -1.004158  519.354569   two-sided  0.31577  [-0.0, 0.0]  0.068339   
+
+         BF10     power  
+T-test  0.155  0.125828  "
+,
+some_other_race_alone,"               T         dof alternative         p-val         CI95%  \
+T-test  7.831012  229.474253   two-sided  1.780651e-13  [0.07, 0.11]   
+
+         cohen-d       BF10  power  
+T-test  0.846476  3.221e+11    1.0  "
+,
+two_or_more_races,"               T        dof alternative     p-val         CI95%   cohen-d  \
+T-test  3.058222  313.76496   two-sided  0.002418  [0.01, 0.03]  0.262347   
+
+        BF10    power  
+T-test  8.83  0.86635  "
+,
+hispanic_or_latino,"               T         dof alternative         p-val         CI95%  \
+T-test  6.095732  262.996436   two-sided  3.863360e-09  [0.08, 0.16]   
+
+         cohen-d       BF10  power  
+T-test  0.586812  4.744e+06    1.0  "
+,
+median_aqi,"              T         dof alternative     p-val          CI95%  cohen-d  \
+T-test  1.26176  349.230085   two-sided  0.207877  [-1.02, 4.67]  0.10483   
+
+         BF10     power  
+T-test  0.209  0.226048  "
+,
+access2,"              T         dof alternative         p-val           CI95%  \
+T-test -7.15411  478.824609   two-sided  3.177142e-12  [-4.29, -2.44]   
+
+         cohen-d       BF10  power  
+T-test  0.503036  3.138e+09    1.0  "
+,
+arthritis,"               T         dof alternative         p-val           CI95%  \
+T-test -8.344866  311.365179   two-sided  2.351335e-15  [-2.64, -1.63]   
+
+         cohen-d       BF10  power  
+T-test  0.719044  1.376e+13    1.0  "
+,
+binge,"               T        dof alternative     p-val          CI95%   cohen-d  \
+T-test -0.700238  394.10613   two-sided  0.484192  [-0.46, 0.22]  0.053498   
+
+         BF10     power  
+T-test  0.121  0.095946  "
+,
+bphigh,"               T         dof alternative         p-val           CI95%  \
+T-test -9.699469  357.151721   two-sided  6.720748e-20  [-3.26, -2.16]   
+
+         cohen-d       BF10  power  
+T-test  0.751395  6.536e+17    1.0  "
+,
+bpmed,"               T         dof alternative     p-val           CI95%   cohen-d  \
+T-test -4.025509  281.499663   two-sided  0.000073  [-1.99, -0.68]  0.354685   
+
+           BF10    power  
+T-test  241.489  0.98019  "
+,
+cancer,"               T         dof alternative     p-val           CI95%   cohen-d  \
+T-test -4.098538  316.336297   two-sided  0.000053  [-0.33, -0.11]  0.349951   
+
+           BF10     power  
+T-test  314.942  0.983587  "
+,
+casthma,"               T         dof alternative     p-val          CI95%  cohen-d  \
+T-test -1.459438  286.360458   two-sided  0.145541  [-0.28, 0.04]   0.1324   
+
+         BF10     power  
+T-test  0.268  0.340769  "
+,
+cervical,"               T         dof alternative     p-val         CI95%   cohen-d  \
+T-test  3.554817  366.069765   two-sided  0.000428  [0.31, 1.09]  0.281153   
+
+          BF10     power  
+T-test  42.879  0.908129  "
+,
+chd,"               T         dof alternative         p-val           CI95%  \
+T-test -7.552468  381.793213   two-sided  3.182813e-13  [-0.58, -0.34]   
+
+         cohen-d       BF10  power  
+T-test  0.585499  4.584e+10    1.0  "
+,
+checkup,"               T         dof alternative     p-val           CI95%   cohen-d  \
+T-test -2.066333  257.118021   two-sided  0.039799  [-1.81, -0.04]  0.202371   
+
+         BF10     power  
+T-test  0.756  0.658233  "
+,
+cholscreen,"               T         dof alternative         p-val         CI95%  \
+T-test  8.859313  368.330511   two-sided  3.472900e-17  [1.18, 1.86]   
+
+         cohen-d       BF10  power  
+T-test  0.676506  6.897e+14    1.0  "
+,
+colon_screen,"               T         dof alternative     p-val          CI95%   cohen-d  \
+T-test -2.187281  268.319472   two-sided  0.029585  [-2.5, -0.13]  0.207486   
+
+         BF10     power  
+T-test  0.971  0.679925  "
+,
+copd,"               T         dof alternative         p-val           CI95%  \
+T-test -7.677952  407.730185   two-sided  1.209353e-13  [-0.89, -0.53]   
+
+         cohen-d       BF10  power  
+T-test  0.577717  1.095e+11    1.0  "
+,
+corem,"               T         dof alternative     p-val           CI95%   cohen-d  \
+T-test -4.890207  272.650844   two-sided  0.000002  [-4.29, -1.83]  0.458624   
+
+            BF10    power  
+T-test  9324.936  0.99967  "
+,
+corew,"               T         dof alternative     p-val           CI95%   cohen-d  \
+T-test -3.409275  304.188729   two-sided  0.000739  [-2.92, -0.78]  0.297834   
+
+          BF10     power  
+T-test  26.345  0.936304  "
+,
+csmoking,"                T         dof alternative         p-val           CI95%  \
+T-test -10.007486  333.317931   two-sided  8.682855e-21  [-3.27, -2.19]   
+
+         cohen-d       BF10  power  
+T-test  0.830172  9.772e+18    1.0  "
+,
+dental,"               T         dof alternative         p-val         CI95%  \
+T-test  5.394675  400.528304   two-sided  1.176757e-07  [1.59, 3.41]   
+
+         cohen-d       BF10     power  
+T-test  0.409152  1.084e+05  0.997649  "
+,
+depression,"              T         dof alternative         p-val          CI95%  \
+T-test -9.81583  333.635754   two-sided  3.802597e-20  [-2.85, -1.9]   
+
+         cohen-d       BF10  power  
+T-test  0.813858  1.874e+18    1.0  "
+,
+diabetes,"               T         dof alternative     p-val          CI95%   cohen-d  \
+T-test -4.962223  411.228378   two-sided  0.000001  [-0.92, -0.4]  0.371971   
+
+             BF10     power  
+T-test  1.305e+04  0.991617  "
+,
+ghlth,"               T         dof alternative         p-val           CI95%  \
+T-test -5.064112  400.228933   two-sided  6.273811e-07  [-1.77, -0.78]   
+
+         cohen-d       BF10     power  
+T-test  0.384209  2.117e+04  0.994378  "
+,
+highchol,"               T        dof alternative         p-val          CI95%  \
+T-test -8.056651  347.15897   two-sided  1.272991e-14  [-1.6, -0.97]   
+
+         cohen-d      BF10  power  
+T-test  0.632689  1.59e+12    1.0  "
+,
+kidney,"               T         dof alternative         p-val           CI95%  \
+T-test -4.987906  378.362461   two-sided  9.319768e-07  [-0.18, -0.08]   
+
+         cohen-d       BF10     power  
+T-test  0.388323  1.473e+04  0.995104  "
+,
+lpa,"               T         dof alternative     p-val           CI95%  cohen-d  \
+T-test -3.981218  364.230415   two-sided  0.000083  [-2.03, -0.69]  0.31565   
+
+           BF10     power  
+T-test  200.135  0.958443  "
+,
+mammouse,"               T        dof alternative     p-val         CI95%   cohen-d  \
+T-test  4.160925  290.56329   two-sided  0.000042  [0.76, 2.11]  0.373946   
+
+           BF10     power  
+T-test  402.882  0.992131  "
+,
+mhlth,"               T       dof alternative         p-val           CI95%  \
+T-test -6.870049  331.5681   two-sided  3.183287e-11  [-1.02, -0.57]   
+
+         cohen-d       BF10  power  
+T-test  0.571518  5.013e+08    1.0  "
+,
+obesity,"                T         dof alternative         p-val           CI95%  \
+T-test -12.142747  326.921303   two-sided  2.939471e-28  [-5.71, -4.12]   
+
+         cohen-d       BF10  power  
+T-test  1.017921  4.616e+27    1.0  "
+,
+phlth,"               T         dof alternative         p-val           CI95%  \
+T-test -7.058888  376.735965   two-sided  8.123246e-12  [-1.09, -0.62]   
+
+         cohen-d       BF10  power  
+T-test  0.550671  1.684e+09    1.0  "
+,
+sleep,"               T         dof alternative     p-val          CI95%   cohen-d  \
+T-test -1.694516  355.817702   two-sided  0.091042  [-0.98, 0.07]  0.135906   
+
+         BF10     power  
+T-test  0.384  0.355898  "
+,
+stroke,"               T         dof alternative         p-val           CI95%  \
+T-test -6.186322  375.843892   two-sided  1.609527e-09  [-0.28, -0.14]   
+
+         cohen-d       BF10     power  
+T-test  0.483143  7.972e+06  0.999889  "
+,
+teethlost,"               T         dof alternative         p-val           CI95%  \
+T-test -7.990377  378.035286   two-sided  1.644681e-14  [-1.91, -1.16]   
+
+         cohen-d      BF10  power  
+T-test  0.622327  1.01e+12    1.0  "
+,
+cumulative_confirmed,"               T         dof alternative     p-val          CI95%   cohen-d  \
+T-test  0.837953  309.628279   two-sided  0.402703  [-0.03, 0.08]  0.072439   
+
+         BF10     power  
+T-test  0.134  0.135463  "
+,
+cumulative_deceased,"               T         dof alternative     p-val        CI95%   cohen-d  \
+T-test  0.807789  313.658371   two-sided  0.419824  [-0.0, 0.0]  0.069309   
+
+         BF10     power  
+T-test  0.131  0.128053  "
+,
+living_wage,"                T         dof alternative         p-val               CI95%  \
+T-test  12.270066  240.643185   two-sided  3.347699e-27  [6110.53, 8447.76]   
+
+         cohen-d       BF10  power  
+T-test  1.269708  1.639e+28    1.0  "
