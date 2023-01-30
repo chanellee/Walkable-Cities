@@ -1,23 +1,23 @@
 city_state,sum_na
-"Auburn, Alabama",3
-"Birmingham, Alabama",2
-"Decatur, Alabama",10
-"Dothan, Alabama",3
+"Auburn, Alabama",1
+"Birmingham, Alabama",0
+"Decatur, Alabama",0
+"Dothan, Alabama",1
 "Hoover, Alabama",0
-"Huntsville, Alabama",2
-"Madison, Alabama",10
-"Mobile, Alabama",2
-"Montgomery, Alabama",2
-"Tuscaloosa, Alabama",2
+"Huntsville, Alabama",0
+"Madison, Alabama",0
+"Mobile, Alabama",0
+"Montgomery, Alabama",0
+"Tuscaloosa, Alabama",0
 "Avondale, Arizona",0
 "Buckeye, Arizona",0
-"Casa Grande, Arizona",10
+"Casa Grande, Arizona",0
 "Chandler, Arizona",0
 "Flagstaff, Arizona",0
 "Glendale, Arizona",0
 "Goodyear, Arizona",0
-"Lake Havasu City, Arizona",8
-"Maricopa, Arizona",8
+"Lake Havasu City, Arizona",0
+"Maricopa, Arizona",0
 "Mesa, Arizona",0
 "Peoria, Arizona",0
 "Phoenix, Arizona",0
@@ -26,90 +26,90 @@ city_state,sum_na
 "Tempe, Arizona",0
 "Tucson, Arizona",0
 "Yuma, Arizona",0
-"Bentonville, Arkansas",9
+"Bentonville, Arkansas",1
 "Conway, Arkansas",1
 "Fayetteville, Arkansas",0
 "Fort Smith, Arkansas",1
 "Jonesboro, Arkansas",1
 "Little Rock, Arkansas",0
-"North Little Rock, Arkansas",8
+"North Little Rock, Arkansas",0
 "Rogers, Arkansas",1
-"Springdale, Arkansas",2
+"Springdale, Arkansas",0
 "Alameda, California",0
 "Alhambra, California",0
-"Aliso Viejo, California",8
+"Aliso Viejo, California",0
 "Anaheim, California",0
 "Antioch, California",0
-"Arcadia, California",8
+"Arcadia, California",0
 "Bakersfield, California",0
 "Baldwin Park, California",0
-"Beaumont, California",8
+"Beaumont, California",0
 "Bellflower, California",0
 "Berkeley, California",0
-"Brentwood, California",8
+"Brentwood, California",0
 "Buena Park, California",0
 "Burbank, California",0
 "Camarillo, California",0
 "Carlsbad, California",0
 "Carson, California",0
-"Cathedral City, California",8
+"Cathedral City, California",0
 "Chico, California",0
 "Chino, California",0
 "Chino Hills, California",0
 "Chula Vista, California",0
 "Citrus Heights, California",0
 "Clovis, California",0
-"Colton, California",8
+"Colton, California",0
 "Compton, California",0
 "Concord, California",0
 "Corona, California",0
 "Costa Mesa, California",0
-"Covina, California",8
-"Cupertino, California",8
+"Covina, California",0
+"Cupertino, California",0
 "Daly City, California",0
 "Davis, California",0
-"Delano, California",8
-"Diamond Bar, California",8
+"Delano, California",0
+"Diamond Bar, California",0
 "Downey, California",0
 "Dublin, California",0
-"Eastvale, California",2
+"Eastvale, California",0
 "El Cajon, California",0
 "Elk Grove, California",0
 "El Monte, California",0
-"Encinitas, California",8
+"Encinitas, California",0
 "Escondido, California",0
 "Fairfield, California",0
 "Folsom, California",0
 "Fontana, California",0
-"Fountain Valley, California",8
+"Fountain Valley, California",0
 "Fremont, California",0
-"Fresno, California",2
+"Fresno, California",0
 "Fullerton, California",0
-"Gardena, California",8
+"Gardena, California",0
 "Garden Grove, California",0
-"Gilroy, California",8
+"Gilroy, California",0
 "Glendale, California",0
-"Glendora, California",8
-"Hanford, California",8
+"Glendora, California",0
+"Hanford, California",0
 "Hawthorne, California",0
 "Hayward, California",0
 "Hemet, California",0
 "Hesperia, California",0
-"Highland, California",8
+"Highland, California",0
 "Huntington Beach, California",0
-"Huntington Park, California",8
+"Huntington Park, California",0
 "Indio, California",0
 "Inglewood, California",0
 "Irvine, California",0
 "Jurupa Valley, California",0
-"Laguna Niguel, California",8
-"La Habra, California",8
+"Laguna Niguel, California",0
+"La Habra, California",0
 "Lake Elsinore, California",0
 "Lake Forest, California",0
 "Lakewood, California",0
-"La Mesa, California",8
+"La Mesa, California",0
 "Lancaster, California",0
-"Lincoln, California",8
+"Lincoln, California",0
 "Livermore, California",0
 "Lodi, California",0
 "Long Beach, California",0
@@ -122,37 +122,37 @@ city_state,sum_na
 "Milpitas, California",0
 "Mission Viejo, California",0
 "Modesto, California",0
-"Montebello, California",8
-"Monterey Park, California",8
+"Montebello, California",0
+"Monterey Park, California",0
 "Moreno Valley, California",0
 "Mountain View, California",0
 "Murrieta, California",0
 "Napa, California",0
-"National City, California",8
+"National City, California",0
 "Newport Beach, California",0
 "Norwalk, California",0
-"Novato, California",8
+"Novato, California",0
 "Oakland, California",0
 "Oceanside, California",0
 "Ontario, California",0
 "Orange, California",0
 "Oxnard, California",0
 "Palmdale, California",0
-"Palm Desert, California",8
+"Palm Desert, California",0
 "Palo Alto, California",0
-"Paramount, California",8
+"Paramount, California",0
 "Pasadena, California",0
 "Perris, California",0
-"Petaluma, California",8
-"Pico Rivera, California",8
+"Petaluma, California",0
+"Pico Rivera, California",0
 "Pittsburg, California",0
-"Placentia, California",8
+"Placentia, California",0
 "Pleasanton, California",0
 "Pomona, California",0
-"Porterville, California",8
+"Porterville, California",0
 "Rancho Cordova, California",0
 "Rancho Cucamonga, California",0
-"Redding, California",2
+"Redding, California",0
 "Redlands, California",0
 "Redondo Beach, California",0
 "Redwood City, California",0
@@ -160,33 +160,33 @@ city_state,sum_na
 "Richmond, California",0
 "Riverside, California",0
 "Rocklin, California",0
-"Rosemead, California",8
+"Rosemead, California",0
 "Roseville, California",0
 "Sacramento, California",0
 "Salinas, California",0
 "San Bernardino, California",0
-"San Buenaventura (Ventura), California",2
-"San Clemente, California",8
+"San Buenaventura (Ventura), California",0
+"San Clemente, California",0
 "San Diego, California",0
-"San Jacinto, California",8
+"San Jacinto, California",0
 "San Jose, California",0
 "San Leandro, California",0
 "San Marcos, California",0
 "San Mateo, California",0
-"San Rafael, California",8
+"San Rafael, California",0
 "San Ramon, California",0
 "Santa Ana, California",0
 "Santa Barbara, California",0
 "Santa Clara, California",0
 "Santa Clarita, California",0
-"Santa Cruz, California",8
-"Santa Maria, California",2
+"Santa Cruz, California",0
+"Santa Maria, California",0
 "Santa Monica, California",0
 "Santa Rosa, California",0
-"Santee, California",8
+"Santee, California",0
 "Simi Valley, California",0
 "South Gate, California",0
-"South San Francisco, California",8
+"South San Francisco, California",0
 "Stockton, California",0
 "Sunnyvale, California",0
 "Temecula, California",0
@@ -204,56 +204,55 @@ city_state,sum_na
 "Visalia, California",0
 "Vista, California",0
 "Walnut Creek, California",0
-"Watsonville, California",8
+"Watsonville, California",0
 "West Covina, California",0
 "Westminster, California",0
-"West Sacramento, California",8
+"West Sacramento, California",0
 "Whittier, California",0
-"Woodland, California",8
+"Woodland, California",0
 "Yorba Linda, California",0
 "Yuba City, California",0
-"Yucaipa, California",8
+"Yucaipa, California",0
 "Arvada, Colorado",0
 "Aurora, Colorado",0
 "Boulder, Colorado",0
-"Centennial, Colorado",2
+"Centennial, Colorado",0
 "Colorado Springs, Colorado",0
-"Commerce City, Colorado",8
+"Commerce City, Colorado",0
 "Fort Collins, Colorado",0
 "Grand Junction, Colorado",0
 "Greeley, Colorado",0
-"Lakewood, Colorado",2
+"Lakewood, Colorado",0
 "Longmont, Colorado",0
 "Loveland, Colorado",0
-"Pueblo, Colorado",2
+"Pueblo, Colorado",0
 "Thornton, Colorado",0
 "Bridgeport, Connecticut",0
-"Bristol, Connecticut",8
+"Bristol, Connecticut",0
 "Danbury, Connecticut",0
 "Hartford, Connecticut",0
-"Meriden, Connecticut",8
-"Milford (balance), Connecticut",10
-"New Britain, Connecticut",2
+"Meriden, Connecticut",0
+"Milford (balance), Connecticut",0
+"New Britain, Connecticut",0
 "New Haven, Connecticut",0
 "Norwalk, Connecticut",0
 "Stamford, Connecticut",0
 "Waterbury, Connecticut",0
-"West Haven, Connecticut",8
-"Milford, Connecticut",19
+"West Haven, Connecticut",0
 "Wilmington, Delaware",0
-"Apopka, Florida",8
+"Apopka, Florida",0
 "Boca Raton, Florida",0
-"Bonita Springs, Florida",10
+"Bonita Springs, Florida",0
 "Boynton Beach, Florida",0
-"Bradenton, Florida",8
+"Bradenton, Florida",0
 "Cape Coral, Florida",0
 "Clearwater, Florida",0
-"Coconut Creek, Florida",8
+"Coconut Creek, Florida",0
 "Coral Springs, Florida",0
 "Daytona Beach, Florida",0
 "Deerfield Beach, Florida",0
 "Delray Beach, Florida",0
-"Deltona, Florida",2
+"Deltona, Florida",0
 "Doral, Florida",0
 "Fort Lauderdale, Florida",0
 "Fort Myers, Florida",0
@@ -265,128 +264,128 @@ city_state,sum_na
 "Lakeland, Florida",0
 "Largo, Florida",0
 "Lauderhill, Florida",0
-"Margate, Florida",8
+"Margate, Florida",0
 "Melbourne, Florida",0
 "Miami, Florida",0
 "Miami Beach, Florida",0
 "Miami Gardens, Florida",0
 "Miramar, Florida",0
-"North Miami, Florida",8
+"North Miami, Florida",0
 "North Port, Florida",0
-"Ocala, Florida",8
+"Ocala, Florida",0
 "Orlando, Florida",0
 "Palm Bay, Florida",0
-"Palm Beach Gardens, Florida",8
-"Palm Coast, Florida",2
+"Palm Beach Gardens, Florida",0
+"Palm Coast, Florida",0
 "Pembroke Pines, Florida",0
-"Pensacola, Florida",8
-"Pinellas Park, Florida",8
+"Pensacola, Florida",0
+"Pinellas Park, Florida",0
 "Plantation, Florida",0
 "Pompano Beach, Florida",0
-"Port Orange, Florida",8
+"Port Orange, Florida",0
 "Port St. Lucie, Florida",0
-"St. Cloud, Florida",8
+"St. Cloud, Florida",0
 "St. Petersburg, Florida",0
-"Sanford, Florida",8
-"Sarasota, Florida",8
+"Sanford, Florida",0
+"Sarasota, Florida",0
 "Sunrise, Florida",0
 "Tallahassee, Florida",0
 "Tamarac, Florida",0
 "Tampa, Florida",0
 "Weston, Florida",0
 "West Palm Beach, Florida",0
-"Winter Haven, Florida",8
+"Winter Haven, Florida",0
 "Albany, Georgia",0
 "Alpharetta, Georgia",0
-"Atlanta, Georgia",2
-"Brookhaven, Georgia",8
-"Columbus, Georgia",2
-"Dunwoody, Georgia",8
-"Johns Creek, Georgia",2
-"Marietta, Georgia",8
-"Roswell, Georgia",2
+"Atlanta, Georgia",0
+"Brookhaven, Georgia",0
+"Columbus, Georgia",0
+"Dunwoody, Georgia",0
+"Johns Creek, Georgia",0
+"Marietta, Georgia",0
+"Roswell, Georgia",0
 "Sandy Springs, Georgia",0
-"Savannah, Georgia",2
-"Smyrna, Georgia",10
-"South Fulton, Georgia",2
-"Valdosta, Georgia",10
+"Savannah, Georgia",0
+"Smyrna, Georgia",0
+"South Fulton, Georgia",0
+"Valdosta, Georgia",0
 "Warner Robins, Georgia",0
-"Boise City, Idaho",2
-"Caldwell, Idaho",8
-"Coeur d'Alene, Idaho",8
+"Boise City, Idaho",0
+"Caldwell, Idaho",0
+"Coeur d'Alene, Idaho",0
 "Idaho Falls, Idaho",0
 "Meridian, Idaho",0
 "Nampa, Idaho",0
-"Pocatello, Idaho",8
-"Twin Falls, Idaho",8
+"Pocatello, Idaho",0
+"Twin Falls, Idaho",0
 "Aurora, Illinois",0
-"Berwyn, Illinois",9
+"Berwyn, Illinois",1
 "Bloomington, Illinois",0
 "Champaign, Illinois",0
 "Chicago, Illinois",0
 "Decatur, Illinois",0
-"Des Plaines, Illinois",8
+"Des Plaines, Illinois",0
 "Elgin, Illinois",0
 "Evanston, Illinois",0
 "Joliet, Illinois",1
-"Naperville, Illinois",2
+"Naperville, Illinois",0
 "Peoria, Illinois",0
 "Rockford, Illinois",0
 "Springfield, Illinois",0
 "Waukegan, Illinois",0
-"Wheaton, Illinois",8
-"Anderson, Indiana",8
-"Bloomington, Indiana",2
-"Columbus, Indiana",8
-"Elkhart, Indiana",10
+"Wheaton, Illinois",0
+"Anderson, Indiana",0
+"Bloomington, Indiana",0
+"Columbus, Indiana",0
+"Elkhart, Indiana",0
 "Evansville, Indiana",0
 "Fishers, Indiana",0
 "Fort Wayne, Indiana",0
-"Gary, Indiana",8
-"Greenwood, Indiana",9
+"Gary, Indiana",0
+"Greenwood, Indiana",1
 "Hammond, Indiana",0
-"Indianapolis (balance), Indiana",2
-"Jeffersonville, Indiana",8
-"Kokomo, Indiana",8
+"Indianapolis (balance), Indiana",0
+"Jeffersonville, Indiana",0
+"Kokomo, Indiana",0
 "Lafayette, Indiana",0
-"Mishawaka, Indiana",10
-"Muncie, Indiana",10
+"Mishawaka, Indiana",0
+"Muncie, Indiana",0
 "Noblesville, Indiana",0
 "South Bend, Indiana",0
-"Terre Haute, Indiana",10
-"Westfield, Indiana",8
+"Terre Haute, Indiana",0
+"Westfield, Indiana",0
 "Ames, Iowa",1
-"Ankeny, Iowa",2
+"Ankeny, Iowa",0
 "Cedar Rapids, Iowa",0
-"Council Bluffs, Iowa",8
+"Council Bluffs, Iowa",0
 "Davenport, Iowa",0
 "Des Moines, Iowa",0
-"Dubuque, Iowa",9
+"Dubuque, Iowa",1
 "Iowa City, Iowa",0
 "Sioux City, Iowa",0
 "Waterloo, Iowa",0
-"West Des Moines, Iowa",2
-"Kansas City, Kansas",2
-"Lawrence, Kansas",3
-"Lenexa, Kansas",8
-"Manhattan, Kansas",11
-"Olathe, Kansas",2
-"Overland Park, Kansas",2
-"Shawnee, Kansas",2
+"West Des Moines, Iowa",0
+"Kansas City, Kansas",0
+"Lawrence, Kansas",1
+"Lenexa, Kansas",0
+"Manhattan, Kansas",1
+"Olathe, Kansas",0
+"Overland Park, Kansas",0
+"Shawnee, Kansas",0
 "Topeka, Kansas",0
 "Wichita, Kansas",0
 "Bowling Green, Kentucky",0
-"Owensboro, Kentucky",8
+"Owensboro, Kentucky",0
 "Portland, Maine",0
 "Baltimore, Maryland",0
-"Bowie, Maryland",9
+"Bowie, Maryland",1
 "Frederick, Maryland",0
-"Gaithersburg, Maryland",2
-"Rockville, Maryland",2
-"Boston, Massachusetts",2
+"Gaithersburg, Maryland",0
+"Rockville, Maryland",0
+"Boston, Massachusetts",0
 "Brockton, Massachusetts",0
 "Cambridge, Massachusetts",0
-"Chicopee, Massachusetts",8
+"Chicopee, Massachusetts",0
 "Fall River, Massachusetts",0
 "Framingham, Massachusetts",0
 "Haverhill, Massachusetts",0
@@ -394,110 +393,110 @@ city_state,sum_na
 "Lowell, Massachusetts",0
 "Lynn, Massachusetts",0
 "Malden, Massachusetts",0
-"Medford, Massachusetts",8
+"Medford, Massachusetts",0
 "New Bedford, Massachusetts",0
 "Newton, Massachusetts",0
-"Peabody, Massachusetts",8
+"Peabody, Massachusetts",0
 "Quincy, Massachusetts",0
-"Revere, Massachusetts",8
+"Revere, Massachusetts",0
 "Somerville, Massachusetts",0
 "Springfield, Massachusetts",0
-"Taunton, Massachusetts",8
-"Waltham, Massachusetts",8
-"Weymouth Town, Massachusetts",10
+"Taunton, Massachusetts",0
+"Waltham, Massachusetts",0
+"Weymouth Town, Massachusetts",0
 "Worcester, Massachusetts",0
 "Ann Arbor, Michigan",0
-"Battle Creek, Michigan",9
+"Battle Creek, Michigan",1
 "Dearborn, Michigan",0
-"Dearborn Heights, Michigan",8
+"Dearborn Heights, Michigan",0
 "Detroit, Michigan",0
 "Farmington Hills, Michigan",0
 "Flint, Michigan",0
 "Grand Rapids, Michigan",0
 "Kalamazoo, Michigan",0
-"Kentwood, Michigan",8
+"Kentwood, Michigan",0
 "Lansing, Michigan",0
 "Livonia, Michigan",0
 "Novi, Michigan",0
-"Pontiac, Michigan",8
+"Pontiac, Michigan",0
 "Rochester Hills, Michigan",0
-"Royal Oak, Michigan",8
-"St. Clair Shores, Michigan",8
+"Royal Oak, Michigan",0
+"St. Clair Shores, Michigan",0
 "Southfield, Michigan",0
 "Sterling Heights, Michigan",0
-"Taylor, Michigan",8
+"Taylor, Michigan",0
 "Troy, Michigan",0
 "Warren, Michigan",0
 "Westland, Michigan",0
 "Wyoming, Michigan",0
-"Apple Valley, Minnesota",8
-"Blaine, Minnesota",2
+"Apple Valley, Minnesota",0
+"Blaine, Minnesota",0
 "Bloomington, Minnesota",0
 "Brooklyn Park, Minnesota",0
-"Burnsville, Minnesota",8
-"Coon Rapids, Minnesota",10
+"Burnsville, Minnesota",0
+"Coon Rapids, Minnesota",0
 "Duluth, Minnesota",1
 "Eagan, Minnesota",0
-"Eden Prairie, Minnesota",8
-"Edina, Minnesota",8
+"Eden Prairie, Minnesota",0
+"Edina, Minnesota",0
 "Lakeville, Minnesota",0
 "Maple Grove, Minnesota",0
-"Minneapolis, Minnesota",2
-"Minnetonka, Minnesota",8
+"Minneapolis, Minnesota",0
+"Minnetonka, Minnesota",0
 "Plymouth, Minnesota",0
-"Rochester, Minnesota",2
+"Rochester, Minnesota",0
 "St. Cloud, Minnesota",0
 "St. Paul, Minnesota",0
 "Woodbury, Minnesota",0
 "Gulfport, Mississippi",0
-"Jackson, Mississippi",3
-"Southaven, Mississippi",10
-"Blue Springs, Missouri",10
-"Columbia, Missouri",2
-"Florissant, Missouri",11
-"Independence, Missouri",2
-"Joplin, Missouri",8
+"Jackson, Mississippi",1
+"Southaven, Mississippi",0
+"Blue Springs, Missouri",0
+"Columbia, Missouri",0
+"Florissant, Missouri",1
+"Independence, Missouri",0
+"Joplin, Missouri",0
 "Kansas City, Missouri",0
 "Lee's Summit, Missouri",0
 "O'Fallon, Missouri",1
-"St. Charles, Missouri",3
+"St. Charles, Missouri",1
 "St. Joseph, Missouri",0
-"St. Peters, Missouri",9
+"St. Peters, Missouri",1
 "Springfield, Missouri",0
-"Billings, Montana",2
-"Bozeman, Montana",10
-"Great Falls, Montana",8
+"Billings, Montana",0
+"Bozeman, Montana",0
+"Great Falls, Montana",0
 "Missoula, Montana",0
-"Bellevue, Nebraska",8
-"Grand Island, Nebraska",8
+"Bellevue, Nebraska",0
+"Grand Island, Nebraska",0
 "Lincoln, Nebraska",0
 "Omaha, Nebraska",0
 "Henderson, Nevada",0
-"Las Vegas, Nevada",2
+"Las Vegas, Nevada",0
 "North Las Vegas, Nevada",0
-"Reno, Nevada",2
-"Sparks, Nevada",2
+"Reno, Nevada",0
+"Sparks, Nevada",0
 "Manchester, New Hampshire",0
 "Nashua, New Hampshire",0
 "Bayonne, New Jersey",4
-"Camden, New Jersey",6
+"Camden, New Jersey",4
 "Clifton, New Jersey",4
 "East Orange, New Jersey",4
 "Elizabeth, New Jersey",4
-"Hoboken, New Jersey",12
+"Hoboken, New Jersey",4
 "Jersey City, New Jersey",4
 "Newark, New Jersey",4
-"New Brunswick, New Jersey",12
+"New Brunswick, New Jersey",4
 "Passaic, New Jersey",4
 "Paterson, New Jersey",4
-"Perth Amboy, New Jersey",12
-"Plainfield, New Jersey",12
+"Perth Amboy, New Jersey",4
+"Plainfield, New Jersey",4
 "Trenton, New Jersey",4
 "Union City, New Jersey",4
-"Vineland, New Jersey",12
-"Albuquerque, New Mexico",2
+"Vineland, New Jersey",4
+"Albuquerque, New Mexico",0
 "Rio Rancho, New Mexico",0
-"Santa Fe, New Mexico",2
+"Santa Fe, New Mexico",0
 "Albany, New York",0
 "Buffalo, New York",0
 "Mount Vernon, New York",0
@@ -505,76 +504,76 @@ city_state,sum_na
 "Rochester, New York",0
 "Schenectady, New York",1
 "Syracuse, New York",0
-"Troy, New York",9
-"Utica, New York",8
-"White Plains, New York",10
+"Troy, New York",1
+"Utica, New York",0
+"White Plains, New York",0
 "Yonkers, New York",0
 "Asheville, North Carolina",0
-"Burlington, North Carolina",9
-"Charlotte, North Carolina",2
+"Burlington, North Carolina",1
+"Charlotte, North Carolina",0
 "Concord, North Carolina",1
 "Durham, North Carolina",0
 "Fayetteville, North Carolina",0
-"Gastonia, North Carolina",3
+"Gastonia, North Carolina",1
 "Greensboro, North Carolina",0
 "Greenville, North Carolina",0
 "High Point, North Carolina",0
-"Jacksonville, North Carolina",3
-"Kannapolis, North Carolina",9
+"Jacksonville, North Carolina",1
+"Kannapolis, North Carolina",1
 "Raleigh, North Carolina",0
-"Rocky Mount, North Carolina",8
+"Rocky Mount, North Carolina",0
 "Wilmington, North Carolina",0
-"Winston-Salem, North Carolina",2
+"Winston-Salem, North Carolina",0
 "Bismarck, North Dakota",0
 "Fargo, North Dakota",0
-"Grand Forks, North Dakota",9
+"Grand Forks, North Dakota",1
 "Akron, Ohio",0
 "Canton, Ohio",0
-"Cincinnati, Ohio",2
+"Cincinnati, Ohio",0
 "Cleveland, Ohio",0
-"Columbus, Ohio",2
-"Cuyahoga Falls, Ohio",8
+"Columbus, Ohio",0
+"Cuyahoga Falls, Ohio",0
 "Dayton, Ohio",0
-"Elyria, Ohio",8
-"Hamilton, Ohio",8
-"Kettering, Ohio",8
-"Lakewood, Ohio",8
+"Elyria, Ohio",0
+"Hamilton, Ohio",0
+"Kettering, Ohio",0
+"Lakewood, Ohio",0
 "Lorain, Ohio",0
-"Middletown, Ohio",8
-"Newark, Ohio",8
+"Middletown, Ohio",0
+"Newark, Ohio",0
 "Parma, Ohio",0
-"Springfield, Ohio",8
-"Toledo, Ohio",2
-"Youngstown, Ohio",10
+"Springfield, Ohio",0
+"Toledo, Ohio",0
+"Youngstown, Ohio",0
 "Broken Arrow, Oklahoma",0
 "Edmond, Oklahoma",0
-"Enid, Oklahoma",9
+"Enid, Oklahoma",1
 "Lawton, Oklahoma",0
-"Midwest City, Oklahoma",8
-"Moore, Oklahoma",8
+"Midwest City, Oklahoma",0
+"Moore, Oklahoma",0
 "Norman, Oklahoma",0
-"Oklahoma City, Oklahoma",2
+"Oklahoma City, Oklahoma",0
 "Tulsa, Oklahoma",0
-"Albany, Oregon",8
+"Albany, Oregon",0
 "Beaverton, Oregon",0
 "Bend, Oregon",0
-"Corvallis, Oregon",10
+"Corvallis, Oregon",0
 "Eugene, Oregon",0
 "Gresham, Oregon",0
 "Hillsboro, Oregon",0
-"Medford, Oregon",2
+"Medford, Oregon",0
 "Portland, Oregon",0
 "Salem, Oregon",1
-"Springfield, Oregon",8
-"Tigard, Oregon",8
+"Springfield, Oregon",0
+"Tigard, Oregon",0
 "Allentown, Pennsylvania",0
-"Bethlehem, Pennsylvania",2
+"Bethlehem, Pennsylvania",0
 "Erie, Pennsylvania",0
-"Harrisburg, Pennsylvania",8
-"Lancaster, Pennsylvania",10
-"Philadelphia, Pennsylvania",2
-"Pittsburgh, Pennsylvania",2
-"Reading, Pennsylvania",2
+"Harrisburg, Pennsylvania",0
+"Lancaster, Pennsylvania",0
+"Philadelphia, Pennsylvania",0
+"Pittsburgh, Pennsylvania",0
+"Reading, Pennsylvania",0
 "Scranton, Pennsylvania",0
 "Cranston, Rhode Island",0
 "Pawtucket, Rhode Island",0
@@ -587,94 +586,94 @@ city_state,sum_na
 "Rock Hill, South Carolina",0
 "Rapid City, South Dakota",0
 "Sioux Falls, South Dakota",0
-"Bartlett, Tennessee",8
+"Bartlett, Tennessee",0
 "Chattanooga, Tennessee",0
 "Clarksville, Tennessee",0
 "Franklin, Tennessee",0
-"Hendersonville, Tennessee",8
+"Hendersonville, Tennessee",0
 "Jackson, Tennessee",0
 "Johnson City, Tennessee",1
-"Kingsport, Tennessee",8
+"Kingsport, Tennessee",0
 "Knoxville, Tennessee",0
 "Memphis, Tennessee",0
 "Murfreesboro, Tennessee",1
-"Spring Hill, Tennessee",8
+"Spring Hill, Tennessee",0
 "Abilene, Texas",1
 "Allen, Texas",0
 "Amarillo, Texas",0
 "Arlington, Texas",0
-"Austin, Texas",2
+"Austin, Texas",0
 "Baytown, Texas",0
 "Beaumont, Texas",0
 "Brownsville, Texas",0
 "Bryan, Texas",0
-"Burleson, Texas",10
-"Carrollton, Texas",2
-"Cedar Park, Texas",3
-"College Station, Texas",2
-"Conroe, Texas",2
-"Corpus Christi, Texas",2
+"Burleson, Texas",0
+"Carrollton, Texas",0
+"Cedar Park, Texas",1
+"College Station, Texas",0
+"Conroe, Texas",0
+"Corpus Christi, Texas",0
 "Dallas, Texas",0
 "Denton, Texas",0
-"DeSoto, Texas",10
+"DeSoto, Texas",0
 "Edinburg, Texas",0
-"El Paso, Texas",2
-"Euless, Texas",8
+"El Paso, Texas",0
+"Euless, Texas",0
 "Fort Worth, Texas",0
 "Frisco, Texas",0
-"Galveston, Texas",10
+"Galveston, Texas",0
 "Garland, Texas",0
 "Georgetown, Texas",1
 "Grand Prairie, Texas",0
-"Grapevine, Texas",10
+"Grapevine, Texas",0
 "Harlingen, Texas",0
 "Houston, Texas",0
 "Irving, Texas",0
 "Killeen, Texas",0
-"Kyle, Texas",9
-"Laredo, Texas",2
-"League City, Texas",2
-"Leander, Texas",3
+"Kyle, Texas",1
+"Laredo, Texas",0
+"League City, Texas",0
+"Leander, Texas",1
 "Lewisville, Texas",0
-"Little Elm, Texas",10
+"Little Elm, Texas",0
 "Longview, Texas",0
 "Lubbock, Texas",0
 "McAllen, Texas",0
 "McKinney, Texas",0
-"Mansfield, Texas",2
+"Mansfield, Texas",0
 "Mesquite, Texas",0
-"Midland, Texas",3
+"Midland, Texas",1
 "Mission, Texas",0
-"Missouri City, Texas",3
+"Missouri City, Texas",1
 "New Braunfels, Texas",1
 "North Richland Hills, Texas",0
 "Odessa, Texas",0
-"Pasadena, Texas",2
+"Pasadena, Texas",0
 "Pearland, Texas",0
 "Pflugerville, Texas",0
 "Pharr, Texas",0
 "Plano, Texas",0
-"Port Arthur, Texas",10
-"Richardson, Texas",2
+"Port Arthur, Texas",0
+"Richardson, Texas",0
 "Round Rock, Texas",1
-"Rowlett, Texas",10
+"Rowlett, Texas",0
 "San Angelo, Texas",1
 "San Antonio, Texas",0
 "San Marcos, Texas",1
-"Sugar Land, Texas",3
+"Sugar Land, Texas",1
 "Temple, Texas",0
-"Texas City, Texas",10
+"Texas City, Texas",0
 "Tyler, Texas",0
 "Victoria, Texas",0
 "Waco, Texas",0
 "Wichita Falls, Texas",1
-"Wylie, Texas",8
-"Draper, Utah",8
-"Herriman, Utah",10
+"Wylie, Texas",0
+"Draper, Utah",0
+"Herriman, Utah",0
 "Layton, Utah",0
-"Lehi, Utah",2
-"Logan, Utah",8
-"Millcreek, Utah",10
+"Lehi, Utah",0
+"Logan, Utah",0
+"Millcreek, Utah",0
 "Ogden, Utah",0
 "Orem, Utah",0
 "Provo, Utah",0
@@ -682,29 +681,29 @@ city_state,sum_na
 "Salt Lake City, Utah",0
 "Sandy, Utah",0
 "South Jordan, Utah",0
-"Taylorsville, Utah",10
+"Taylorsville, Utah",0
 "West Jordan, Utah",0
-"West Valley City, Utah",2
-"Auburn, Washington",2
+"West Valley City, Utah",0
+"Auburn, Washington",0
 "Bellevue, Washington",0
 "Bellingham, Washington",0
-"Burien, Washington",8
+"Burien, Washington",0
 "Everett, Washington",0
 "Federal Way, Washington",0
 "Kennewick, Washington",0
 "Kent, Washington",0
-"Kirkland, Washington",2
-"Lacey, Washington",8
-"Lakewood, Washington",8
+"Kirkland, Washington",0
+"Lacey, Washington",0
+"Lakewood, Washington",0
 "Marysville, Washington",0
-"Olympia, Washington",8
-"Pasco, Washington",2
+"Olympia, Washington",0
+"Pasco, Washington",0
 "Redmond, Washington",0
 "Renton, Washington",0
-"Richland, Washington",8
+"Richland, Washington",0
 "Sammamish, Washington",0
 "Seattle, Washington",0
-"Shoreline, Washington",8
+"Shoreline, Washington",0
 "Spokane, Washington",0
 "Spokane Valley, Washington",0
 "Tacoma, Washington",0
@@ -715,12 +714,12 @@ city_state,sum_na
 "Green Bay, Wisconsin",0
 "Janesville, Wisconsin",0
 "Kenosha, Wisconsin",0
-"La Crosse, Wisconsin",8
+"La Crosse, Wisconsin",0
 "Madison, Wisconsin",0
 "Milwaukee, Wisconsin",0
-"Oshkosh, Wisconsin",3
+"Oshkosh, Wisconsin",1
 "Racine, Wisconsin",0
 "Waukesha, Wisconsin",0
-"West Allis, Wisconsin",8
-"Casper, Wyoming",8
+"West Allis, Wisconsin",0
+"Casper, Wyoming",0
 "Cheyenne, Wyoming",0
