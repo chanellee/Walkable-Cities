@@ -72,3 +72,5 @@ median_aqi,79
 violent_crime,127
 property_crime,127
 walkable,0
+walkable_detail,0
+aqi_concern_level,0
